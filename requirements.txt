@@ -1,0 +1,8 @@
+stats-arrays
+xlrd
+pandas
+jupyter
+
+
+
+
