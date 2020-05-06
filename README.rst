@@ -1,8 +1,8 @@
 .. General
 
-================================================================
-Solid Waste Optimization Life-cycle Framework in Python(swolfpy)
-================================================================
+======================================================================
+Input data for swolfpy's life-cycle process models (swolfpy_inputdata)
+======================================================================
 
 .. image:: https://img.shields.io/pypi/v/swolfpy_inputdata.svg
         :target: https://pypi.python.org/pypi/swolfpy_inputdata
@@ -49,7 +49,7 @@ Installation
 
         conda update conda
 
-3- Create a new environment for swolfpy_inputdata::
+3- Create a new environment for swolfpy::
 
         conda create --name swolfpy python=3.7
 

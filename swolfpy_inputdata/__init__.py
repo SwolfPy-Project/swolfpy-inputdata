@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Feb 29 01:17:28 2020
+@author: Mojtaba Sardarmehni
 
-@author: msmsa
+Input data for the swolfpy's life_cycle process models
 """
 
 __all__ = [
@@ -19,7 +19,7 @@ __all__ = [
     'SF_Col_Input'
 ]
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 
 from .MC import MC

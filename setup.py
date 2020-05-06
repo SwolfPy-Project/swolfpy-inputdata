@@ -64,7 +64,7 @@ setup(
         'Topic :: Scientific/Engineering :: Visualization',
         'Natural Language :: English',
     ],
-    description="Input data for Solid Waste Optimization Life-cycle Framework in Python(SwolfPy)",
+    description="Input data for swolfpy's life-cycle process models (swolfpy_inputdata)",
     install_requires=requirements,
     license="GNU GENERAL PUBLIC LICENSE V2",
     long_description=readme + '\n\n' + history,
@@ -78,6 +78,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://bitbucket.org/swolfpy/swolfpy-inputdata',
-    version='0.1.0',
+    version='0.1.1',
     zip_safe=False,
 )

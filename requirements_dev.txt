@@ -1,4 +1,4 @@
-xlrd
 stats-arrays
+xlrd
 pandas
 jupyter
