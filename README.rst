@@ -26,7 +26,7 @@ Input data for swolfpy's life-cycle process models (swolfpy_inputdata)
 
 * Free software: GNU GENERAL PUBLIC LICENSE V2
 * Documentation: https://swolfpy.readthedocs.io.
-* Repository: https://bitbucket.org/swolfpy/swolfpy_inputdata
+* Repository: https://bitbucket.org/swolfpy/swolfpy-inputdata
 * Other links: 
         https://go.ncsu.edu/swolfpy
 
