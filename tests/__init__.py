@@ -1,1 +1,2 @@
-"""Unit test package for pyswolf."""
+"""Unit test package for swolfpy_inputdata
+."""
