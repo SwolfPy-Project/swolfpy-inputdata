@@ -2,6 +2,7 @@ stats-arrays
 xlrd
 pandas
 jupyter
-
-
+pytest
+pytest-flakes
+pytest-cov
 
