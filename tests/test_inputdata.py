@@ -13,7 +13,7 @@ def Input_Data():
     yield A
 
 def test_Input_Data():
-    InputData(Path(__file__).parent.parent/'swolfpy_inputdata/Data/Test_input.csv')
+    InputData(Path(__file__).parent.parent/'swolfpy_inputdata/Data/CommonData.csv')
 
 def test_Input_Data2():
     InputData(Path(__file__).parent/'Test_input.csv')
