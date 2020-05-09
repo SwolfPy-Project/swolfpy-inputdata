@@ -9,14 +9,23 @@ from pathlib import Path
 
 @pytest.fixture(scope="module")
 def Input_Data():
-    A = InputData(Path(__file__).parent/'Test_input.csv')
+    A = InputData(Path(__file__).parent/'Input.csv')
     yield A
 
 def test_Input_Data():
     InputData(Path(__file__).parent.parent/'swolfpy_inputdata/Data/CommonData.csv')
 
+def test_Input_Data1():
+    InputData(Path(__file__).parent.parent/'swolfpy_inputdata/Data/Input.csv')
+
 def test_Input_Data2():
-    InputData(Path(__file__).parent/'Test_input.csv')
+    InputData(Path(__file__).parent.parent/'swolfpy_inputdata/tests/Input.csv')
+
+def test_Input_Data3():
+    InputData(Path(__file__).parent.parent/'tests/Input.csv')
+
+def test_Input_Data4():
+    InputData(Path(__file__).parent/'Input.csv')
 
 def test_InputData(Input_Data):
     assert list(Input_Data.Data.columns) == ['Category', 'Dictonary_Name', 'Parameter', 'Name', 'amount', 'unit',
