@@ -14,19 +14,19 @@ class Technosphere_Input():
         if LCI_path:
             self.technosphere_path = LCI_path
         else:
-            self.technosphere_path = str(Path(__file__).parent)+'\Data\Technosphere_LCI.csv'
+            self.technosphere_path = Path(__file__).parent/'Data/Technosphere_LCI.csv'
         
         #Checking the path for technosphere LCI references
         if LCI_Reference_path:
             self.LCI_Reference_path = LCI_Reference_path
         else:
-            self.LCI_Reference_path = str(Path(__file__).parent)+'\Data\Technosphere_References.csv'
+            self.LCI_Reference_path = Path(__file__).parent/'Data/Technosphere_References.csv'
         
         #Checking the path for Ecospold2
         if Ecospold2_Path:
             self.Ecospold2_Path = Ecospold2_Path
         else:
-            self.Ecospold2_Path = str(Path(__file__).parent)+'\Data\Ecospold2'
+            self.Ecospold2_Path = Path(__file__).parent/'Data/Ecospold2'
         
         #Read the data
         self.LCI_swolfpy_data = pd.read_csv(self.technosphere_path)
