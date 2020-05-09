@@ -10,4 +10,4 @@ pipelines:
         script:
           - pip install -r requirements.txt
           - pip install swolfpy-inputdata
-          - pytest 
+          - py.test 

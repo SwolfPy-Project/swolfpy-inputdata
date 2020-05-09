@@ -1,0 +1,7 @@
+Category,Dictonary_Name,Parameter,Name,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
+Cat1,Dic1,Par1,Name1,1,Unit1,,,,,,,,
+Cat1,Dic1,Par2,Name2,1.5,Unit2,,,,,,,,
+Cat1,Dic1,Par3,Name3,3,Unit3,,,,,,,,
+Cat2,Dic2,Par1,Name1,1,Unit1,,,,,,,,
+Cat3,Dic2,Par2,Name2,1.5,Unit2,,,,,,,,
+Cat4,Dic2,Par3,Name3,3,Unit3,,,,,,,,

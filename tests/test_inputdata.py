@@ -12,6 +12,11 @@ def Input_Data():
     A = InputData(Path(__file__).parent/'Test_input.csv')
     yield A
 
+def test_Input_Data():
+    InputData(Path(__file__).parent.parent/'swolfpy_inputdata/Data/Test_input.csv')
+
+def test_Input_Data2():
+    InputData(Path(__file__).parent/'Test_input.csv')
 
 def test_InputData(Input_Data):
     assert list(Input_Data.Data.columns) == ['Category', 'Dictonary_Name', 'Parameter', 'Name', 'amount', 'unit',
