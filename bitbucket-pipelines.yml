@@ -10,9 +10,9 @@ pipelines:
         script:
           - pip install -r requirements.txt
           - pip install swolfpy-inputdata
-<<<<<<< HEAD
-          - py.test 
-=======
           - ls -R /opt/atlassian/pipelines/agent/build/
           - ls -R /opt/atlassian/pipelines/agent/build/tests
->>>>>>> e74e56b4455f2e2dbdc2d2b4a3f74930602947d3
+          - py.test 
+
+
+
