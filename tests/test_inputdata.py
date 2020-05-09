@@ -9,7 +9,7 @@ from pathlib import Path
 
 @pytest.fixture(scope="module")
 def Input_Data():
-    A = InputData(Path(__file__).parent/'Input.csv')
+    A = InputData(Path(__file__).parent/'Test_Input.csv')
     yield A
 
 def test_InputData(Input_Data):
