@@ -16,14 +16,15 @@ class InputData(MC):
     
     Main functionalities include:
     loading data, updating data and generating random number for data based on the defined probabiliy distributions.
+    
+    :param input_data_path: absolute path to the input data file
+    :type input_data_path: str
+    :param eval_parameter: If the parameters are tuple instead of str, it will evalute their real value.
+    :type eval_parameter: bool, optional
+        
     """
     def __init__(self,input_data_path,eval_parameter=False):
         """Initialize ``InputData`` class
-        
-        :param input_data_path: absolute path to the input data file
-        :type input_data_path: str
-        :param eval_parameter: If the parameters are tuple instead of str, it will evalute their real value.
-        :type eval_parameter: bool, optional
         """
         self.input_data_path = input_data_path            
         self.Data=pd.read_csv(self.input_data_path,dtype={'amount':float,'uncertainty_type':float,'loc':float,

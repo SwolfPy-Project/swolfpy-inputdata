@@ -11,6 +11,8 @@ from pathlib import Path
 
 class MC():
     """
+    .. _Class_MC:
+        
     This class generates random number for Monte-Carlo simulations. This class is the interface to `stats_arrays <https://pypi.org/project/stats-arrays/>`_ package.
     
     The example below is showing the usage of ``stats_arrays``.
@@ -32,30 +34,28 @@ class MC():
     >>> my_rng.next()
     array([ 2.74414022,  3.54748507])
     
-    .. _Class_MC: 
     
+    :param input_dict: list of dictionaries that include input data (see the example)
+    :type input_dict: list
+    
+    >>> from swolfpy_inputdata import MC
+    >>> input_dict={'Cat1': {'Par1': {'Name': 'Name1','amount': 1.0,'unit': 'Unit1',
+    ...                                 'uncertainty_type': 3,'loc': 1,'scale':0.2 ,'shape': None,
+    ...                                 'minimum': None,'maximum': None,
+    ...                                 'Reference': None,'Comment': None},
+    ...                     'Par2': {'Name': 'Name2','amount': 1.5,'unit': 'Unit2',
+    ...                                 'uncertainty_type': 3,'loc': 1.5,'scale': 0.4,'shape': None,
+    ...                                 'minimum': None,'maximum': None,
+    ...                                 'Reference': None,'Comment': None}}}
+    >>> test_MC = MC(input_dict)
+    >>> test_MC.setup_MC()
+    >>> test_MC.gen_MC()
+    [(('Cat1', 'Par1'), 1.0554408376879747),
+     (('Cat1', 'Par2'), 1.9366617123732333)]
     
     """
     def __init__(self,input_dict):
         """ Initialize ``MC`` class
-        
-        :param input_dict: list of dictionaries that include input data (see the example)
-        :type input_dict: list
-        
-        >>> from swolfpy_inputdata import MC
-        >>> input_dict={'Cat1': {'Par1': {'Name': 'Name1','amount': 1.0,'unit': 'Unit1',
-        ...                                 'uncertainty_type': 3,'loc': 1,'scale':0.2 ,'shape': None,
-        ...                                 'minimum': None,'maximum': None,
-        ...                                 'Reference': None,'Comment': None},
-        ...                     'Par2': {'Name': 'Name2','amount': 1.5,'unit': 'Unit2',
-        ...                                 'uncertainty_type': 3,'loc': 1.5,'scale': 0.4,'shape': None,
-        ...                                 'minimum': None,'maximum': None,
-        ...                                 'Reference': None,'Comment': None}}}
-        >>> test_MC = MC(input_dict)
-        >>> test_MC.setup_MC()
-        >>> test_MC.gen_MC()
-        [(('Cat1', 'Par1'), 1.0554408376879747),
-         (('Cat1', 'Par2'), 1.9366617123732333)]
         """
         self.input_dict = input_dict
         
