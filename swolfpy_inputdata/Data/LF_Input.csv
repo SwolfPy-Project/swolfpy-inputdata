@@ -37,7 +37,7 @@ Leachate,Leachate,LF_time1,time after waste placement that recirculation or trea
 Leachate,Leachate,LF_time3,time after waste placement that leachate collection stops,80,years,,,,,,,,
 Leachate,Leachate,LF_eff_BOD,BOD REMOVAL EFFICIENCY,92.1,%,,,,,,,,
 Leachate,Leachate,LF_eff_COD,COD REMOVAL EFFICIENCY,80,%,,,,,,,,
-Leachate,Leachate,LF_eff_NH3,NH3 REMOVAL EFFICIENCY,21.6,%,,,,,,,,
+Leachate,Leachate,LF_eff_NH3,NH3 REMOVAL EFFICIENCY,98,%,,,,,,,,
 Leachate,Leachate,LF_eff_PO4,PO4 REMOVAL EFFICIENCY,21.6,%,,,,,,,,
 Leachate,Leachate,LF_eff_TSS,TSS REMOVAL EFFICIENCY,96,%,,,,,,,,
 Leachate,Leachate,LF_eff_mtls,metals REMOVAL EFFICIENCY,85,%,,,,,,,,

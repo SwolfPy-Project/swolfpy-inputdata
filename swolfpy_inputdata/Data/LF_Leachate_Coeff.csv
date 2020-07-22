@@ -1,7 +1,7 @@
 Emission,Surface_water,Ground_water,Concentrations (kg/L),Removal Efficiency (%)
 "BOD5, Biological Oxygen Demand","('biosphere3', '70d467b6-115e-43c5-add2-441de9411348')","('biosphere3', '57c27ba7-a61a-4932-8cd5-095c88ff0245')",,92.1
 "COD, Chemical Oxygen Demand","('biosphere3', 'fc0b5c85-3b49-42c2-a3fd-db7e57b696e3')","('biosphere3', 'be10dd54-eb4d-48ae-9e14-7d79ce8b170d')",,80
-"Ammonium, ion","('biosphere3', '13331e67-6006-48c4-bdb4-340c12010036')","('biosphere3', '736f52e8-9703-4076-8909-7ae80a7f8005')",0.000342682,21.6
+"Ammonium, ion","('biosphere3', '13331e67-6006-48c4-bdb4-340c12010036')","('biosphere3', '736f52e8-9703-4076-8909-7ae80a7f8005')",0.000342682,98
 "Arsenic, ion","('biosphere3', '8c8ffaa5-84ed-4668-ba7d-80fd0f47013f')","('biosphere3', '1f607ae2-b42d-4411-90b8-e9bbac66a554')",3.00E-08,85
 Barium,"('biosphere3', '2c872773-0a29-4831-93b9-d49b116fa7d5')","('biosphere3', 'd68f41b3-6887-49a8-8efa-96812f8ec9f6')",8.51E-07,85
 "Cadmium, ion","('biosphere3', 'af83b42f-a4e6-4457-be74-46a87798f82a')","('biosphere3', '3937f5a5-b4a4-434d-9fc3-1d29064fc3f8')",6.95E-09,85
