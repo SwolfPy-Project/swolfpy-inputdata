@@ -69,3 +69,8 @@ class InputData(MC):
         """
         super().__init__(self.Input_dict)
         super().setup_MC(seed)
+
+### Reset static Values
+    def reset_static_vals(self):
+        for i in self.Data.index:
+            exec("self.%s[self.Data.Parameter[i]]['amount'] = self.Data.loc[i,'amount']" %self.Data.Dictonary_Name[i])
