@@ -77,7 +77,7 @@ setup(
     data_files = files,
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://bitbucket.org/swolfpy/swolfpy-inputdata',
-    version='0.1.5',
+    url='https://bitbucket.org/msm_sardar/swolfpy-inputdata',
+    version='0.1.6',
     zip_safe=False,
 )

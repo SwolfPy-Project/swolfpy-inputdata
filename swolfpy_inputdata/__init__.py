@@ -19,7 +19,7 @@ __all__ = [
     'SF_Col_Input'
 ]
 
-__version__ = '0.1.5'
+__version__ = '0.1.6'
 
 
 from .MC import MC
