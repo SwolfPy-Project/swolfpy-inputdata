@@ -19,25 +19,7 @@ requirements = [
 
 setup_requirements = [ ]
 
-package_input_data = {'swolfpy_inputdata.Data':['AD_Input.csv',
-                                'CommonData.csv',
-                                'Technosphere_LCI.csv',
-                                'Technosphere_References.csv',
-                                'Composting_Input.csv',
-                                'LF_Gas_emission_factors.csv',
-                                'LF_Input.csv',
-                                'LF_Leachate_Allocation.csv',
-                                'LF_Leachate_Coeff.csv',
-                                'LF_Gas_emission_factors.xlsx',
-                                'LF_Leachate_Allocation.xlsx',
-                                'SF_collection_Input.csv',
-                                'SF_collection_Input-Material_dependent.csv',
-                                'SF_input_col.csv',
-                                'SS_MRF_Input.csv',
-                                'Reprocessing_Input.csv',
-                                'WTE_Input.csv',                                
-                                'Material properties - process modles.xlsx',
-                                'Material properties.xlsx']}
+package_input_data = {'swolfpy_inputdata.Data':['*.csv']}
                                                                 
 
 test_requirements = [ ]
