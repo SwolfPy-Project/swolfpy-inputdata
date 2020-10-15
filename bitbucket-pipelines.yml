@@ -9,9 +9,4 @@ pipelines:
     - step:
         script:
           - pip install -r requirements.txt
-          - ls -R /opt/atlassian/pipelines/agent/build/
-          - ls -R /opt/atlassian/pipelines/agent/build/tests
-          - py.test 
-
-
-
+          - py.test
