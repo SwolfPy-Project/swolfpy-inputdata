@@ -3,6 +3,8 @@ xlrd
 pandas
 jupyter
 pytest
-pytest-flakes
 pytest-cov
+pytest-flakes
+pytest-pep8
+coverage
 
