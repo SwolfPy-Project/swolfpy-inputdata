@@ -1,4 +1,7 @@
-Materials,Comp,RWC,SSR,DSR,MSR,SSYW,REC,WetRes,SSO,DryRes,MRDO,SSYWDO,MSRDO,Bulk_Density
+,Comp,RWC,SSR,DSR,MSR,SSYW,REC,WetRes,SSO,DryRes,MRDO,SSYWDO,MSRDO,Bulk_Density
+Name,,,,,,,,,,,,,,
+Unit,Mg component/Mg,,,,,,,,,,,,,kg/m3
+Source,,,,,,,,,,,,,,
 Yard_Trimmings_Leaves,0.04473,1,0,0,0,0.9606,0,1,0.9,1,1,0.9,0,500
 Yard_Trimmings_Grass,0.04473,1,0,0,0,0.9759,0,1,0.9,1,1,0.9,0,500
 Yard_Trimmings_Branches,0.04473,1,0,0,0,0.9416,0,1,0.9,1,1,0.9,0,500
