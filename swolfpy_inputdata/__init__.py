@@ -4,6 +4,18 @@
 
 Input data for the swolfpy's life_cycle process models
 """
+from .MC import MC
+from .InputData import InputData
+from .CommonData import CommonData
+from .Technosphere_Input import Technosphere_Input
+from .LF_Input import LF_Input
+from .WTE_Input import WTE_Input
+from .Comp_Input import Comp_Input
+from .AD_Input import AD_Input
+from .SS_MRF_Input import SS_MRF_Input
+from .Reproc_Input import Reproc_Input
+from .SF_Col_Input import SF_Col_Input
+
 
 __all__ = [
     'MC',
@@ -20,16 +32,3 @@ __all__ = [
 ]
 
 __version__ = '0.1.6'
-
-
-from .MC import MC
-from .InputData import InputData
-from .CommonData import CommonData
-from .Technosphere_Input import Technosphere_Input
-from .LF_Input import LF_Input
-from .WTE_Input import WTE_Input
-from .Comp_Input import Comp_Input
-from .AD_Input import AD_Input
-from .SS_MRF_Input import SS_MRF_Input
-from .Reproc_Input import Reproc_Input
-from .SF_Col_Input import SF_Col_Input

@@ -5,24 +5,30 @@ Created on Fri Nov 22 11:56:34 2019
 @author: msardar2
 """
 from .InputData import InputData
+from .CommonData import CommonData
 from pathlib import Path
 import pandas as pd
 
+
 class Comp_Input(InputData):
-    def __init__(self,input_data_path = None):
+    def __init__(self, input_data_path=None, CommonDataObjct=None):
         if input_data_path:
             self.input_data_path = input_data_path
         else:
-            self.input_data_path = Path(__file__).parent/'Data/Composting_Input.csv'
+            self.input_data_path = Path(__file__).parent / 'Data/Comp_Input.csv'
 
-        # Initialize the superclass 
+        # Initialize the superclass
         super().__init__(self.input_data_path)
-        
-        self.process_data=pd.read_excel(Path(__file__).parent/'Data/Material properties - process modles.xlsx', sheet_name = 'Composting', index_col = 'Parameter')
-        self.process_data.fillna(0,inplace=True)
 
-### Assumed Composition 
-        self.Assumed_Comp = [0.1915,0.1447,0.1414,0.3977,0.0221,0.0035,0.0000,0.0031,0.0004,0.0035,0.0102,0.0019,0.0006,0.0015,
-                             0.0019,0.0015,0.0000,0.0206,0.0011,0.0020,0.0038,0.0000,0.0000,0.0000,0.0055,0.0158,0.0008,0.0002,
-                             0.0005,0.0006,0.0000,0.0000,0.0001,0.0077,0.0033,0.0022,0.0000,0.0000,0.0000,0.0102,0.0000,0.0000,
-                             0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000]
+        if not CommonDataObjct:
+            CommonDataObjct = CommonData()
+
+        self.process_data = pd.read_csv(Path(__file__).parent / "Data/Comp_Input_MaterialDependent.csv",
+                                        index_col=0,
+                                        header=0,
+                                        skiprows=[1, 2, 3]).loc[CommonDataObjct.Index].astype(float)
+        self.process_data.fillna(0, inplace=True)
+        self.process_data_info = pd.read_csv(Path(__file__).parent / "Data/Comp_Input_MaterialDependent.csv",
+                                             index_col=0,
+                                             header=0,
+                                             nrows=3)
