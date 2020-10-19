@@ -1,4 +1,4 @@
-Category,Dictonary_Name,Parameter,Name,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
+Category,Dictonary_Name,Parameter Name,Parameter Description,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
 SF_Collection,Col,res_pop,Single-Family Population,100000,People,,,,,,,,
 SF_Collection,Col,res_per_dwel,Residents per house,2.69,people/house,,,,,,,,
 SF_Collection,Col,res_gen,Residential Generation rate,2.05,kg/person-day,,,,,,,,

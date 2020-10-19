@@ -15,12 +15,12 @@ def Input_Data():
 
 
 def test_InputData(Input_Data):
-    assert list(Input_Data.Data.columns) == ['Category', 'Dictonary_Name', 'Parameter', 'Name', 'amount', 'unit',
+    assert list(Input_Data.Data.columns) == ['Category', 'Dictonary_Name', 'Parameter Name', 'Parameter Description', 'amount', 'unit',
                                              'uncertainty_type', 'loc', 'scale', 'shape', 'minimum', 'maximum',
                                              'Reference', 'Comment']
     assert Input_Data.Dic1
     assert Input_Data.Dic2
-    assert Input_Data.Dic1['Par1']['Name'] == 'Name1'
+    assert Input_Data.Dic1['Par1']['Parameter Description'] == 'Name1'
     assert Input_Data.Dic1['Par1']['amount'] == 1
     assert Input_Data.Dic1['Par1']['uncertainty_type'] == 0
 

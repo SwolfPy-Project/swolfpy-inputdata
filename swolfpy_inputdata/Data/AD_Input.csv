@@ -1,4 +1,4 @@
-Category,Dictonary_Name,Parameter,Name,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
+Category,Dictonary_Name,Parameter Name,Parameter Description,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
 Land_app,Land_app,distLand,Distance to application site,20,km,,,,,,,,
 Land_app,Land_app,erLand,Empty return from land application (0=no; 1=yes),1,0/1,,,,,,,,
 Land_app,Land_app,land_payload,Actual payload of truck used to haul soil amendment,7.3,Mg,,,,,,,,

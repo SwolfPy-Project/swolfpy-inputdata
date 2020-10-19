@@ -1,4 +1,4 @@
-Category,Dictonary_Name,Parameter,Name,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
+Category,Dictonary_Name,Parameter Name,Parameter Description,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
 MW,MW,C,Carbon MW,12.011,g/mol,,,,,,,,
 MW,MW,P,Phosphorus MW,30.974,g/mol,,,,,,,,
 MW,MW,H,Hydrogen MW,1.008,g/mol,,,,,,,,

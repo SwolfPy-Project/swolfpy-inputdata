@@ -1,4 +1,4 @@
-Category,Dictonary_Name,Parameter,Name,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
+Category,Dictonary_Name,Parameter Name,Parameter Description,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
 OCC,OCC,"('Technosphere', 'Industrial_Residual_Disposal')",,-0.003112381,Mg,,,,,,,,
 OCC,OCC,"('Technosphere', 'Industrial_Wastewater_Treatment')",,-0.622464,Mg,,,,,,,,
 OCC,OCC,"('Technosphere', 'Electricity_consumption')",Electricity_consumption,242.028037,kWh,,,,,,,,

@@ -28,10 +28,7 @@ class CommonData(InputData):
                       'Plastic_Non_Recyclable', 'Ferrous_Cans', 'Ferrous_Metal_Other', 'Aluminum_Cans', 'Aluminum_Foil',
                       'Aluminum_Other', 'Ferrous_Non_recyclable', 'Al_Non_recyclable', 'Glass_Brown', 'Glass_Green',
                       'Glass_Clear', 'Mixed_Glass', 'Glass_Non_recyclable', 'Misc_Organic', 'Misc_Inorganic', 'E_waste',
-                      'Aerobic_Residual', 'Anaerobic_Residual', 'Bottom_Ash', 'Fly_Ash', 'Diapers_and_sanitary_products',
-                      'Waste_Fraction_47', 'Waste_Fraction_48', 'Waste_Fraction_49', 'Waste_Fraction_50', 'Waste_Fraction_51',
-                      'Waste_Fraction_52', 'Waste_Fraction_53', 'Waste_Fraction_54', 'Waste_Fraction_55', 'Waste_Fraction_56',
-                      'Waste_Fraction_57', 'Waste_Fraction_58', 'Waste_Fraction_59', 'Waste_Fraction_60']
+                      'Aerobic_Residual', 'Anaerobic_Residual', 'Bottom_Ash', 'Fly_Ash', 'Diapers_and_sanitary_products']
 
         ### Read Material properties
         self.Material_Properties = pd.read_csv(Path(__file__).parent / "Data/Material properties.csv",

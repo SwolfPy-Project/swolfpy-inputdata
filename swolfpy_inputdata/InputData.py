@@ -30,7 +30,7 @@ class InputData(MC):
                                                              'scale': float, 'shape': float, 'minimum': float, 'maximum': float})
 
         if eval_parameter:
-            self.Data['Parameter'] = self.Data['Parameter'].apply(ast.literal_eval)
+            self.Data['Parameter Name'] = self.Data['Parameter Name'].apply(ast.literal_eval)
 
         # Setting uncertainty type to 0 : Undefined ; when it is not defined
         self.Data['uncertainty_type'].fillna(0, inplace=True)
@@ -41,9 +41,11 @@ class InputData(MC):
             if self.Data.Category[i] not in self.Input_dict.keys():
                 exec("self.%s = {}" % self.Data.Dictonary_Name[i])
                 exec("self.Input_dict[self.Data.Category[i]] = self.%s" % self.Data.Dictonary_Name[i])
-                exec("self.%s[self.Data.Parameter[i]] = dict(zip(self.keys,self.Data.loc[i,'Name':]))" % self.Data.Dictonary_Name[i])
+                exec("self.%s[self.Data['Parameter Name'][i]] = dict(zip(self.keys,self.Data.loc[i,'Parameter Description':]))" %
+                     self.Data.Dictonary_Name[i])
             else:
-                exec("self.%s[self.Data.Parameter[i]] = dict(zip(self.keys,self.Data.loc[i,'Name':]))" % self.Data.Dictonary_Name[i])
+                exec("self.%s[self.Data['Parameter Name'][i]] = dict(zip(self.keys,self.Data.loc[i,'Parameter Description':]))" %
+                     self.Data.Dictonary_Name[i])
 
 ### Update_Input
     def Update_input(self, NewData):
@@ -53,7 +55,7 @@ class InputData(MC):
         :type NewData: 'pandas.DataFrame'
         """
         for i in NewData.index:
-            exec("self.%s[NewData.Parameter[i]] = dict(zip(self.keys,NewData.loc[i,'Name':]))" % NewData.Dictonary_Name[i])
+            exec("self.%s[NewData['Parameter Name'][i]] = dict(zip(self.keys,NewData.loc[i,'Parameter Description':]))" % NewData.Dictonary_Name[i])
             self.Data.loc[i] = NewData.loc[i]
 
 ### Monte_carlo
@@ -72,4 +74,4 @@ class InputData(MC):
 ### Reset static Values
     def reset_static_vals(self):
         for i in self.Data.index:
-            exec("self.%s[self.Data.Parameter[i]]['amount'] = self.Data.loc[i,'amount']" % self.Data.Dictonary_Name[i])
+            exec("self.%s[self.Data['Parameter Name'][i]]['amount'] = self.Data.loc[i,'amount']" % self.Data.Dictonary_Name[i])

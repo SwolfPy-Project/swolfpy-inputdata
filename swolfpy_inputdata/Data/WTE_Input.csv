@@ -1,4 +1,4 @@
-Category,Dictonary_Name,Parameter,Name,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
+Category,Dictonary_Name,Parameter Name,Parameter Description,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
 Economic_parameters,Economic_parameters,WTE_lifetime,WTE Lifetime,20,years,,,,,,,,
 Economic_parameters,Economic_parameters,WTE_capacity_factor,WTE Capacity Factor,0.91,None,,,,,,,,
 Economic_parameters,Economic_parameters,Unit_WTE_capital_cost,Unit WTE Capital Cost,520,$/design tons per year,,,,,,,,

@@ -1,4 +1,4 @@
-Category,Dictonary_Name,Parameter,Name,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
+Category,Dictonary_Name,Parameter Name,Parameter Description,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
 Recoverable Material: Is Recovered?,Rec_material,OCC,Is OCC Recovered?,1,0/1/2 (No/Yes_Automatic/Yes_Manual),,,,,,,,
 Recoverable Material: Is Recovered?,Rec_material,Non_OCC_Fiber,Is Non_OCC_Fiber Recovered?,1,0/1/2 (No/Yes_Automatic/Yes_Manual),,,,,,,,
 Recoverable Material: Is Recovered?,Rec_material,Aluminous,Is Aluminous Recovered?,1,0/1/2 (No/Yes_Automatic/Yes_Manual),,,,,,,,

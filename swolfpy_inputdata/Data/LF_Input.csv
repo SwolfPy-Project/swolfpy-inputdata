@@ -1,4 +1,4 @@
-Category,Dictonary_Name,Parameter,Name,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
+Category,Dictonary_Name,Parameter Name,Parameter Description,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
 Energy Recovery Costs,Eng_rec_cost,capital,Capital Cost,1400,$/kW,,,,,,,,
 Energy Recovery Costs,Eng_rec_cost,O&M,O&M Cost,130,$/MW,,,,,,,,
 Energy Recovery Costs,Eng_rec_cost,Life,Life of Engine,20,years,,,,,,,,
