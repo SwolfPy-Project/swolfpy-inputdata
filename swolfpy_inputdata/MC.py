@@ -54,10 +54,11 @@ class MC():
      (('Cat1', 'Par2'), 1.9366617123732333)]
 
     """
-    def __init__(self, input_dict):
+    def __init__(self, input_dict, process_name):
         """ Initialize ``MC`` class
         """
         self.input_dict = input_dict
+        self.process_name = process_name
 
     def setup_MC(self, seed=None):
         """ Creates `MCRandomNumberGenerator` and store it in ``MC.rand`` attribute
@@ -99,7 +100,7 @@ class MC():
             for y in self.input_dict[x]:
                 if not np.isnan(data[i]):
                     self.input_dict[x][y]['amount'] = data[i]
-                    variables.append(((x, y), data[i]))
+                    variables.append(((self.process_name, x, y), data[i]))
                 i += 1
         return(variables)
 

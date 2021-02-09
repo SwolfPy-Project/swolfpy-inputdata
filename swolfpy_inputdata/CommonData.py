@@ -10,14 +10,14 @@ import pandas as pd
 
 
 class CommonData(InputData):
-    def __init__(self, input_data_path=None):
+    def __init__(self, input_data_path=None, process_name='CommonData'):
         if input_data_path:
             self.input_data_path = input_data_path
         else:
             self.input_data_path = Path(__file__).parent / 'Data/CommonData.csv'
 
         # Initialize the superclass
-        super().__init__(self.input_data_path)
+        super().__init__(self.input_data_path, process_name)
 
 ### Materials
         self.Index = ['Yard_Trimmings_Leaves', 'Yard_Trimmings_Grass', 'Yard_Trimmings_Branches', 'Food_Waste_Vegetable',

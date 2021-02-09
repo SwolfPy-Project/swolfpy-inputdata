@@ -10,7 +10,7 @@ from pathlib import Path
 
 @pytest.fixture(scope="module")
 def Input_Data():
-    A = InputData(Path(__file__).parent / 'Test_Input.csv')
+    A = InputData(Path(__file__).parent / 'Test_Input.csv', process_name='test')
     yield A
 
 
@@ -45,5 +45,5 @@ def test_setup_MC(Input_Data):
     assert Input_Data.Dic1['Par2']['amount'] == 3
     assert isinstance(Input_Data.gen_MC(), list)
     assert isinstance(Input_Data.gen_MC()[0], tuple)
-    assert Input_Data.gen_MC()[0][0] == ('Cat1', 'Par2')
+    assert Input_Data.gen_MC()[0][0] == ('test', 'Cat1', 'Par2')
     assert abs(Input_Data.gen_MC()[0][1] - 3) <= 2

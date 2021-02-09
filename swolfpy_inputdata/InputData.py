@@ -22,10 +22,11 @@ class InputData(MC):
     :type eval_parameter: bool, optional
 
     """
-    def __init__(self, input_data_path, eval_parameter=False):
+    def __init__(self, input_data_path, process_name, eval_parameter=False):
         """Initialize ``InputData`` class
         """
         self.input_data_path = input_data_path
+        self.process_name = process_name
         self.Data = pd.read_csv(self.input_data_path, dtype={'amount': float, 'uncertainty_type': float, 'loc': float,
                                                              'scale': float, 'shape': float, 'minimum': float, 'maximum': float})
 
@@ -68,7 +69,7 @@ class InputData(MC):
 
         .. seealso:: Class_MC_
         """
-        super().__init__(self.Input_dict)
+        super().__init__(self.Input_dict, self.process_name)
         super().setup_MC(seed)
 
 ### Reset static Values

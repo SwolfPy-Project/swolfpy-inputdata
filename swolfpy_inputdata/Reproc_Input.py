@@ -9,11 +9,11 @@ from pathlib import Path
 
 
 class Reproc_Input(InputData):
-    def __init__(self, input_data_path=None, CommonDataObjct=None):
+    def __init__(self, input_data_path=None, process_name='Reproc', CommonDataObjct=None):
         if input_data_path:
             self.input_data_path = input_data_path
         else:
             self.input_data_path = Path(__file__).parent / 'Data/Reprocessing_Input.csv'
 
         # Initialize the superclass
-        super().__init__(self.input_data_path, eval_parameter=True)
+        super().__init__(self.input_data_path, process_name, eval_parameter=True)
