@@ -7,3 +7,4 @@ SF_Collection,Col,Leaf_vacuum,vehicles equipped with leaf vacuums used to collec
 SF_Collection,Col,Leaf_vacuum_amount,amount of leaves collected by leaf vacuum per year?,500,Mg/year,,,,,,,,
 SF_Collection,Col,LV_serv_pd,"Length of leaf vacuum service period (S.P), weeks",12,weeks,,,,,,,,
 SF_Collection,Col,LV_serv_times,How many times each stop is serviced/S.P.,4,time/stop,,,,,,,,
+LCC,LCC,Discount_rate,Discount rate,0.035,-,,,,,,,,

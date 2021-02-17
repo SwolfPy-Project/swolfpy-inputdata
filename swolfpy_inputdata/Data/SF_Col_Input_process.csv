@@ -8,16 +8,11 @@ Collection schedule,Working hours a day for wage,(hours/person-day),WP,8,8,8,8,8
 Collection Rules,Is the route or truck subject to a weight limit?,,wt_lim,0,0,0,0,0,0,0,0,0,0,0,0,0
 Collection Rules,Maximum permissible collected weight before unload,(Mg/vehicle),max_weight,10,10,10,10,10,10,10,,10,,10,10,10
 Collection operation times,Loading time at one service stop,(min/stop),TL,0.2,0.2,0.45,0.45,0.15,0.42,0.176,,0.176,,20,,20
-Collection operation times,"Travel time between service stops, based on 100% Prtcp",(min/stop),T100,0.2,0.2,0.17,0.17,0.17,0.42,0.173,,0.173,,5,,5
-Collection operation times,"Travel time between service stops, adjusted",(min/stop),Tbtw,0.2,0.24,0.19,0.19,0.17,0.46,0.173,,0.173,,5.56,,5.56
-Collection operation times,Travel time btwn route and disposal fac. ,(min/trip),Trf,15,20,20,20,15,15,15,,15,,20,,20
 Collection operation times,Time to unload at disposal facility,(min/trip),S,16,9,9,9,17,17,17,,17,,15,,15
 Collection operation times,Lunch time,(min/day-vehicle),F1_,30,30,30,30,30,30,30,,30,,30,,30
 Collection operation times,Is truck left idling during lunch?,(Yes/No)(1/0),F1_idle,0,0,0,0,0,0,0,,0,,0,,0
 Collection operation times,Break time,(min/day-vehicle),F2_,30,30,30,30,30,30,30,,30,,30,,30
 Collection operation times,Is truck left idling during break?,(Yes/No)(1/0),F2_idle,0,0,0,0,0,0,0,,0,,0,,0
-Collection operation times,Time from grg to 1st collection route,(min/day-vehicle),Tgr,7,7,7,7,7,7,7,,7,,20,,20
-Collection operation times,Time from disposal fac. to garage,(min/day-vehicle),Tfg,17,22,22,22,17,17,17,,17,,20,,20
 Labor,Does a driver work as a collector?,(Yes/No)(1/0),drv_col,0,0,1,1,1,1,0,,0,,1,,1
 Labor,Number of additional collectors per vehicle,(perrson/vehicle),Nw,1,1,0,0,0,0,1,,1,,0,,0
 Labor,Worker backup rate,(backup workers/coll. workers),bw,0.1,0.1,0.1,0.1,0.1,0.1,0.1,,0.1,,0.1,,0.1
@@ -33,6 +28,10 @@ Vehicle operational parameters,Economic life of a vehicle,(year),Lt,10,10,10,10,
 Vehicle operational parameters,Unit price of a vehicle,($/vehicle),Pt,240000,240000,240000,240000,240000,240000,240000,,240000,,99153,,99153
 Vehicle operational parameters,Vehicle operation and maint. Cost,($/vehicle),c,40000,40000,40000,40000,40000,40000,40000,,40000,,40000,,40000
 Vehicle operational parameters,Assumed compartment compaction density,(lb/yd3),den_asmd,700,388,388,388,575,300,700,,700,,128,350,128
+Travel speeds,Between collection stops   ,(miles/hour),Vbet,9,9,10.58823529,10.58823529,10.58823529,4.32,10.43478261,,10.43478261,,60,,60
+Travel speeds,From collection route to facility,(miles/hour),Vrf,80,60,60,60,80,80,80,,80,,30,,30
+Travel speeds,From garage to route in the morning,(miles/hour),Vgr,31.71428571,18.85714286,42.85714286,42.85714286,42.85714286,34.28571429,31.71428571,,31.71428571,,30,,30
+Travel speeds,From facility to garage,(miles/hour),Vfg,70.58823529,54.54545455,60,60,77.64705882,70.58823529,77.64705882,,77.64705882,,30,,30
 Distances and Mass Split,Mass Split to destination ,(%),M_split,1,1,1,1,1,1,1,,1,,1,1,1
 Distances and Mass Split,Destination name,,Dest,,,,,,,,,,,,,
 Distances and Mass Split,Distance btwn collection route and destination ,(miles),Drf,20,20,20,20,20,20,20,,20,,10,,10
