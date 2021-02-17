@@ -1,5 +1,5 @@
 swolfpy_technosphere_name,Unit,Data_Type,Reference_activity_id,Cost_key,Cost,Cost_Unit
-Electricity_production,kWh,,,Electricity_Cost,0.05,USD/kWh
+Electricity_production,kWh,,,Electricity_Cost,-0.05,USD/kWh
 Electricity_consumption,kWh,,,Electricity_Cost,0.1,USD/kWh
 Heat_Steam,MJ,,,Utility_Cost,0,
 Equipment_Diesel,L,,,Fuel_Cost,1,USD/L
