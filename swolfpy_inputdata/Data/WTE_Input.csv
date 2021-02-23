@@ -1,7 +1,7 @@
 Category,Dictonary_Name,Parameter Name,Parameter Description,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
 Economic_parameters,Economic_parameters,WTE_lifetime,WTE Lifetime,20,years,,,,,,,,
 Economic_parameters,Economic_parameters,WTE_capacity_factor,WTE Capacity Factor,0.91,None,,,,,,,,
-Economic_parameters,Economic_parameters,Unit_WTE_capital_cost,Unit WTE Capital Cost,520,$/design tons per year,,,,,,,,
+Economic_parameters,Economic_parameters,Unit_WTE_capital_cost,Unit WTE Capital Cost,520,$/design Mg per year,,,,,,,,
 Economic_parameters,Economic_parameters,Unit_WTE_O_M_cost,Unit WTE O&M Cost,40,$/Mg processed,,,,,,,,
 Economic_parameters,Economic_parameters,CF_I,Combustor Interest Rate,0.05,None,,,,,,,,
 Elec_Prod_Eff,Elec_Prod_Eff,Gross_Efficiency,Gross Efficiency,0.27,None,,,,,,,,
@@ -59,7 +59,6 @@ Material_Consumption,Material_Consumption,ammonia,Mg ammonia/Mg MSW,0.0004,Mg/Mg
 Material_Consumption,Material_Consumption,carbon,Mg carbon/Mg MSW,0.0006,Mg/Mgww,,,,,,,,
 Material_Consumption,Material_Consumption,Distance_from_prod_fac,Distance_from_prod_fac,100,km,,,,,,,,
 Material_Consumption,Material_Consumption,Empty_Return_Truck,Empty_Return_Truck,1,None,,,,,,,,
-Capital_Cost,Capital_Cost,Capital_Cost,Capital Cost,520,$/Mg,,,,,,,,
 Operational_Cost,Operational_Cost,Yard_Trimmings_Leaves,Operation cost of Yard_Trimmings_Leaves,43.95604396,$/Mg,,,,,,,,
 Operational_Cost,Operational_Cost,Yard_Trimmings_Grass,Operation cost of Yard_Trimmings_Grass,43.95604396,$/Mg,,,,,,,,
 Operational_Cost,Operational_Cost,Yard_Trimmings_Branches,Operation cost of Yard_Trimmings_Branches,43.95604396,$/Mg,,,,,,,,
