@@ -10,7 +10,7 @@ Recoverable Material: Is Recovered?,Rec_material,Glass,Is Glass Recovered?,1,0/1
 Recoverable Material: Secondary Sort?,Rec_Sorted_material,Newsprint,Additional Separation to Isolate Newsprint?,0,0/1 (No/Yes),,,,,,,,
 Recoverable Material: Secondary Sort?,Rec_Sorted_material,Office_Paper,Additional Separation to Isolate Office Paper?,0,0/1 (No/Yes),,,,,,,,
 Recoverable Material: Secondary Sort?,Rec_Sorted_material,Magazines,Additional Separation to Isolate Magazines?,0,0/1 (No/Yes),,,,,,,,
-Recoverable Material: Secondary Sort?,Rec_Sorted_material,3rd_Class_Mail,Additional Separation to Isolate 3rd_Class_Mail?,0,0/1 (No/Yes),,,,,,,,
+Recoverable Material: Secondary Sort?,Rec_Sorted_material,Third_Class_Mail,Additional Separation to Isolate 3rd_Class_Mail?,0,0/1 (No/Yes),,,,,,,,
 Recoverable Material: Secondary Sort?,Rec_Sorted_material,Folding_Containers,Additional Separation to Isolate Folding_Containers?,0,0/1 (No/Yes),,,,,,,,
 Recoverable Material: Secondary Sort?,Rec_Sorted_material,Paper_Bags,Additional Separation to Isolate Paper_Bags?,0,0/1 (No/Yes),,,,,,,,
 Recoverable Material: Secondary Sort?,Rec_Sorted_material,Glass_Brown,Additional Separation to Isolate Glass_Brown?,1,0/1 (No/Yes),,,,,,,,"If no glass isl isolated, optical sorter will be turned off"
@@ -29,7 +29,7 @@ Recoverable Material: Price,Rec_price,Glass,Price of Glass,0,$/Mg,,,,,,,,
 Recoverable Material: Price,Rec_price,Newsprint,Price of Newsprint,55,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
 Recoverable Material: Price,Rec_price,Office_Paper,Price of Office Paper,50,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
 Recoverable Material: Price,Rec_price,Magazines,Price of Magazines ,50,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
-Recoverable Material: Price,Rec_price,3rd_Class_Mail,Price of 3rd Class Mail,50,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
+Recoverable Material: Price,Rec_price,Third_Class_Mail,Price of Third Class Mail,50,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
 Recoverable Material: Price,Rec_price,Folding_Containers,Price of Folding Containers,50,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
 Recoverable Material: Price,Rec_price,Paper_Bags,Price of Paper Bags ,50,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
 Recoverable Material: Price,Rec_price,Glass_Brown,Price of Glass_Brown,20,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
@@ -60,7 +60,7 @@ Recoverable Material: Bale Density,Rec_BaleDens,PET,Bale Density of PET,0.416,Mg
 Recoverable Material: Separation Efficiency,Rec_Sep_eff,Newsprint,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
 Recoverable Material: Separation Efficiency,Rec_Sep_eff,Office_Paper,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
 Recoverable Material: Separation Efficiency,Rec_Sep_eff,Magazines,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
-Recoverable Material: Separation Efficiency,Rec_Sep_eff,3rd_Class_Mail,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
+Recoverable Material: Separation Efficiency,Rec_Sep_eff,Third_Class_Mail,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
 Recoverable Material: Separation Efficiency,Rec_Sep_eff,Folding_Containers,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
 Recoverable Material: Separation Efficiency,Rec_Sep_eff,Paper_Bags,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
 Equipment:Eddy Current Separator,Eq_EDS,Calc_base,Mass Used in Resource Calculations,0,0/1/2 (Removed/Remaining/TotalThroughput),,,,,,,,
