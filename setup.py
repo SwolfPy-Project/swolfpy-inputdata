@@ -19,7 +19,8 @@ requirements = [
 
 setup_requirements = [ ]
 
-package_input_data = {'swolfpy_inputdata.Data':['*.csv']}
+package_input_data = {'swolfpy_inputdata.Data':['*.csv'],
+                      'swolfpy_inputdata.Data.LCIA_Methods':['*.csv']}
                                                                 
 
 test_requirements = [ ]

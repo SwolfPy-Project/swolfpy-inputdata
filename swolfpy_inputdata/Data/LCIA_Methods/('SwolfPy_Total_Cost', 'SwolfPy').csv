@@ -1,0 +1,8 @@
+key,name,categories,value,unit
+"('biosphere3', 'Capital_Cost')",Capital Cost,"('economic',)",1,USD
+"('biosphere3', 'Operational_Cost')",Operational Cost,"('economic',)",1,USD
+"('biosphere3', 'Utility_Cost')",Utility Cost,"('economic',)",1,USD
+"('biosphere3', 'Fuel_Cost')",Fuel Cost,"('economic',)",1,USD
+"('biosphere3', 'Electricity_Cost')",Electricity Cost,"('economic',)",1,USD
+"('biosphere3', 'Transportation_Cost')",Transportation Cost,"('economic',)",1,USD
+"('biosphere3', 'Material_Cost')",Material Cost,"('economic',)",1,USD

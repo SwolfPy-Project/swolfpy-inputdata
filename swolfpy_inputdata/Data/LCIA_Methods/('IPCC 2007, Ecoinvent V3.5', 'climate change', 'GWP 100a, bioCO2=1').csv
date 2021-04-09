@@ -1,0 +1,212 @@
+key,name,categories,value,unit
+"('biosphere3', 'd6235194-e4e6-4548-bfa3-ac095131aef4')","Carbon dioxide, non-fossil","('air', 'non-urban air or from high stacks')",1.0,kg CO2-Eq
+"('biosphere3', '4e1f0bb0-2703-4303-bf86-972d810612cf')","Carbon dioxide, non-fossil","('air', 'lower stratosphere + upper troposphere')",1.0,kg CO2-Eq
+"('biosphere3', 'eba59fd6-f37e-41dc-9ca3-c7ea22d602c7')","Carbon dioxide, non-fossil","('air',)",1.0,kg CO2-Eq
+"('biosphere3', '73ed05cc-9727-4abf-9516-4b5c0fe54a16')","Carbon dioxide, non-fossil","('air', 'urban air close to ground')",1.0,kg CO2-Eq
+"('biosphere3', '28e1e2d6-97ad-4dfd-932a-9edad36dcab9')","Carbon dioxide, non-fossil","('air', 'low population density, long-term')",1.0,kg CO2-Eq
+"('biosphere3', 'e259263c-d1f1-449f-bb9b-73c6d0a32a00')","Carbon dioxide, fossil","('air', 'low population density, long-term')",1.0,kg CO2-Eq
+"('biosphere3', '16eeda8a-1ea2-408e-ab37-2648495058dd')","Carbon dioxide, fossil","('air', 'lower stratosphere + upper troposphere')",1.0,kg CO2-Eq
+"('biosphere3', 'aa7cac3a-3625-41d4-bc54-33e2cf11ec46')","Carbon dioxide, fossil","('air', 'non-urban air or from high stacks')",1.0,kg CO2-Eq
+"('biosphere3', '349b29d1-3e58-4c66-98b9-9d1a076efd2e')","Carbon dioxide, fossil","('air',)",1.0,kg CO2-Eq
+"('biosphere3', 'f9749677-9c9f-4678-ab55-c607dfdc2cb9')","Carbon dioxide, fossil","('air', 'urban air close to ground')",1.0,kg CO2-Eq
+"('biosphere3', '5188df39-2bb8-4826-b469-fa9f86bacc09')","Carbon dioxide, from soil or biomass stock","('air', 'indoor')",0.0,kg CO2-Eq
+"('biosphere3', 'e1c597cc-14cb-4ebb-af07-7a93a5b77d34')","Carbon dioxide, from soil or biomass stock","('air', 'low population density, long-term')",0.0,kg CO2-Eq
+"('biosphere3', '6d89125e-e9b7-4d7e-a1fc-ada45dbd8815')","Carbon dioxide, from soil or biomass stock","('air', 'lower stratosphere + upper troposphere')",0.0,kg CO2-Eq
+"('biosphere3', '78eb1859-abd9-44c6-9ce3-f3b5b33d619c')","Carbon dioxide, from soil or biomass stock","('air', 'non-urban air or from high stacks')",0.0,kg CO2-Eq
+"('biosphere3', 'e4e9febc-07c1-403d-8d3a-6707bb4d96e6')","Carbon dioxide, from soil or biomass stock","('air',)",0.0,kg CO2-Eq
+"('biosphere3', 'e8787b5e-d927-446d-81a9-f56977bbfeb4')","Carbon dioxide, from soil or biomass stock","('air', 'urban air close to ground')",0.0,kg CO2-Eq
+"('biosphere3', '588356df-f3b4-43a7-a76e-c47175a7eae0')","Carbon monoxide, non-fossil","('air', 'low population density, long-term')",1.5714,kg CO2-Eq
+"('biosphere3', '968495ec-1000-438a-9e11-467776ebb54e')","Carbon monoxide, non-fossil","('air', 'lower stratosphere + upper troposphere')",1.5714,kg CO2-Eq
+"('biosphere3', 'b821ad93-ba6a-4d74-b6ae-ca12cd9563d7')","Carbon monoxide, non-fossil","('air', 'non-urban air or from high stacks')",1.5714,kg CO2-Eq
+"('biosphere3', '2cb2333c-1599-46cf-8435-3dffce627524')","Carbon monoxide, non-fossil","('air',)",1.5714,kg CO2-Eq
+"('biosphere3', '9afa0173-ecbd-4f2c-9c5c-b3128a032812')","Carbon monoxide, non-fossil","('air', 'urban air close to ground')",1.5714,kg CO2-Eq
+"('biosphere3', '49c594c6-b6a8-42a3-95c5-cca812fda80b')","Carbon monoxide, fossil","('air', 'low population density, long-term')",1.5714,kg CO2-Eq
+"('biosphere3', 'a3beb5ac-5149-47f6-a035-53fc5030f10a')","Carbon monoxide, fossil","('air', 'lower stratosphere + upper troposphere')",1.5714,kg CO2-Eq
+"('biosphere3', '099b36ab-4c03-4587-87f4-2f81e337afb8')","Carbon monoxide, fossil","('air', 'non-urban air or from high stacks')",1.5714,kg CO2-Eq
+"('biosphere3', 'ba2f3f82-c93a-47a5-822a-37ec97495275')","Carbon monoxide, fossil","('air',)",1.5714,kg CO2-Eq
+"('biosphere3', '6edcc2df-88a3-48e1-83d8-ffc38d31c35b')","Carbon monoxide, fossil","('air', 'urban air close to ground')",1.5714,kg CO2-Eq
+"('biosphere3', '05f6e226-0593-46f5-a788-01fa306e66ad')","Carbon monoxide, from soil or biomass stock","('air', 'indoor')",0.0,kg CO2-Eq
+"('biosphere3', 'bd086aa3-312a-47af-a7b2-04fddbf8f01e')","Carbon monoxide, from soil or biomass stock","('air', 'low population density, long-term')",0.0,kg CO2-Eq
+"('biosphere3', 'e1da7e11-cc2c-4ea2-a42a-bf558150014b')","Carbon monoxide, from soil or biomass stock","('air', 'lower stratosphere + upper troposphere')",0.0,kg CO2-Eq
+"('biosphere3', '68b9b577-90cf-49e4-88bb-a55d80f3ac5d')","Carbon monoxide, from soil or biomass stock","('air', 'non-urban air or from high stacks')",0.0,kg CO2-Eq
+"('biosphere3', '69a6c884-39be-444f-a67c-7436a5e66de2')","Carbon monoxide, from soil or biomass stock","('air',)",0.0,kg CO2-Eq
+"('biosphere3', '51c58d09-0699-4d51-80b3-a1bb2b9313e4')","Carbon monoxide, from soil or biomass stock","('air', 'urban air close to ground')",0.0,kg CO2-Eq
+"('biosphere3', '78259cf2-1bb2-41ec-941c-9d70909df094')",Chloroform,"('air', 'low population density, long-term')",31.0,kg CO2-Eq
+"('biosphere3', '98af3079-fb76-488d-8afe-713814e14d36')",Chloroform,"('air', 'lower stratosphere + upper troposphere')",31.0,kg CO2-Eq
+"('biosphere3', 'fa9b9736-6de8-4bd6-ba22-1bd78c798373')",Chloroform,"('air', 'non-urban air or from high stacks')",31.0,kg CO2-Eq
+"('biosphere3', 'fbf6ab3a-74e3-4cbe-b61d-959728bdce46')",Chloroform,"('air',)",31.0,kg CO2-Eq
+"('biosphere3', '4cadbc9f-0472-4bb9-a942-df5b90e37878')",Chloroform,"('air', 'urban air close to ground')",31.0,kg CO2-Eq
+"('biosphere3', '6abf9e1a-c33e-49ae-aeae-ab84cee7d2ab')",Dimethyl ether,"('air', 'indoor')",1.0,kg CO2-Eq
+"('biosphere3', 'f2d8ab10-7974-4038-9339-b8a204d26331')",Dimethyl ether,"('air', 'low population density, long-term')",1.0,kg CO2-Eq
+"('biosphere3', '4f061396-da10-49b3-a7ac-ac1d2eb49fa1')",Dimethyl ether,"('air', 'lower stratosphere + upper troposphere')",1.0,kg CO2-Eq
+"('biosphere3', '50cbb355-9a33-4e15-986a-c95c40931638')",Dimethyl ether,"('air', 'non-urban air or from high stacks')",1.0,kg CO2-Eq
+"('biosphere3', 'acfeda73-2eee-4ca2-ad41-e8c564e75cec')",Dimethyl ether,"('air',)",1.0,kg CO2-Eq
+"('biosphere3', '7c76ca96-5e7e-43be-aa71-a64627cdca23')",Dimethyl ether,"('air', 'urban air close to ground')",1.0,kg CO2-Eq
+"('biosphere3', '81305cda-63f1-4c1a-99c6-2c2568550ec4')",Dinitrogen monoxide,"('air', 'low population density, long-term')",298.0,kg CO2-Eq
+"('biosphere3', '473826ae-125a-4b02-8c8e-c84322491d80')",Dinitrogen monoxide,"('air', 'lower stratosphere + upper troposphere')",298.0,kg CO2-Eq
+"('biosphere3', 'afd6d670-bbb0-4625-9730-04088a5b035e')",Dinitrogen monoxide,"('air', 'non-urban air or from high stacks')",298.0,kg CO2-Eq
+"('biosphere3', '20185046-64bb-4c09-a8e7-e8a9e144ca98')",Dinitrogen monoxide,"('air',)",298.0,kg CO2-Eq
+"('biosphere3', '6dc1b46f-ee89-4495-95c4-b8a637bcd6cb')",Dinitrogen monoxide,"('air', 'urban air close to ground')",298.0,kg CO2-Eq
+"('biosphere3', '647ae26f-f2fe-44cb-ac81-39bb7736f28e')","Ethane, 1,1,1,2-tetrafluoro-, HFC-134a","('air', 'low population density, long-term')",1430.0,kg CO2-Eq
+"('biosphere3', '75fe1a2c-49fa-49e4-90f1-8f102508a96d')","Ethane, 1,1,1,2-tetrafluoro-, HFC-134a","('air', 'lower stratosphere + upper troposphere')",1430.0,kg CO2-Eq
+"('biosphere3', '16fcd4f9-0bb8-4b84-8334-3ffb1a17aa74')","Ethane, 1,1,1,2-tetrafluoro-, HFC-134a","('air', 'non-urban air or from high stacks')",1430.0,kg CO2-Eq
+"('biosphere3', 'e87f039d-d9ce-4242-ac18-c9284cc80f3d')","Ethane, 1,1,1,2-tetrafluoro-, HFC-134a","('air',)",1430.0,kg CO2-Eq
+"('biosphere3', 'fa0c2bee-8dd9-4f8a-8489-b1f3b43de958')","Ethane, 1,1,1,2-tetrafluoro-, HFC-134a","('air', 'urban air close to ground')",1430.0,kg CO2-Eq
+"('biosphere3', 'f8ee4881-a003-4e18-aa2a-d9daf97d76f7')","Ethane, 1,1,1-trichloro-, HCFC-140","('air', 'low population density, long-term')",146.0,kg CO2-Eq
+"('biosphere3', '9e7d019f-c8c0-4631-9bbb-ced3e081c90d')","Ethane, 1,1,1-trichloro-, HCFC-140","('air', 'lower stratosphere + upper troposphere')",146.0,kg CO2-Eq
+"('biosphere3', '99585564-bfce-4845-9aaa-2f24b8f26a41')","Ethane, 1,1,1-trichloro-, HCFC-140","('air', 'non-urban air or from high stacks')",146.0,kg CO2-Eq
+"('biosphere3', 'ce6294f5-2ed7-46ee-a967-33e265e34455')","Ethane, 1,1,1-trichloro-, HCFC-140","('air',)",146.0,kg CO2-Eq
+"('biosphere3', '818cee9e-231c-4b53-8ed2-47a0001802d5')","Ethane, 1,1,1-trichloro-, HCFC-140","('air', 'urban air close to ground')",146.0,kg CO2-Eq
+"('biosphere3', 'bf580c6b-1b4d-429d-bed7-1e335920941f')","Ethane, 1,1,1-trifluoro-, HFC-143a","('air', 'low population density, long-term')",4470.0,kg CO2-Eq
+"('biosphere3', '5eb2d548-1694-496d-b3bd-a439984fca7d')","Ethane, 1,1,1-trifluoro-, HFC-143a","('air', 'lower stratosphere + upper troposphere')",4470.0,kg CO2-Eq
+"('biosphere3', '5253e322-7de5-42aa-9167-daf22ff44031')","Ethane, 1,1,1-trifluoro-, HFC-143a","('air', 'non-urban air or from high stacks')",4470.0,kg CO2-Eq
+"('biosphere3', 'e86bfec2-1025-4fa2-90b1-81e35e621e91')","Ethane, 1,1,1-trifluoro-, HFC-143a","('air',)",4470.0,kg CO2-Eq
+"('biosphere3', 'f43b2b80-f5a6-4d31-9980-0754305a978d')","Ethane, 1,1,1-trifluoro-, HFC-143a","('air', 'urban air close to ground')",4470.0,kg CO2-Eq
+"('biosphere3', 'd2025041-20ee-41bb-b2c8-47631e839ff0')","Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113","('air', 'low population density, long-term')",6130.0,kg CO2-Eq
+"('biosphere3', '53b87932-00c8-4bf4-b519-ecd3c401ed4d')","Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113","('air', 'lower stratosphere + upper troposphere')",6130.0,kg CO2-Eq
+"('biosphere3', '47c12d99-c2dc-41cf-bad1-cd31c2fe0421')","Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113","('air', 'non-urban air or from high stacks')",6130.0,kg CO2-Eq
+"('biosphere3', 'cacfd448-6c2d-4061-9363-fd506b979f25')","Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113","('air',)",6130.0,kg CO2-Eq
+"('biosphere3', '9b132374-dce2-4ce0-86aa-53201b30f617')","Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113","('air', 'urban air close to ground')",6130.0,kg CO2-Eq
+"('biosphere3', 'b018c97d-8fea-4258-b4d3-6a65669c77f4')","Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b","('air', 'low population density, long-term')",725.0,kg CO2-Eq
+"('biosphere3', '8c193650-c4ae-4e9a-b25b-eaa7b2b9ea2d')","Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b","('air', 'lower stratosphere + upper troposphere')",725.0,kg CO2-Eq
+"('biosphere3', '416eedbd-a7b4-4693-8031-9bfaa2f20ebc')","Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b","('air', 'non-urban air or from high stacks')",725.0,kg CO2-Eq
+"('biosphere3', '843fd145-61ac-4fa7-a608-ce4ac4d88d49')","Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b","('air',)",725.0,kg CO2-Eq
+"('biosphere3', '033d3a16-e1a2-4ce8-8769-f4ea867801ca')","Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b","('air', 'urban air close to ground')",725.0,kg CO2-Eq
+"('biosphere3', '94ca9e00-5268-4663-a0cd-25026c7c6b53')","Ethane, 1,1-difluoro-, HFC-152a","('air', 'low population density, long-term')",124.0,kg CO2-Eq
+"('biosphere3', 'fff3d2db-2784-4044-a6a2-2bc7242456ee')","Ethane, 1,1-difluoro-, HFC-152a","('air', 'lower stratosphere + upper troposphere')",124.0,kg CO2-Eq
+"('biosphere3', '1c4a106a-53bc-40f5-bcae-d30ab191dbfe')","Ethane, 1,1-difluoro-, HFC-152a","('air', 'non-urban air or from high stacks')",124.0,kg CO2-Eq
+"('biosphere3', '9cf9bf0e-86fe-42c0-90cc-bfed96fbdc8f')","Ethane, 1,1-difluoro-, HFC-152a","('air',)",124.0,kg CO2-Eq
+"('biosphere3', '393d0862-04cc-45ae-8d08-9dc2a4461b35')","Ethane, 1,1-difluoro-, HFC-152a","('air', 'urban air close to ground')",124.0,kg CO2-Eq
+"('biosphere3', '1e060d5a-cd41-4f30-9c93-272403b7e004')","Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114","('air', 'low population density, long-term')",10000.0,kg CO2-Eq
+"('biosphere3', '7d05319a-1260-45e0-8872-d5ff1712ea7e')","Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114","('air', 'lower stratosphere + upper troposphere')",10000.0,kg CO2-Eq
+"('biosphere3', '1584734d-c5c8-42a5-aa51-0f6a92a9cc0d')","Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114","('air', 'non-urban air or from high stacks')",10000.0,kg CO2-Eq
+"('biosphere3', '8a3a44e4-e2f1-476d-9e9e-a90fda263fe3')","Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114","('air',)",10000.0,kg CO2-Eq
+"('biosphere3', '3b30d058-02ef-4ed2-b357-5fc1a45c63e7')","Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114","('air', 'urban air close to ground')",10000.0,kg CO2-Eq
+"('biosphere3', '50432644-8568-444e-b7e7-8e37a7e1f3e3')","Ethane, 1-chloro-1,1-difluoro-, HCFC-142b","('air', 'low population density, long-term')",2310.0,kg CO2-Eq
+"('biosphere3', '1652c2e3-c6c5-49e1-9ad1-34c188087ca6')","Ethane, 1-chloro-1,1-difluoro-, HCFC-142b","('air', 'lower stratosphere + upper troposphere')",2310.0,kg CO2-Eq
+"('biosphere3', '95b6f6da-49f9-413d-8ff5-5342d6cff588')","Ethane, 1-chloro-1,1-difluoro-, HCFC-142b","('air', 'non-urban air or from high stacks')",2310.0,kg CO2-Eq
+"('biosphere3', 'ba781ac6-cdf1-4a09-86b5-76b19ed3438b')","Ethane, 1-chloro-1,1-difluoro-, HCFC-142b","('air',)",2310.0,kg CO2-Eq
+"('biosphere3', '400be66e-4383-482a-93e3-c005e96de261')","Ethane, 1-chloro-1,1-difluoro-, HCFC-142b","('air', 'urban air close to ground')",2310.0,kg CO2-Eq
+"('biosphere3', 'f322122f-3059-4cfb-8754-efc82548e7f0')","Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123","('air', 'low population density, long-term')",77.0,kg CO2-Eq
+"('biosphere3', '2fff3bda-1eec-4166-9969-bc9e757c8e8e')","Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123","('air', 'lower stratosphere + upper troposphere')",77.0,kg CO2-Eq
+"('biosphere3', '2cbc6042-2cee-4668-8017-d7f805d9029e')","Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123","('air', 'non-urban air or from high stacks')",77.0,kg CO2-Eq
+"('biosphere3', '050da0cd-2957-45a9-ae7a-ace372083fe5')","Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123","('air',)",77.0,kg CO2-Eq
+"('biosphere3', 'db907ff7-6cf0-4f88-9376-116262dfad6d')","Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123","('air', 'urban air close to ground')",77.0,kg CO2-Eq
+"('biosphere3', '0bf92802-8b5e-43f5-a261-95c06bd5c551')","Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124","('air', 'low population density, long-term')",609.0,kg CO2-Eq
+"('biosphere3', '9b7e5cbf-e1eb-420d-ad43-248df23457ee')","Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124","('air', 'lower stratosphere + upper troposphere')",609.0,kg CO2-Eq
+"('biosphere3', '71a6ea76-6642-4573-bed2-c1884e6792fd')","Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124","('air', 'non-urban air or from high stacks')",609.0,kg CO2-Eq
+"('biosphere3', '60268f3d-468b-487e-acb1-24d7250cb6b3')","Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124","('air',)",609.0,kg CO2-Eq
+"('biosphere3', '27f61651-96a5-45c7-9873-832626cf6905')","Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124","('air', 'urban air close to ground')",609.0,kg CO2-Eq
+"('biosphere3', '4925cde1-9f43-43d3-bcf1-4865b8de6634')","Ethane, chloropentafluoro-, CFC-115","('air', 'low population density, long-term')",7370.0,kg CO2-Eq
+"('biosphere3', '30533fd3-b19c-44fc-9a88-fb6b12409b47')","Ethane, chloropentafluoro-, CFC-115","('air', 'lower stratosphere + upper troposphere')",7370.0,kg CO2-Eq
+"('biosphere3', '6f8ce7a4-d66a-4593-9314-51778aa09d4b')","Ethane, chloropentafluoro-, CFC-115","('air', 'non-urban air or from high stacks')",7370.0,kg CO2-Eq
+"('biosphere3', 'ec8789e5-d140-4ca8-b7ef-b3abfd044414')","Ethane, chloropentafluoro-, CFC-115","('air',)",7370.0,kg CO2-Eq
+"('biosphere3', '15e54d5b-aba2-40a6-9aa8-aa2b8c432129')","Ethane, chloropentafluoro-, CFC-115","('air', 'urban air close to ground')",7370.0,kg CO2-Eq
+"('biosphere3', 'b7e0bddf-7b8a-43f4-9319-6f4b3d9fa65a')","Ethane, hexafluoro-, HFC-116","('air', 'low population density, long-term')",12200.0,kg CO2-Eq
+"('biosphere3', '7f62f535-e81a-476c-9c39-4d59f289db1a')","Ethane, hexafluoro-, HFC-116","('air', 'lower stratosphere + upper troposphere')",12200.0,kg CO2-Eq
+"('biosphere3', '8f3e0579-d07d-48c9-b41a-fb559728f9c0')","Ethane, hexafluoro-, HFC-116","('air', 'non-urban air or from high stacks')",12200.0,kg CO2-Eq
+"('biosphere3', 'acc39720-dda7-4b3a-80c7-c6394cad4191')","Ethane, hexafluoro-, HFC-116","('air',)",12200.0,kg CO2-Eq
+"('biosphere3', 'df5dd437-2e12-4af6-8f7a-9c8224857dc5')","Ethane, hexafluoro-, HFC-116","('air', 'urban air close to ground')",12200.0,kg CO2-Eq
+"('biosphere3', 'dc9520c7-6e4a-42fb-b1f6-9fa8f34667a4')","Ethane, pentafluoro-, HFC-125","('air', 'low population density, long-term')",3500.0,kg CO2-Eq
+"('biosphere3', '40022b1f-8906-4c54-a074-bf1a3fc9b13f')","Ethane, pentafluoro-, HFC-125","('air', 'lower stratosphere + upper troposphere')",3500.0,kg CO2-Eq
+"('biosphere3', '84386543-b148-465b-9265-ad638c12e263')","Ethane, pentafluoro-, HFC-125","('air', 'non-urban air or from high stacks')",3500.0,kg CO2-Eq
+"('biosphere3', '281e1011-f121-4d5b-ad4d-22d562b2c2cd')","Ethane, pentafluoro-, HFC-125","('air',)",3500.0,kg CO2-Eq
+"('biosphere3', '5d1701c5-c4ef-49c7-8a68-ce7c255eee9f')","Ethane, pentafluoro-, HFC-125","('air', 'urban air close to ground')",3500.0,kg CO2-Eq
+"('biosphere3', 'b53d3744-3629-4219-be20-980865e54031')",Methane,"('air', 'urban air close to ground')",25.0,kg CO2-Eq
+"('biosphere3', '09e231fa-b1c2-4d63-9c57-7ea0e2210858')","Methane, bromo-, Halon 1001","('air', 'low population density, long-term')",5.0,kg CO2-Eq
+"('biosphere3', '6bdb666d-e227-4f57-9b1d-d25009d3c44b')","Methane, bromo-, Halon 1001","('air', 'lower stratosphere + upper troposphere')",5.0,kg CO2-Eq
+"('biosphere3', '701cda28-4722-431c-b52f-05a735ef5ed3')","Methane, bromo-, Halon 1001","('air', 'non-urban air or from high stacks')",5.0,kg CO2-Eq
+"('biosphere3', '8c283de2-50d3-40c8-8bff-1e172c3398f8')","Methane, bromo-, Halon 1001","('air',)",5.0,kg CO2-Eq
+"('biosphere3', '4bf1c333-419b-4278-ac14-247c8bf563d6')","Methane, bromo-, Halon 1001","('air', 'urban air close to ground')",5.0,kg CO2-Eq
+"('biosphere3', '06a4fedf-dab4-4ef1-90df-1d0ce8fe6477')","Methane, bromochlorodifluoro-, Halon 1211","('air', 'low population density, long-term')",1890.0,kg CO2-Eq
+"('biosphere3', '50f528ca-45e7-42d0-b399-998ea63ddabf')","Methane, bromochlorodifluoro-, Halon 1211","('air', 'lower stratosphere + upper troposphere')",1890.0,kg CO2-Eq
+"('biosphere3', '494eb62d-3e16-4a81-b344-6d6dfd9fd4e2')","Methane, bromochlorodifluoro-, Halon 1211","('air', 'non-urban air or from high stacks')",1890.0,kg CO2-Eq
+"('biosphere3', 'ee31ac2a-9336-4ed6-8077-9663003bc2f9')","Methane, bromochlorodifluoro-, Halon 1211","('air',)",1890.0,kg CO2-Eq
+"('biosphere3', '816c43d1-bc30-4a72-81db-08cb6be4da4f')","Methane, bromochlorodifluoro-, Halon 1211","('air', 'urban air close to ground')",1890.0,kg CO2-Eq
+"('biosphere3', '96b52062-5e2f-40de-921a-f443c08862e4')","Methane, bromotrifluoro-, Halon 1301","('air', 'low population density, long-term')",7140.0,kg CO2-Eq
+"('biosphere3', 'cf719b78-9834-4649-a1dd-8554c366c83f')","Methane, bromotrifluoro-, Halon 1301","('air', 'lower stratosphere + upper troposphere')",7140.0,kg CO2-Eq
+"('biosphere3', '82957257-07f3-4536-ac8b-175cb2353c75')","Methane, bromotrifluoro-, Halon 1301","('air', 'non-urban air or from high stacks')",7140.0,kg CO2-Eq
+"('biosphere3', '4ac2ffc3-312e-4e2d-88c4-2630d4a73d8c')","Methane, bromotrifluoro-, Halon 1301","('air',)",7140.0,kg CO2-Eq
+"('biosphere3', '18ddd879-5496-4419-8ab7-e0d3864d977d')","Methane, bromotrifluoro-, Halon 1301","('air', 'urban air close to ground')",7140.0,kg CO2-Eq
+"('biosphere3', '9b505d7c-4239-40e0-9dbe-55d38f3b85b3')","Methane, chlorodifluoro-, HCFC-22","('air', 'low population density, long-term')",1810.0,kg CO2-Eq
+"('biosphere3', '26991da1-c263-4707-9f85-78685acc94dc')","Methane, chlorodifluoro-, HCFC-22","('air', 'lower stratosphere + upper troposphere')",1810.0,kg CO2-Eq
+"('biosphere3', '56b7d3b6-83d7-42b0-a65b-5ad23e29db47')","Methane, chlorodifluoro-, HCFC-22","('air', 'non-urban air or from high stacks')",1810.0,kg CO2-Eq
+"('biosphere3', '18c582fe-7336-4138-8797-2db8b7a754c7')","Methane, chlorodifluoro-, HCFC-22","('air',)",1810.0,kg CO2-Eq
+"('biosphere3', '8ca6c84b-7f56-47e6-8d17-4f2dbc49a943')","Methane, chlorodifluoro-, HCFC-22","('air', 'urban air close to ground')",1810.0,kg CO2-Eq
+"('biosphere3', '5dfb74d2-fa15-4f2d-bf7c-5aa45a41ec7f')","Methane, chlorotrifluoro-, CFC-13","('air', 'low population density, long-term')",14400.0,kg CO2-Eq
+"('biosphere3', 'b9c1ac70-e2eb-4fcd-bc63-befa92866af5')","Methane, chlorotrifluoro-, CFC-13","('air', 'lower stratosphere + upper troposphere')",14400.0,kg CO2-Eq
+"('biosphere3', '23a9f33d-dbab-4fcc-8f49-1df731b0b827')","Methane, chlorotrifluoro-, CFC-13","('air', 'non-urban air or from high stacks')",14400.0,kg CO2-Eq
+"('biosphere3', 'e06e2e1e-ad87-49e2-a184-f2d1c48b7b46')","Methane, chlorotrifluoro-, CFC-13","('air',)",14400.0,kg CO2-Eq
+"('biosphere3', '43bc4fc0-bfeb-46d6-b3de-f69c3ccd622a')","Methane, chlorotrifluoro-, CFC-13","('air', 'urban air close to ground')",14400.0,kg CO2-Eq
+"('biosphere3', 'f903c2fb-71bf-4568-99fc-6aa7ed7bc922')","Methane, dichloro-, HCC-30","('air', 'low population density, long-term')",8.7,kg CO2-Eq
+"('biosphere3', 'b328d33e-9a9f-407d-a767-5c64ccdc163f')","Methane, dichloro-, HCC-30","('air', 'lower stratosphere + upper troposphere')",8.7,kg CO2-Eq
+"('biosphere3', 'd4b61c6c-a620-4a91-afc6-ca87ef97b55a')","Methane, dichloro-, HCC-30","('air', 'non-urban air or from high stacks')",8.7,kg CO2-Eq
+"('biosphere3', '432a3326-73f8-4752-bc4d-06b7b4b1243c')","Methane, dichloro-, HCC-30","('air',)",8.7,kg CO2-Eq
+"('biosphere3', '2716807d-0266-48ff-bb7a-6e6c5fbfd5c5')","Methane, dichloro-, HCC-30","('air', 'urban air close to ground')",8.7,kg CO2-Eq
+"('biosphere3', '31f8976a-6f7d-487e-a850-eb495dbf0351')","Methane, dichlorodifluoro-, CFC-12","('air', 'low population density, long-term')",10900.0,kg CO2-Eq
+"('biosphere3', '1013b9ec-a7b5-459c-be3d-74f61b9ce06e')","Methane, dichlorodifluoro-, CFC-12","('air', 'lower stratosphere + upper troposphere')",10900.0,kg CO2-Eq
+"('biosphere3', 'e93ba406-3df8-4e34-be54-0d556b2bb629')","Methane, dichlorodifluoro-, CFC-12","('air', 'non-urban air or from high stacks')",10900.0,kg CO2-Eq
+"('biosphere3', 'c0e8ec60-a5ae-432e-97a5-cf76b6247a00')","Methane, dichlorodifluoro-, CFC-12","('air',)",10900.0,kg CO2-Eq
+"('biosphere3', '31a3e44c-4098-461e-aba2-f79540e05087')","Methane, dichlorodifluoro-, CFC-12","('air', 'urban air close to ground')",10900.0,kg CO2-Eq
+"('biosphere3', '34de4196-871a-4db8-a182-589ab780a935')","Methane, dichlorofluoro-, HCFC-21","('air', 'low population density, long-term')",151.0,kg CO2-Eq
+"('biosphere3', 'de8d76cb-7216-4e6f-8bf2-8cdf76e99902')","Methane, dichlorofluoro-, HCFC-21","('air', 'lower stratosphere + upper troposphere')",151.0,kg CO2-Eq
+"('biosphere3', '727835b8-c650-4d46-882f-35b2a366b559')","Methane, dichlorofluoro-, HCFC-21","('air', 'non-urban air or from high stacks')",151.0,kg CO2-Eq
+"('biosphere3', '04a6edb8-624a-484e-8f85-d771657adae7')","Methane, dichlorofluoro-, HCFC-21","('air',)",151.0,kg CO2-Eq
+"('biosphere3', '3c8af80d-7ff8-43f4-b1a7-cef73b1b4682')","Methane, dichlorofluoro-, HCFC-21","('air', 'urban air close to ground')",151.0,kg CO2-Eq
+"('biosphere3', '33a791a2-a1e7-446b-b25a-b3be6159bae4')","Methane, difluoro-, HFC-32","('air', 'low population density, long-term')",675.0,kg CO2-Eq
+"('biosphere3', '20d0fc73-b9ce-4001-ac15-893b30ed10a3')","Methane, difluoro-, HFC-32","('air', 'lower stratosphere + upper troposphere')",675.0,kg CO2-Eq
+"('biosphere3', '8fbe2c56-c213-4501-b95e-ff57a76fbd6f')","Methane, difluoro-, HFC-32","('air', 'non-urban air or from high stacks')",675.0,kg CO2-Eq
+"('biosphere3', '151212b4-079b-43a2-96d5-a6eef59166ac')","Methane, difluoro-, HFC-32","('air',)",675.0,kg CO2-Eq
+"('biosphere3', 'c9028b09-c12d-421b-9944-7d145e196ebc')","Methane, difluoro-, HFC-32","('air', 'urban air close to ground')",675.0,kg CO2-Eq
+"('biosphere3', 'f3bd723a-5276-4ae8-9860-b89537351a90')","Methane, fossil","('air', 'low population density, long-term')",25.0,kg CO2-Eq
+"('biosphere3', '6b1b495b-70ee-4be6-b1c2-3031aa4d6add')","Methane, fossil","('air', 'lower stratosphere + upper troposphere')",25.0,kg CO2-Eq
+"('biosphere3', '70ef743b-3ed5-4a6d-b192-fb6d62378555')","Methane, fossil","('air', 'non-urban air or from high stacks')",25.0,kg CO2-Eq
+"('biosphere3', '0795345f-c7ae-410c-ad25-1845784c75f5')","Methane, fossil","('air',)",25.0,kg CO2-Eq
+"('biosphere3', '5f7aad3d-566c-4d0d-ad59-e765f971aa0f')","Methane, fossil","('air', 'urban air close to ground')",25.0,kg CO2-Eq
+"('biosphere3', '288c4e8a-d371-4bc1-b45b-c4b0cefd400e')","Methane, from soil or biomass stock","('air', 'indoor')",25.0,kg CO2-Eq
+"('biosphere3', 'f757365c-c6fd-41fe-ad32-3594ccd97ef0')","Methane, from soil or biomass stock","('air', 'low population density, long-term')",25.0,kg CO2-Eq
+"('biosphere3', 'ef4566f0-60d5-4bbe-a2cb-7268a81fecd4')","Methane, from soil or biomass stock","('air', 'lower stratosphere + upper troposphere')",25.0,kg CO2-Eq
+"('biosphere3', '9541a975-800f-4fed-9edf-28f6e411a015')","Methane, from soil or biomass stock","('air', 'non-urban air or from high stacks')",25.0,kg CO2-Eq
+"('biosphere3', '7f0ba7c9-341e-413d-80f6-8753727d65d1')","Methane, from soil or biomass stock","('air',)",25.0,kg CO2-Eq
+"('biosphere3', '299c6564-426e-48c3-b516-fdf301d12127')","Methane, from soil or biomass stock","('air', 'urban air close to ground')",25.0,kg CO2-Eq
+"('biosphere3', '246c87af-4495-4977-8d39-eae397c1c8f1')","Methane, monochloro-, R-40","('air', 'low population density, long-term')",13.0,kg CO2-Eq
+"('biosphere3', '0f70e720-127e-44dc-bb85-438158235ab6')","Methane, monochloro-, R-40","('air', 'lower stratosphere + upper troposphere')",13.0,kg CO2-Eq
+"('biosphere3', 'ed63abd0-7cc6-4825-8759-b367e560fe95')","Methane, monochloro-, R-40","('air', 'non-urban air or from high stacks')",13.0,kg CO2-Eq
+"('biosphere3', '18ea247b-edc2-43fe-89bd-cedd04102bcc')","Methane, monochloro-, R-40","('air',)",13.0,kg CO2-Eq
+"('biosphere3', '370447a7-70d1-47bd-8577-0a32c4f53570')","Methane, monochloro-, R-40","('air', 'urban air close to ground')",13.0,kg CO2-Eq
+"('biosphere3', '6c977009-5c4e-4901-a4c1-ab20389cb972')","Methane, non-fossil","('air', 'low population density, long-term')",25.0,kg CO2-Eq
+"('biosphere3', '258263a0-6be3-4439-bd84-efee0498b849')","Methane, non-fossil","('air', 'lower stratosphere + upper troposphere')",25.0,kg CO2-Eq
+"('biosphere3', '57bdb443-d4a6-423d-8024-959b8261d02e')","Methane, non-fossil","('air', 'non-urban air or from high stacks')",25.0,kg CO2-Eq
+"('biosphere3', 'da1157e2-7593-4dfd-80dd-a3449b37a4d8')","Methane, non-fossil","('air',)",25.0,kg CO2-Eq
+"('biosphere3', 'baf58fc9-573c-419c-8c16-831ac03203b9')","Methane, non-fossil","('air', 'urban air close to ground')",25.0,kg CO2-Eq
+"('biosphere3', 'ba5c9458-44df-4d93-a7c3-9389f65166d8')","Methane, tetrachloro-, R-10","('air', 'low population density, long-term')",1400.0,kg CO2-Eq
+"('biosphere3', '6c833956-6302-47c3-8abc-7ecae92266fb')","Methane, tetrachloro-, R-10","('air', 'lower stratosphere + upper troposphere')",1400.0,kg CO2-Eq
+"('biosphere3', '0f9f3e17-eb81-4adb-8170-049bc6b66728')","Methane, tetrachloro-, R-10","('air', 'non-urban air or from high stacks')",1400.0,kg CO2-Eq
+"('biosphere3', '86d12e70-0c64-4ecf-ba52-114fa0c5d402')","Methane, tetrachloro-, R-10","('air',)",1400.0,kg CO2-Eq
+"('biosphere3', '5c97dd6c-aaa5-4477-aaf8-dbd0674499c4')","Methane, tetrachloro-, R-10","('air', 'urban air close to ground')",1400.0,kg CO2-Eq
+"('biosphere3', 'e59a199f-d4ed-4d43-82b1-71c4a8fae867')","Methane, tetrafluoro-, R-14","('air', 'low population density, long-term')",7390.0,kg CO2-Eq
+"('biosphere3', '6d023c39-c04e-4305-b2e4-adc89b53e708')","Methane, tetrafluoro-, R-14","('air', 'lower stratosphere + upper troposphere')",7390.0,kg CO2-Eq
+"('biosphere3', 'b353e7d2-5b94-4b6e-a3e5-de0a10bef851')","Methane, tetrafluoro-, R-14","('air', 'non-urban air or from high stacks')",7390.0,kg CO2-Eq
+"('biosphere3', '33681770-a0e1-4ce8-93c3-941fd607fa5f')","Methane, tetrafluoro-, R-14","('air',)",7390.0,kg CO2-Eq
+"('biosphere3', 'dfe1da1e-7756-4f7e-a393-6d5e2342a962')","Methane, tetrafluoro-, R-14","('air', 'urban air close to ground')",7390.0,kg CO2-Eq
+"('biosphere3', '3feb6415-ae50-4bb7-b9d1-c18d99f8a87f')","Methane, trichlorofluoro-, CFC-11","('air', 'low population density, long-term')",4750.0,kg CO2-Eq
+"('biosphere3', '6e61b542-5681-44f4-afcb-e30368bca420')","Methane, trichlorofluoro-, CFC-11","('air', 'lower stratosphere + upper troposphere')",4750.0,kg CO2-Eq
+"('biosphere3', 'a916ca1b-4ece-4630-a563-ae3253efc04f')","Methane, trichlorofluoro-, CFC-11","('air', 'non-urban air or from high stacks')",4750.0,kg CO2-Eq
+"('biosphere3', '51e99a55-bcdb-4d18-9484-6de4b142e09d')","Methane, trichlorofluoro-, CFC-11","('air',)",4750.0,kg CO2-Eq
+"('biosphere3', '33a69662-583b-45b8-8cb9-94f59fca9133')","Methane, trichlorofluoro-, CFC-11","('air', 'urban air close to ground')",4750.0,kg CO2-Eq
+"('biosphere3', 'dc78690a-2b0a-49fc-8272-b811fb25ff6c')","Methane, trifluoro-, HFC-23","('air', 'low population density, long-term')",14800.0,kg CO2-Eq
+"('biosphere3', 'a3724600-89c1-4f35-97c9-0de3adbadc8b')","Methane, trifluoro-, HFC-23","('air', 'lower stratosphere + upper troposphere')",14800.0,kg CO2-Eq
+"('biosphere3', '5e2e1740-1bb9-4157-b816-6cb5aa006437')","Methane, trifluoro-, HFC-23","('air', 'non-urban air or from high stacks')",14800.0,kg CO2-Eq
+"('biosphere3', 'e5ba3517-a93f-422e-9ce2-f1007fcf6c06')","Methane, trifluoro-, HFC-23","('air',)",14800.0,kg CO2-Eq
+"('biosphere3', '8f87dcf1-0177-4d62-bea0-a5dd8647ef8c')","Methane, trifluoro-, HFC-23","('air', 'urban air close to ground')",14800.0,kg CO2-Eq
+"('biosphere3', '4c097625-506e-4dfc-a170-75fda90cf7cb')",Nitrogen fluoride,"('air', 'low population density, long-term')",17200.0,kg CO2-Eq
+"('biosphere3', 'fdf090d7-ee05-4f33-8b7f-5504c718c3cd')",Nitrogen fluoride,"('air', 'lower stratosphere + upper troposphere')",17200.0,kg CO2-Eq
+"('biosphere3', 'f8cf5fd7-9f94-4870-9e6a-768deae9b766')",Nitrogen fluoride,"('air', 'non-urban air or from high stacks')",17200.0,kg CO2-Eq
+"('biosphere3', 'e79e03c3-5b19-45f6-b3f3-bf710c6663d2')",Nitrogen fluoride,"('air',)",17200.0,kg CO2-Eq
+"('biosphere3', '1fdc280a-34d3-4513-b110-3f526b17c443')",Nitrogen fluoride,"('air', 'urban air close to ground')",17200.0,kg CO2-Eq
+"('biosphere3', 'e2ccc98a-6d4e-443b-b11f-d16f32782833')",Perfluoropentane,"('air',)",9160.0,kg CO2-Eq
+"('biosphere3', 'acbae70a-5450-448f-9038-c403cb496e1a')",Sulfur hexafluoride,"('air', 'low population density, long-term')",22800.0,kg CO2-Eq
+"('biosphere3', '44e4d1ce-fa79-4ed5-93f9-445c4ff8df2e')",Sulfur hexafluoride,"('air', 'lower stratosphere + upper troposphere')",22800.0,kg CO2-Eq
+"('biosphere3', 'c7c769bb-89b9-4459-afed-e3acecd39339')",Sulfur hexafluoride,"('air', 'non-urban air or from high stacks')",22800.0,kg CO2-Eq
+"('biosphere3', '35d1dff5-b535-4628-9826-4a8fce08a1f2')",Sulfur hexafluoride,"('air',)",22800.0,kg CO2-Eq
+"('biosphere3', '856c9aa2-c20c-49a8-9417-c71bdb5f17b0')",Sulfur hexafluoride,"('air', 'urban air close to ground')",22800.0,kg CO2-Eq
