@@ -7,8 +7,8 @@ Collection schedule,Actual working hours a day,(hours/vehicle-day),WV,9,9,9,9,9,
 Collection schedule,Working hours a day for wage,(hours/person-day),WP,8,8,8,8,8,8,8,,8,,8,,8
 Collection Rules,Is the route or truck subject to a weight limit?,,wt_lim,0,0,0,0,0,0,0,0,0,0,0,0,0
 Collection Rules,Maximum permissible collected weight before unload,(Mg/vehicle),max_weight,10,10,10,10,10,10,10,,10,,10,10,10
-Collection operation times,Loading time at one service stop,(min/stop),TL,0.2,0.2,0.45,0.45,0.15,0.42,0.176,,0.176,,20,,20
-Collection operation times,Time to unload at disposal facility,(min/trip),S,16,9,9,9,17,17,17,,17,,15,,15
+Collection operation times,Loading time at one service stop,(min/stop),TL,0.2,0.2,0.45,0.45,0.15,0.42,0.4,,0.4,,20,,20
+Collection operation times,Time to unload at disposal facility,(min/trip),S,16,9,9,9,17,17,32,,32,,15,,15
 Collection operation times,Lunch time,(min/day-vehicle),F1_,30,30,30,30,30,30,30,,30,,30,,30
 Collection operation times,Is truck left idling during lunch?,(Yes/No)(1/0),F1_idle,0,0,0,0,0,0,0,,0,,0,,0
 Collection operation times,Break time,(min/day-vehicle),F2_,30,30,30,30,30,30,30,,30,,30,,30
@@ -28,19 +28,19 @@ Vehicle operational parameters,Economic life of a vehicle,(year),Lt,10,10,10,10,
 Vehicle operational parameters,Unit price of a vehicle,($/vehicle),Pt,240000,240000,240000,240000,240000,240000,240000,,240000,,99153,,99153
 Vehicle operational parameters,Vehicle operation and maint. Cost,($/vehicle),c,40000,40000,40000,40000,40000,40000,40000,,40000,,40000,,40000
 Vehicle operational parameters,Assumed compartment compaction density,(lb/yd3),den_asmd,700,388,388,388,575,300,700,,700,,128,350,128
-Travel speeds,Between collection stops   ,(miles/hour),Vbet,9,9,10.58823529,10.58823529,10.58823529,4.32,10.43478261,,10.43478261,,60,,60
-Travel speeds,From collection route to facility,(miles/hour),Vrf,80,60,60,60,80,80,80,,80,,30,,30
-Travel speeds,From garage to route in the morning,(miles/hour),Vgr,31.71428571,18.85714286,42.85714286,42.85714286,42.85714286,34.28571429,31.71428571,,31.71428571,,30,,30
-Travel speeds,From facility to garage,(miles/hour),Vfg,70.58823529,54.54545455,60,60,77.64705882,70.58823529,77.64705882,,77.64705882,,30,,30
+Travel speeds,Between collection stops   ,(miles/hour),Vbet,9,9,9,9,9,9,9,,9,,60,,60
+Travel speeds,From collection route to facility,(miles/hour),Vrf,60,60,60,60,60,60,60,,60,,30,,30
+Travel speeds,From garage to route in the morning,(miles/hour),Vgr,35,35,35,35,35,35,35,,35,,35,,35
+Travel speeds,From facility to garage,(miles/hour),Vfg,55,55,55,55,55,55,55,,55,,30,,30
 Distances and Mass Split,Mass Split to destination ,(%),M_split,1,1,1,1,1,1,1,,1,,1,1,1
 Distances and Mass Split,Destination name,,Dest,,,,,,,,,,,,,
-Distances and Mass Split,Distance btwn collection route and destination ,(miles),Drf,20,20,20,20,20,20,20,,20,,10,,10
+Distances and Mass Split,Distance btwn collection route and destination ,(miles),Drf,20,20,20,20,20,20,40,,40,,10,,10
 Distances and Mass Split,Fraction of route to destination which is HIGHWAY,,fDrd,0.5,0.5,0.5,0.5,0.5,0.5,0.5,,0.5,,0.5,,0.5
-Distances and Mass Split,Distance between destination and garage,(miles),Dfg,20,20,22,22,22,20,22,,22,,10,,10
+Distances and Mass Split,Distance between destination and garage,(miles),Dfg,24,24,24,24,24,24,44,,44,,10,,10
 Distances and Mass Split,Fraction of destination to garage which is HIGHWAY,,fDfg,0.5,0.5,0.5,0.5,0.5,0.5,0.5,,0.5,,0.5,,0.5
 Distances and Mass Split,"Distance between service stops, based on 100% Prtcp",(miles),D100,0.03,0.03,0.03,0.03,0.03,0.03,0.03,,0.03,,5,,5
 Distances and Mass Split,"Distance between service stops, adjusted",(miles),Dbtw,0.03,0.036,0.033,0.033,0.03,0.033,0.03,,0.03,,5.556,,5.556
-Distances and Mass Split,Distance btwn garage and collection route,(miles),Dgr,3.7,2.2,5,5,5,4,3.7,,3.7,,10,,10
+Distances and Mass Split,Distance btwn garage and collection route,(miles),Dgr,4,4,4,4,4,4,4,,4,,10,,10
 Distances and Mass Split,Fraction of distance btwn garage and collection route which is HIGHWAY,,fDgr,0,0,0,0,0,0,0,,0,,0,,0
 Fuel usage rates,Fuel split: fraction of stops serviced by CNG vehicles,,Fract_CNG,0,0,0,0,0,0,0,,0,,0,,0
 Fuel usage rates,Fuel split: fraction of stops serviced by diesel vehicles,,Fract_Dies,1,1,1,1,1,1,1,,1,,1,,1
@@ -63,5 +63,5 @@ Garage and office parameters,Office area per collection vehicle,(ft2/vehicle),of
 Garage and office parameters,Maint. area elec. consumption rate,(kWh/day-ft2),grg_enrg,0.001,0.001,0.001,0.001,0.001,0.001,0.001,,0.001,,0.001,,0.001
 Garage and office parameters,Office area elec. consumption rate,(kWh/day/ft2),off_enrg,0.002,0.002,0.002,0.002,0.002,0.002,0.002,,0.002,,0.002,,0.002
 MSW/recyclables storage system,Unit price of a bin,($/bin),Pb,7.59,7.59,7.59,7.59,7.59,7.59,7.59,,7.59,,0,0,0
-MSW/recyclables storage system,Number of bins for each house,(bins/house),Rb,1,1,1,1,1,1,1,,1,,0,0,0
+MSW/recyclables storage system,Number of bins for each house,(bins/house),Rb,1,1,2,3,1,1,2,,2,,0,0,0
 MSW/recyclables storage system,Economic life of a bin,(year),Lb,10,10,10,10,10,10,10,,10,,0,0,0
