@@ -35,6 +35,6 @@ class SF_Col_Input(InputData):
         ### Read input data
         self.col = pd.read_csv(Path(__file__).parent / 'Data/SF_Col_Input_process.csv',
                                index_col='Name',
-                               usecols=['Name', 'RWC', 'SSR', 'DSR', 'MSR', 'LV', 'SSYW', 'SSO', 'DryRes', 'REC',
+                               usecols=['Name', 'RWC', 'SSR', 'DSR', 'MSR', 'LV', 'SSYW', 'SSO', 'ORG', 'DryRes', 'REC',
                                         'WetRes', 'MRDO', 'SSYWDO', 'MSRDO']).astype(float)
         self.col = self.col.transpose()
