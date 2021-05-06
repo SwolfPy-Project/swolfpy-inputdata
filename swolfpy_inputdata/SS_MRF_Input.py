@@ -28,7 +28,7 @@ class SS_MRF_Input(InputData):
                                         header=0,
                                         skiprows=[1, 2, 3]).loc[CommonDataObjct.Index].astype(float)
         self.process_data.fillna(0, inplace=True)
-        self.process_data_info = pd.read_csv(Path(__file__).parent / "Data/AD_Input_MaterialDependent.csv",
+        self.process_data_info = pd.read_csv(Path(__file__).parent / "Data/SS_MRF_Input_MaterialDependent.csv",
                                              index_col=0,
                                              header=0,
                                              nrows=3)

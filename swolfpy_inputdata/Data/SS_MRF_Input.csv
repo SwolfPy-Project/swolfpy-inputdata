@@ -18,51 +18,32 @@ Recoverable Material: Secondary Sort?,Rec_Sorted_material,Glass_Green,Additional
 Recoverable Material: Secondary Sort?,Rec_Sorted_material,Glass_Clear,Additional Separation to Isolate Glass_Clear?,1,0/1 (No/Yes),,,,,,,,"If no glass isl isolated, optical sorter will be turned off"
 Recoverable Material: Secondary Sort?,Rec_Sorted_material,HDPE_Translucent,Additional Separation to Isolate HDPE_Translucent?,1,0/1 (No/Yes),,,,,,,,
 Recoverable Material: Secondary Sort?,Rec_Sorted_material,HDPE_Pigmented,Additional Separation to Isolate HDPE_Pigmented?,1,0/1 (No/Yes),,,,,,,,
-Recoverable Material: Price,Rec_price,OCC,Price of OCC,77,$/Mg,,,,,,,,
-Recoverable Material: Price,Rec_price,Non_OCC_Fiber,Price of Non_OCC_Fiber,50,$/Mg,,,,,,,,Price for mixed paper
-Recoverable Material: Price,Rec_price,Aluminous,Price of Aluminous,1300,$/Mg,,,,,,,,
-Recoverable Material: Price,Rec_price,Ferrous,Price of Ferrous,110,$/Mg,,,,,,,,
-Recoverable Material: Price,Rec_price,Film,Price of Film,0,$/Mg,,,,,,,,
-Recoverable Material: Price,Rec_price,HDPE,Price of HDPE,330,$/Mg,,,,,,,,
-Recoverable Material: Price,Rec_price,PET,Price of PET,290,$/Mg,,,,,,,,
-Recoverable Material: Price,Rec_price,Glass,Price of Glass,0,$/Mg,,,,,,,,
-Recoverable Material: Price,Rec_price,Newsprint,Price of Newsprint,55,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
-Recoverable Material: Price,Rec_price,Office_Paper,Price of Office Paper,50,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
-Recoverable Material: Price,Rec_price,Magazines,Price of Magazines ,50,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
-Recoverable Material: Price,Rec_price,Third_Class_Mail,Price of Third Class Mail,50,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
-Recoverable Material: Price,Rec_price,Folding_Containers,Price of Folding Containers,50,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
-Recoverable Material: Price,Rec_price,Paper_Bags,Price of Paper Bags ,50,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
-Recoverable Material: Price,Rec_price,Glass_Brown,Price of Glass_Brown,20,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
-Recoverable Material: Price,Rec_price,Glass_Green,Price of Glass_Green,1,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
-Recoverable Material: Price,Rec_price,Glass_Clear,Price of Glass_Clear,28,$/Mg,,,,,,,,Price is associated with only the material recovered during the secondary sort
-Recoverable Material: Price,Rec_price,HDPE_Translucent,Price of HDPE - Translucent Containers,330,$/Mg,,,,,,,,
-Recoverable Material: Price,Rec_price,HDPE_Pigmented,Price of  HDPE - Pigmented Containers,330,$/Mg,,,,,,,,
-Recoverable Material: Picking Rate,Rec_PickRate,OCC,Picking Rate of OCC,226.7573696,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1995"
-Recoverable Material: Picking Rate,Rec_PickRate,Non_OCC_Fiber,Picking Rate of Non_OCC_Fiber,226.7573696,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1996"
-Recoverable Material: Picking Rate,Rec_PickRate,Aluminous,Picking Rate of Aluminous,9.070294785,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1997"
-Recoverable Material: Picking Rate,Rec_PickRate,Ferrous,Picking Rate of Ferrous,9.070294785,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1998"
-Recoverable Material: Picking Rate,Rec_PickRate,Film,Picking Rate of Film,9.070294785,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1999"
-Recoverable Material: Picking Rate,Rec_PickRate,HDPE,Picking Rate of HDPE,36.28117914,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 2000"
-Recoverable Material: Picking Rate,Rec_PickRate,PET,Picking Rate of PET,22.67573696,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 2001"
-Recoverable Material: Picking Rate,Rec_PickRate,Newsprint,Picking Rate of Newsprint,226.7573696,kg/(sorter*hr),,,,,,,,"Rate for secondary sort, Nishtala, 1995"
-Recoverable Material: Picking Rate,Rec_PickRate,Office_Paper,Picking Rate of Office_Paper,226.7573696,kg/(sorter*hr),,,,,,,,"Rate for secondary sort, Nishtala, 1996"
-Recoverable Material: Picking Rate,Rec_PickRate,Magazines,Picking Rate of Magazines ,226.7573696,kg/(sorter*hr),,,,,,,,"Rate for secondary sort, Nishtala, 1997"
-Recoverable Material: Picking Rate,Rec_PickRate,3rd_Class_Mail,Picking Rate of 3rd_Class_Mail,226.7573696,kg/(sorter*hr),,,,,,,,"Rate for secondary sort, Nishtala, 1998"
-Recoverable Material: Picking Rate,Rec_PickRate,Folding_Containers,Picking Rate of Folding_Containers,226.7573696,kg/(sorter*hr),,,,,,,,"Rate for secondary sort, Nishtala, 1999"
-Recoverable Material: Picking Rate,Rec_PickRate,Paper_Bags,Picking Rate of Paper_Bags ,226.7573696,kg/(sorter*hr),,,,,,,,"Rate for secondary sort, Nishtala, 2000"
+Recoverable Material: Picking Rate,Rec_PickRate,OCC,Picking Rate of OCC,226.76,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1995"
+Recoverable Material: Picking Rate,Rec_PickRate,Non_OCC_Fiber,Picking Rate of Non_OCC_Fiber,226.76,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1996"
+Recoverable Material: Picking Rate,Rec_PickRate,Aluminous,Picking Rate of Aluminous,9.07,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1997"
+Recoverable Material: Picking Rate,Rec_PickRate,Ferrous,Picking Rate of Ferrous,9.07,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1998"
+Recoverable Material: Picking Rate,Rec_PickRate,Film,Picking Rate of Film,9.07,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1999"
+Recoverable Material: Picking Rate,Rec_PickRate,HDPE,Picking Rate of HDPE,36.28,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 2000"
+Recoverable Material: Picking Rate,Rec_PickRate,PET,Picking Rate of PET,22.68,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 2001"
+Recoverable Material: Picking Rate,Rec_PickRate,Newsprint,Picking Rate of Newsprint,226.76,kg/(sorter*hr),,,,,,,,"Rate for secondary sort, Nishtala, 1995"
+Recoverable Material: Picking Rate,Rec_PickRate,Office_Paper,Picking Rate of Office_Paper,226.76,kg/(sorter*hr),,,,,,,,"Rate for secondary sort, Nishtala, 1996"
+Recoverable Material: Picking Rate,Rec_PickRate,Magazines,Picking Rate of Magazines ,226.76,kg/(sorter*hr),,,,,,,,"Rate for secondary sort, Nishtala, 1997"
+Recoverable Material: Picking Rate,Rec_PickRate,3rd_Class_Mail,Picking Rate of 3rd_Class_Mail,226.76,kg/(sorter*hr),,,,,,,,"Rate for secondary sort, Nishtala, 1998"
+Recoverable Material: Picking Rate,Rec_PickRate,Folding_Containers,Picking Rate of Folding_Containers,226.76,kg/(sorter*hr),,,,,,,,"Rate for secondary sort, Nishtala, 1999"
+Recoverable Material: Picking Rate,Rec_PickRate,Paper_Bags,Picking Rate of Paper_Bags ,226.76,kg/(sorter*hr),,,,,,,,"Rate for secondary sort, Nishtala, 2000"
 Recoverable Material: Bale Density,Rec_BaleDens,OCC,Bale Density of OCC,1.059,Mg/m3,,,,,,,,1 Way Baler
-Recoverable Material: Bale Density,Rec_BaleDens,Non_OCC_Fiber,Bale Density of Non_OCC_Fiber,1.13,Mg/m4,,,,,,,,1 Way Baler
+Recoverable Material: Bale Density,Rec_BaleDens,Non_OCC_Fiber,Bale Density of Non_OCC_Fiber,1.130,Mg/m4,,,,,,,,1 Way Baler
 Recoverable Material: Bale Density,Rec_BaleDens,Aluminous,Bale Density of Aluminous,0.384,Mg/m5,,,,,,,,
 Recoverable Material: Bale Density,Rec_BaleDens,Ferrous,Bale Density of Ferrous,0.656,Mg/m6,,,,,,,,
 Recoverable Material: Bale Density,Rec_BaleDens,Film,Bale Density of Film,0.416,Mg/m7,,,,,,,,
 Recoverable Material: Bale Density,Rec_BaleDens,HDPE,Bale Density of HDPE,0.416,Mg/m8,,,,,,,,
 Recoverable Material: Bale Density,Rec_BaleDens,PET,Bale Density of PET,0.416,Mg/m9,,,,,,,,
-Recoverable Material: Separation Efficiency,Rec_Sep_eff,Newsprint,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
-Recoverable Material: Separation Efficiency,Rec_Sep_eff,Office_Paper,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
-Recoverable Material: Separation Efficiency,Rec_Sep_eff,Magazines,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
-Recoverable Material: Separation Efficiency,Rec_Sep_eff,Third_Class_Mail,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
-Recoverable Material: Separation Efficiency,Rec_Sep_eff,Folding_Containers,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
-Recoverable Material: Separation Efficiency,Rec_Sep_eff,Paper_Bags,Separation Efficiency of secondary sort,0.9,fraction,,,,,,,,
+Recoverable Material: Separation Efficiency,Rec_Sep_eff,Newsprint,Separation Efficiency of secondary sort,0.90,fraction,,,,,,,,
+Recoverable Material: Separation Efficiency,Rec_Sep_eff,Office_Paper,Separation Efficiency of secondary sort,0.90,fraction,,,,,,,,
+Recoverable Material: Separation Efficiency,Rec_Sep_eff,Magazines,Separation Efficiency of secondary sort,0.90,fraction,,,,,,,,
+Recoverable Material: Separation Efficiency,Rec_Sep_eff,Third_Class_Mail,Separation Efficiency of secondary sort,0.90,fraction,,,,,,,,
+Recoverable Material: Separation Efficiency,Rec_Sep_eff,Folding_Containers,Separation Efficiency of secondary sort,0.90,fraction,,,,,,,,
+Recoverable Material: Separation Efficiency,Rec_Sep_eff,Paper_Bags,Separation Efficiency of secondary sort,0.90,fraction,,,,,,,,
 Equipment:Eddy Current Separator,Eq_EDS,Calc_base,Mass Used in Resource Calculations,0,0/1/2 (Removed/Remaining/TotalThroughput),,,,,,,,
 Equipment:Eddy Current Separator,Eq_EDS,Max_input,Max Throughput ,12,Mg/hr,,,,,,,,
 Equipment:Eddy Current Separator,Eq_EDS,frac_MaxInput,Fraction of Max Throughput ,0.85,frac,,,,,,,,
@@ -483,9 +464,9 @@ Equipment:2-Way Baler,Eq_Baler_2Way,O&M,Fixed Operations and Maintenance Cost,50
 Equipment:2-Way Baler,Eq_Baler_2Way,N_Labor,Number of Laborers Required ,1,person,,,,,,,,
 Equipment:2-Way Baler,Eq_Baler_2Way,N_Driver,Number of Drivers Required,0,person,,,,,,,,
 Equipment:2-Way Baler,Eq_Baler_2Way,LifeTime,Economic Lifetime,10,yr,,,,,,,,
-Equipment:2-Way Baler,Eq_Baler_2Way,Bale_Width,Bale Width,1.1429442,m,,,,,,,,
-Equipment:2-Way Baler,Eq_Baler_2Way,Bale_Length,Bale Length ,1.6255207,m,,,,,,,,
-Equipment:2-Way Baler,Eq_Baler_2Way,Bale_Height,Bale Height,0.7873616,m,,,,,,,,
+Equipment:2-Way Baler,Eq_Baler_2Way,Bale_Width,Bale Width,1.14,m,,,,,,,,
+Equipment:2-Way Baler,Eq_Baler_2Way,Bale_Length,Bale Length ,1.63,m,,,,,,,,
+Equipment:2-Way Baler,Eq_Baler_2Way,Bale_Height,Bale Height,0.79,m,,,,,,,,
 Equipment:2-Way Baler,Eq_Baler_2Way,Straps_Per_Bale,Straps Per Bale,6,N/A,,,,,,,,
 Equipment:Rolling Stock,Eq_Rolling_Stock,Calc_base,Mass Used in Resource Calculations,2,0/1/2 (Removed/Remaining/TotalThroughput),,,,,,,,
 Equipment:Rolling Stock,Eq_Rolling_Stock,Max_input,Max Throughput ,24,Mg/hr,,,,,,,,
@@ -500,17 +481,17 @@ Equipment:Rolling Stock,Eq_Rolling_Stock,O&M,Fixed Operations and Maintenance Co
 Equipment:Rolling Stock,Eq_Rolling_Stock,N_Labor,Number of Laborers Required ,0,person,,,,,,,,
 Equipment:Rolling Stock,Eq_Rolling_Stock,N_Driver,Number of Drivers Required,1,person,,,,,,,,Industry Data
 Equipment:Rolling Stock,Eq_Rolling_Stock,LifeTime,Economic Lifetime,10,yr,,,,,,,,
-Electricity,Electricity,Area_rate,Indoor Floor Area Rate,24.376,m2/tpd,,,,,,,,
+Electricity,Electricity,Area_rate,Indoor Floor Area Rate,24.38,m2/tpd,,,,,,,,
 Electricity,Electricity,Frac_office,Percent Office Floor Area,0.04,frac of total m2,,,,,,,,
-Electricity,Electricity,Elec_office,Electricity Consumed in Offices,0.510196558,kWh/m2-day,,,,,,,,
-Electricity,Electricity,Elec_floor,Electricity Consumed on floor,0.020242712,kWh/m2-day,,,,,,,,
+Electricity,Electricity,Elec_office,Electricity Consumed in Offices,0.510,kWh/m2-day,,,,,,,,
+Electricity,Electricity,Elec_floor,Electricity Consumed on floor,0.020,kWh/m2-day,,,,,,,,
 Baler_Wire ,Baler_Wire,Trans_HDDT,Heavy Duty Diesel Truck,100,km,,,,,,,,
 Baler_Wire ,Baler_Wire,Trans_MDDT,Medium Duty Diesel Truck,0,km,,,,,,,,
 Baler_Wire ,Baler_Wire,Trans_Barge,Barge,0,km,,,,,,,,
 Baler_Wire ,Baler_Wire,Trans_CargoShip,Cargo Ship,0,km,,,,,,,,
 Baler_Wire ,Baler_Wire,Trans_Rail,Rail,0,km,,,,,,,,
-Baler_Wire ,Baler_Wire,Len_to_Mass,Wire Length Per Unit Mass,13.44102408,m/kg,,,,,,,,
-Baler_Wire ,Baler_Wire,Price,Cost of Baling Wire ,2.105,$/kg,,,,,,,,
+Baler_Wire ,Baler_Wire,Len_to_Mass,Wire Length Per Unit Mass,13.44,m/kg,,,,,,,,
+Baler_Wire ,Baler_Wire,Price,Cost of Baling Wire ,2.11,$/kg,,,,,,,,
 Labor,Labor,Hr_shift,Paid Hours in Shift,9,hrs/shift,,,,,,,,
 Labor,Labor,Shift_day,Number of Shifts Per Workday,2,shift/day,,,,,,,,
 Labor,Labor,Day_year,Days Operating Per Year,260,days/year,,,,,,,,
@@ -530,4 +511,3 @@ Contruction Cost,Constr_cost,Weigh_Station,Weigh Station,105000,$,,,,,,,,
 Contruction Cost,Constr_cost,Utility_Connections,Utility Connections,25000,$,,,,,,,,
 Contruction Cost,Constr_cost,Fencing_Rate,Fencing,56,$/m,,,,,,,,
 Contruction Cost,Constr_cost,Landscaping_rate,Landscaping,10000,$/ha,,,,,,,,
-Contruction Cost,Constr_cost,Unit_capital_cost,Capital Cost,153.22,$/design Mg per year,,,,,,,,
