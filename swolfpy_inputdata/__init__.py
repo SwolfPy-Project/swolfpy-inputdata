@@ -15,7 +15,7 @@ from .AD_Input import AD_Input
 from .SS_MRF_Input import SS_MRF_Input
 from .Reproc_Input import Reproc_Input
 from .SF_Col_Input import SF_Col_Input
-
+from .TS_Input import TS_Input
 
 __all__ = [
     'MC',
@@ -28,7 +28,8 @@ __all__ = [
     'AD_Input',
     'SS_MRF_Input',
     'Reproc_Input',
-    'SF_Col_Input'
+    'SF_Col_Input',
+    'TS_Input'
 ]
 
 __version__ = '0.1.6'
