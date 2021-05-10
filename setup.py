@@ -12,7 +12,7 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [
 'pandas',
-'xlrd',
+'xlrd==1.2.0',
 'stats-arrays',
 'jupyter'
 ]
@@ -61,6 +61,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://bitbucket.org/msm_sardar/swolfpy-inputdata',
-    version='0.1.6',
+    version='0.1.7',
     zip_safe=False,
 )
