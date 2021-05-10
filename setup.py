@@ -51,6 +51,7 @@ setup(
     install_requires=requirements,
     license="GNU GENERAL PUBLIC LICENSE V2",
     long_description=readme + '\n\n' + history,
+    long_description_content_type= 'text/markdown',
     include_package_data=True,
     keywords='swolfpy_inputdata',
     name='swolfpy_inputdata',
