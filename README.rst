@@ -32,7 +32,7 @@ Input data for swolfpy's life-cycle process models (swolfpy_inputdata)
   * https://go.ncsu.edu/swolfpy
   * https://jwlevis.wixsite.com/swolf
 
-|
+
 Features
 --------
 * Input data for Life-cycle process models of swolfpy
@@ -83,7 +83,7 @@ Features
    * - Comment
      -
      
-|
+
 .. Installation
 
 Installation

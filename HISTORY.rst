@@ -2,6 +2,11 @@
 History
 =======
 
+0.1.9 (2021-05-10)
+------------------
+
+* Life cycle cost, input data for TS, References 
+
 
 0.1.0 (2020-05-06)
 ------------------
