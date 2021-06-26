@@ -30,7 +30,7 @@ __all__ = [
     'SS_MRF_Input',
     'Reproc_Input',
     'SF_Col_Input',
-    'TS_Input'
+    'TS_Input',
     'HC_Input'
 ]
 

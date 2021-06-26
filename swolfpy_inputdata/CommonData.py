@@ -48,11 +48,15 @@ class CommonData(InputData):
                                    'PET', 'HDPE_P', 'HDPE_T', 'LDPE_Film']
 
 # Collection products index
-        self.Collection_Index = ['RWC', 'SSR', 'DSR', 'MSR', 'LV', 'SSYW', 'SSO', 'ORG', 'DryRes', 'REC', 'WetRes',
+        self.Collection_Index = ['RWC', 'SSR', 'DSR', 'MSR', 'LV', 'SSYW', 'SSO',
+                                 'SSO_HC', 'ORG', 'DryRes', 'REC', 'WetRes',
                                  'MRDO', 'SSYWDO', 'MSRDO']
 
 # Waste products index
-        self.Waste_Pr_Index = ['Bottom_Ash', 'Fly_Ash', 'Separated_Organics', 'Other_Residual', 'Separated_Recyclables', 'RDF']
+        self.Waste_Pr_Index = ['Bottom_Ash', 'Fly_Ash', 'Separated_Organics',
+                               'Other_Residual', 'Separated_Recyclables', 'RDF']
 
 # all waste_pr_index
-        self.All_Waste_Pr_Index = self.Waste_Pr_Index + self.Collection_Index + self.Reprocessing_Index
+        self.All_Waste_Pr_Index = (self.Waste_Pr_Index
+                                   + self.Collection_Index
+                                   + self.Reprocessing_Index)
