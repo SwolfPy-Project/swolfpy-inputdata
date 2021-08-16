@@ -23,10 +23,14 @@ Input data for swolfpy's life-cycle process models (swolfpy_inputdata)
         :target: https://swolfpy.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
+.. image:: https://github.com/SwolfPy-Project/swolfpy-inputdata/actions/workflows/python-app.yml/badge.svg?branch=master
+        :target: https://github.com/SwolfPy-Project/swolfpy-inputdata/actions/workflows/python-app.yml
+        :alt: Test
+
 
 * Free software: GNU GENERAL PUBLIC LICENSE V2
 * Documentation: https://swolfpy.readthedocs.io.
-* Repository: https://bitbucket.org/msm_sardar/swolfpy-inputdata
+* Repository: https://github.com/SwolfPy-Project/swolfpy-inputdata
 * Other links: 
 
   * https://go.ncsu.edu/swolfpy
