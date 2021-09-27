@@ -2,6 +2,12 @@
 History
 =======
 
+0.2.1 (2021-09-XX)
+------------------
+
+* New models: Gasification & Syngas combustion (GC), Refused Derived Fuel (RDF), Home composting (HC) 
+
+
 0.1.9 (2021-05-10)
 ------------------
 
