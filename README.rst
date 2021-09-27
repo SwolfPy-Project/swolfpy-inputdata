@@ -15,6 +15,10 @@ Input data for swolfpy's life-cycle process models (swolfpy_inputdata)
     :target: https://pypi.org/project/swolfpy_inputdata/
     :alt: License
 
+.. image:: https://img.shields.io/pypi/dm/swolfpy-inputdata.svg?label=Pypi%20downloads
+    :target: https://pypi.org/project/swolfpy/
+    :alt: Downloads
+
 .. image:: https://img.shields.io/pypi/format/swolfpy_inputdata.svg
     :target: https://pypi.org/project/swolfpy_inputdata/
     :alt: Format
@@ -52,7 +56,7 @@ Features
 * Built-in Monte Carlo simulation
 
 
-.. list-table:: Description of columns in the csv file for input data
+.. list-table:: **Description of columns in the csv file for input data**
    :widths: auto
    :header-rows: 1
 
