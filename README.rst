@@ -16,7 +16,7 @@ Input data for swolfpy's life-cycle process models (swolfpy_inputdata)
     :alt: License
 
 .. image:: https://img.shields.io/pypi/dm/swolfpy-inputdata.svg?label=Pypi%20downloads
-    :target: https://pypi.org/project/swolfpy/
+    :target: https://pypi.org/project/swolfpy-inputdata/
     :alt: Downloads
 
 .. image:: https://img.shields.io/pypi/format/swolfpy_inputdata.svg
