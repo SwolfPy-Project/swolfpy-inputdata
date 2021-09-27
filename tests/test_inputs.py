@@ -27,3 +27,11 @@ def test_all_inputs():
     assert si.Technosphere_Input()
 
     assert si.CommonData()
+
+    assert si.GC_Input()
+
+    assert si.RDF_Input()
+
+    assert si.HC_Input()
+
+    assert si.TS_Input()
