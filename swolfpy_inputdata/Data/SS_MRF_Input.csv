@@ -16,8 +16,6 @@ Recoverable Material: Secondary Sort?,Rec_Sorted_material,Paper_Bags,Additional 
 Recoverable Material: Secondary Sort?,Rec_Sorted_material,Glass_Brown,Additional Separation to Isolate Glass_Brown?,1,0/1 (No/Yes),,,,,,,,"If no glass isl isolated, optical sorter will be turned off"
 Recoverable Material: Secondary Sort?,Rec_Sorted_material,Glass_Green,Additional Separation to Isolate Glass_Green?,1,0/1 (No/Yes),,,,,,,,"If no glass isl isolated, optical sorter will be turned off"
 Recoverable Material: Secondary Sort?,Rec_Sorted_material,Glass_Clear,Additional Separation to Isolate Glass_Clear?,1,0/1 (No/Yes),,,,,,,,"If no glass isl isolated, optical sorter will be turned off"
-Recoverable Material: Secondary Sort?,Rec_Sorted_material,HDPE_Translucent,Additional Separation to Isolate HDPE_Translucent?,1,0/1 (No/Yes),,,,,,,,
-Recoverable Material: Secondary Sort?,Rec_Sorted_material,HDPE_Pigmented,Additional Separation to Isolate HDPE_Pigmented?,1,0/1 (No/Yes),,,,,,,,
 Recoverable Material: Picking Rate,Rec_PickRate,OCC,Picking Rate of OCC,226.76,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1995"
 Recoverable Material: Picking Rate,Rec_PickRate,Non_OCC_Fiber,Picking Rate of Non_OCC_Fiber,226.76,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1996"
 Recoverable Material: Picking Rate,Rec_PickRate,Aluminous,Picking Rate of Aluminous,9.07,kg/(sorter*hr),,,,,,,,"Default rates from Nishtala, 1997"
