@@ -53,7 +53,7 @@ class CommonData(InputData):
                                  'MRDO', 'SSYWDO', 'MSRDO']
 
 # Waste products index
-        self.Waste_Pr_Index = ['Bottom_Ash', 'Fly_Ash', 'Separated_Organics',
+        self.Waste_Pr_Index = ['Bottom_Ash', 'Fly_Ash', 'Unreacted_Ash','Separated_Organics',
                                'Other_Residual', 'Separated_Recyclables', 'RDF']
 
 # all waste_pr_index
