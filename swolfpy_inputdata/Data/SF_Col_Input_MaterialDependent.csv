@@ -1,5 +1,5 @@
 ,Comp,RWC,SSR,DSR,MSR,SSYW,SSO,REC,WetRes,ORG,DryRes,MRDO,SSYWDO,MSRDO,Bulk_Density
-Name,,,,,,,,,,,,,,,
+Description,Comp,RWC,SSR,DSR,MSR,SSYW,SSO,REC,WetRes,ORG,DryRes,MRDO,SSYWDO,MSRDO,Bulk_Density
 Unit,Mg component/Mg,,,,,,,,,,,,,,kg/m3
 Source,,,,,,,,,,,,,,,
 Yard_Trimmings_Leaves,0.045,1,0,0,0,0.95,0.95,0,1,0.95,1,1,0.95,0,500

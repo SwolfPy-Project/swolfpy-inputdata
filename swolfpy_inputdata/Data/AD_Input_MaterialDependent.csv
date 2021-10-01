@@ -1,5 +1,5 @@
-,Assumed_Comp,Percent screened out in primary pre-screening (not sent to reactor),Percent screened out in secondary pre-screening (residual not sent to composting),Percent N emitted during composting,Degrades,VOC emissions during curing,Percent Carbon loss during curing,Percent of L0 reached,Percent of Generated Methane used for Energy,Percent of Generated Methane oxidized,Percent of Generated Methane Emitted,Percent of Generated Methane Flared
-Name,Incoming composition,,,,,VOCperVS,,,,,,
+,Assumed_Comp,Pre Screen 1,Pre Screen 2,N_loss,Degrades,VOC to VS_loss,C_loss,L0 reached,Methane to Energy,Methane Oxidized,Methane Emitted,Methane Flared
+Description,Incoming composition,Percent screened out in primary pre-screening (not sent to reactor),Percent screened out in secondary pre-screening (residual not sent to composting),Percent N emitted during composting,Degrades,VOC emissions per VS loss during curing,Percent Carbon loss during curing,Percent of L0 reached,Percent of Generated Methane used for Energy,Percent of Generated Methane oxidized,Percent of Generated Methane Emitted,Percent of Generated Methane Flared
 Unit,Mg component/Mg,%,%,%,"(1 = Yes, 0 = No)",mg VOC/kg VS loss,%,%,%,%,%,%
 Source,,,,,,"EPA, 2003","EPA, 2003",,LF model,LF model,LF model,LF model
 Yard_Trimmings_Leaves,0.158784731,5,100,0.38,1,4.54,57.2,100,40.4536671,3.855146293,26.94253761,28.74864899

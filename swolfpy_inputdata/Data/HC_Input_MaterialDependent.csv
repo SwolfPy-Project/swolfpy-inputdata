@@ -1,5 +1,5 @@
-,Percent C-loss during composting,Mass VS loss per mass C-loss,Percent N-loss during composting,VOC emissions,Degrades
-Name,,,,,
+,C_loss,VS_loss to C_loss,N_loss,VOC to VS_loss,Degrades
+Description,Percent C-loss during composting,Mass VS loss per mass C-loss,Percent N-loss during composting,VOC emissions per VS loss,Degrades
 Unit,%,kg VS/kg-C,%,mg VOC/kg VS loss,"(1 = Yes, 0 = No)"
 Source,"U.S. EPA, 2003","U.S. EPA, 2003","U.S. EPA, 2003","U.S. EPA, 2003",
 Yard_Trimmings_Leaves,57.2,2,13.9,4.54,1
