@@ -24,6 +24,6 @@ class RDF_Input(InputData):
             CommonDataObjct = CommonData()
 
         if process_data_path is None:
-            process_data_path = Path(__file__).parent / "Data/SS_MRF_Input_MaterialDependent.csv"
+            process_data_path = Path(__file__).parent / "Data/RDF_Input_MaterialDependent.csv"
         self.add_process_data(process_data_path=process_data_path,
                               index=CommonDataObjct.Index)
