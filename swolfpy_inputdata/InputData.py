@@ -48,6 +48,18 @@ class InputData(MC):
                 exec("self.%s[self.Data['Parameter Name'][i]] = dict(zip(self.keys,self.Data.loc[i,'Parameter Description':]))" %
                      self.Data.Dictonary_Name[i])
 
+### Add process data
+    def add_process_data(self, process_data_path, index):
+        self.process_data = pd.read_csv(process_data_path,
+                                        index_col=0,
+                                        header=0,
+                                        skiprows=[1, 2, 3]).loc[index].astype(float)
+        self.process_data.fillna(0, inplace=True)
+        self.process_data_info = pd.read_csv(process_data_path,
+                                             index_col=0,
+                                             header=0,
+                                             nrows=3)
+
 ### Update_Input
     def Update_input(self, NewData):
         """ Get a new DataFrame and update the ``data`` in ``InputData`` class.

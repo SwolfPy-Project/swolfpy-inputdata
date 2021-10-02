@@ -7,11 +7,11 @@ Created on Tue Jan  7 11:11:58 2020
 from .InputData import InputData
 from .CommonData import CommonData
 from pathlib import Path
-import pandas as pd
 
 
 class SS_MRF_Input(InputData):
-    def __init__(self, input_data_path=None, process_name='SS_MRF', CommonDataObjct=None):
+    def __init__(self, input_data_path=None, process_data_path=None,
+                 process_name='SS_MRF', CommonDataObjct=None):
         if input_data_path:
             self.input_data_path = input_data_path
         else:
@@ -23,12 +23,7 @@ class SS_MRF_Input(InputData):
         if not CommonDataObjct:
             CommonDataObjct = CommonData()
 
-        self.process_data = pd.read_csv(Path(__file__).parent / "Data/SS_MRF_Input_MaterialDependent.csv",
-                                        index_col=0,
-                                        header=0,
-                                        skiprows=[1, 2, 3]).loc[CommonDataObjct.Index].astype(float)
-        self.process_data.fillna(0, inplace=True)
-        self.process_data_info = pd.read_csv(Path(__file__).parent / "Data/SS_MRF_Input_MaterialDependent.csv",
-                                             index_col=0,
-                                             header=0,
-                                             nrows=3)
+        if process_data_path is None:
+            process_data_path = Path(__file__).parent / "Data/SS_MRF_Input_MaterialDependent.csv"
+        self.add_process_data(process_data_path=process_data_path,
+                              index=CommonDataObjct.Index)
