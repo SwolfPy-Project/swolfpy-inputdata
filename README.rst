@@ -31,6 +31,10 @@ Input data for swolfpy's life-cycle process models (swolfpy_inputdata)
         :target: https://github.com/SwolfPy-Project/swolfpy-inputdata/actions/workflows/python-app.yml
         :alt: Test
 
+.. image:: https://zenodo.org/badge/395800995.svg
+        :target: https://zenodo.org/badge/latestdoi/395800995
+        :alt: DOE
+
 
 * Free software: GNU GENERAL PUBLIC LICENSE V2
 * Documentation: https://swolfpy.readthedocs.io.
