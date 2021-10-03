@@ -5,7 +5,7 @@ Heat_Steam,MJ,,,Utility_Cost,0,
 Equipment_Diesel,L,,,Fuel_Cost,0.7,USD/L
 Equipment_Gasoline,L,,,Fuel_Cost,0.62,USD/L
 Equipment_LPG,L,,,,,
-Equipment_CNG,,,,,,
+Equipment_CNG,m3,,,,,
 Equipment_Residual_Fuel_Oil,L,,,,,
 Equipment_Distillate,L,,,,,
 Internal_Process_Transportation_Heavy_Duty_Diesel_Truck,kgkm,,,Transportation_Cost,0.00011,USD/kgkm
