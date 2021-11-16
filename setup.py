@@ -14,7 +14,11 @@ requirements = [
 'pandas',
 'xlrd==1.2.0',
 'stats-arrays',
-'jupyter'
+'jupyter',
+"pytest",
+"pytest-cov",
+"pytest-flake8",
+"coverage",
 ]
 
 setup_requirements = [ ]
@@ -62,6 +66,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/SwolfPy-Project/swolfpy-inputdata',
-    version='0.2.1',
+    version='0.2.2',
     zip_safe=False,
 )
