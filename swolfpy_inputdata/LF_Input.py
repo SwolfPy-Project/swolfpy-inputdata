@@ -34,3 +34,5 @@ class LF_Input(InputData):
 
         self.lcht_Alloc = pd.read_csv(Path(__file__).parent / 'Data/LF_Leachate_Allocation.csv',
                                       index_col=0).loc[CommonDataObjct.Index]
+
+        self.GasColPlan = pd.read_csv(Path(__file__).parent / 'Data/LF_GasColPlan.csv', index_col=0)
