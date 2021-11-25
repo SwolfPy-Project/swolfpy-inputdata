@@ -1,12 +1,8 @@
 Parameter Name,Parameter Description,Unit,Typical,Best Case,Worst Case,California
 initColTime,Time until initial gas collection,years,2,0.5,5,1
-initColEff,Initial gas collection efficiency,%,50,50,50,50
 cellFillTime,Cell fill time,years,5,3,5,2
-intColEff,Gas collection efficiency under intermediate cover,%,75,75,75,80
 incColTime,Time to increased gas collection efficiency,years,15,15,15,8
-incColEff,Increased gas collection efficiency,%,82.5,82.5,82.5,85
 timeToFinCover,Time from final waste placement to final cover,years,1,1,1,1
-finColEff,Gas collection efficiency under final cover,%,90,90,90,90
 enrgOn,Energy recovery cuton time,years,,,,
 enrgOff,Energy recovery cutoff time,years,,,,
 flareOn,Flare cuton time,Years,,,,
