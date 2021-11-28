@@ -37,12 +37,10 @@ Input data for swolfpy's life-cycle process models (swolfpy_inputdata)
 
 
 * Free software: GNU GENERAL PUBLIC LICENSE V2
+* Website: https://swolfpy-project.github.io
 * Documentation: https://swolfpy.readthedocs.io.
 * Repository: https://github.com/SwolfPy-Project/swolfpy-inputdata
-* Other links: 
 
-  * https://go.ncsu.edu/swolfpy
-  * https://jwlevis.wixsite.com/swolf
 
 
 Features
