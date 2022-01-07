@@ -21,6 +21,8 @@ from .TS_Input import TS_Input
 from .HC_Input import HC_Input
 from .GC_Input import GC_Input
 from .RDF_Input import RDF_Input
+from .AnF_Input import AnF_Input
+
 
 __all__ = [
     'MC',
@@ -40,6 +42,7 @@ __all__ = [
     'HC_Input',
     'GC_Input',
     'RDF_Input',
+    'AnF_Input'
 ]
 
 __version__ = '0.2.4'
