@@ -33,8 +33,11 @@ Input data for swolfpy's life-cycle process models (swolfpy_inputdata)
 
 .. image:: https://zenodo.org/badge/395800995.svg
         :target: https://zenodo.org/badge/latestdoi/395800995
-        :alt: DOE
-
+        :alt: DOI
+    
+.. image:: https://img.shields.io/badge/JIE%20DOI-10.1111%2Fjiec.13236-blue
+   :target: https://doi.org/10.1111/jiec.13236
+   :alt: JIE DOI
 
 * Free software: GNU GENERAL PUBLIC LICENSE V2
 * Website: https://swolfpy-project.github.io
