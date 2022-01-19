@@ -39,3 +39,5 @@ def test_all_inputs():
     assert si.HC_Input()
 
     assert si.TS_Input()
+
+    assert si.AnF_Input()
