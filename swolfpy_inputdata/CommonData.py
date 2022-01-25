@@ -17,7 +17,7 @@ class CommonData(InputData):
                           'PET', 'HDPE_P', 'HDPE_T', 'LDPE_Film']
 
     # Collection products index
-    Collection_Index = ['RWC', 'SSR', 'DSR', 'MSR', 'LV', 'SSYW', 'SSO',
+    Collection_Index = ['RWC', 'SSR', 'DSR', 'MSR', 'LV', 'SSYW', 'SSO', 'SSO_AnF',
                         'SSO_HC', 'ORG', 'DryRes', 'REC', 'WetRes',
                         'MRDO', 'SSYWDO', 'MSRDO']
 
