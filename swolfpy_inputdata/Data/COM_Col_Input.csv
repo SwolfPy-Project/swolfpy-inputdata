@@ -1,6 +1,6 @@
 Category,Dictonary_Name,Parameter Name,Parameter Description,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
-COM_Collection,Col,comm_gen,Commercial Waste Generation Rate,1678.291769,kg/location-week,,,,,,,,
-COM_Collection,Col,comm_loc,Number of Commercial Collection Locations,1000,locations,,,,,,,,
+COM_Collection,Col,comm_gen,Commercial Waste Generation Rate,1493,kg/location-week,,,,,,,,
+COM_Collection,Col,comm_loc,Number of Commercial Collection Locations,1500,locations,,,,,,,,
 COM_Collection,Col,CD,Number of working days a week,5,days/week,,,,,,,[12],
 COM_Collection,Col,WV,Actual working hours a day,8,hours/vehicle-day,,,,,,,"[5, 11, 12]",
 COM_Collection,Col,WP,Working hours a day for wage,8,hours/person-day,,,,,,,"[5, 11, 12]",
