@@ -1,7 +1,11 @@
 Category,Dictonary_Name,Parameter Name,Parameter Description,amount,unit,uncertainty_type,loc,scale,shape,minimum,maximum,Reference,Comment
-MF_Collection,Col,res_per_dwel,Residents per house,2.69,people/house,,,,,,,,
-MF_Collection,Col,houses_res,Houses in sector,37175,houses/sector,,,,,,,,
-MF_Collection,Col,res_gen,Residential Generation rate,2.05,kg/person-day,,,,,,,,Average for US. EPA report
+MF_Collection,Col,res_per_dwel,Residents per house,2.06,people/house,,,,,,,,
+MF_Collection,Col,houses_res,Houses in sector,121359,houses/sector,,,,,,,,
+MF_Collection,Col,res_gen,Residential Generation rate,1.12,kg/person-day,,,,,,,,
+MF_Collection,Col,Leaf_vacuum,vehicles equipped with leaf vacuums used to collect leaves during one a particular season?,0,0/1 (No/Yes),,,,,,,,
+MF_Collection,Col,Leaf_vacuum_amount,amount of leaves collected by leaf vacuum per year?,500,Mg/year,,,,,,,,
+MF_Collection,Col,LV_serv_pd,"Length of leaf vacuum service period (S.P), weeks",12,weeks,,,,,,,,
+MF_Collection,Col,LV_serv_times,How many times each stop is serviced/S.P.,4,time/stop,,,,,,,,
 MF_Collection,Col,CD,Number of working days a week,5,days/week,,,,,,,[12],
 MF_Collection,Col,WV,Actual working hours a day,8,hours/vehicle-day,,,,,,,"[5, 11, 12]",
 MF_Collection,Col,WP,Working hours a day for wage,8,hours/person-day,,,,,,,"[5, 11, 12]",
