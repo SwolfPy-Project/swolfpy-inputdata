@@ -17,8 +17,8 @@ Collection_Diesel,L,,,,,
 Collection_CNG,L,,,,,
 Collection_Biodiesel,L,,,,,
 Collection_Gasoline_Passenger_Vehicle,L,,,,,
-Empty_Return_Heavy_Duty_Diesel_Truck,vkm,,,Transportation_Cost,0.00006,USD/kgkm
-Empty_Return_Medium_Duty_Diesel_Truck,vkm,,,Transportation_Cost,0.00006,USD/kgkm
+Empty_Return_Heavy_Duty_Diesel_Truck,vkm,,,,,
+Empty_Return_Medium_Duty_Diesel_Truck,vkm,,,,,
 lime_hydrated_loose_weight_RoW_lime_production,kg,,,Material_Cost,,
 ammonia_liquid_RoW_ammonia_production_steam_reforming_liquid,kg,,,Material_Cost,,
 charcoal_GLO_charcoal_production,kg,,,Material_Cost,,
@@ -44,3 +44,4 @@ LF_Emission_Material_used,Mg,,,,,
 Industrial_Residual_Disposal,Mg,,,,,
 Industrial_Wastewater_Treatment,Mg,,,,,
 Industrial_BottomAsh_Disposal,Mg,,,,,
+Feed_Production,kg,,,Material_Cost,0.1,USD/kg

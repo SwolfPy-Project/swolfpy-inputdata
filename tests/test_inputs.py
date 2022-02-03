@@ -24,6 +24,10 @@ def test_all_inputs():
 
     assert si.SF_Col_Input()
 
+    assert si.MF_Col_Input()
+
+    assert si.COM_Col_Input()
+
     assert si.Technosphere_Input()
 
     assert si.CommonData()
@@ -35,3 +39,5 @@ def test_all_inputs():
     assert si.HC_Input()
 
     assert si.TS_Input()
+
+    assert si.AnF_Input()

@@ -15,10 +15,14 @@ from .AD_Input import AD_Input
 from .SS_MRF_Input import SS_MRF_Input
 from .Reproc_Input import Reproc_Input
 from .SF_Col_Input import SF_Col_Input
+from .MF_Col_Input import MF_Col_Input
+from .COM_Col_Input import COM_Col_Input
 from .TS_Input import TS_Input
 from .HC_Input import HC_Input
 from .GC_Input import GC_Input
 from .RDF_Input import RDF_Input
+from .AnF_Input import AnF_Input
+
 
 __all__ = [
     'MC',
@@ -32,10 +36,13 @@ __all__ = [
     'SS_MRF_Input',
     'Reproc_Input',
     'SF_Col_Input',
+    'MF_Col_Input',
+    'COM_Col_Input',
     'TS_Input',
     'HC_Input',
     'GC_Input',
     'RDF_Input',
+    'AnF_Input'
 ]
 
-__version__ = '0.2.3'
+__version__ = '0.2.4'
