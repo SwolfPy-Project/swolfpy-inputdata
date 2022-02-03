@@ -44,4 +44,4 @@ LF_Emission_Material_used,Mg,,,,,
 Industrial_Residual_Disposal,Mg,,,,,
 Industrial_Wastewater_Treatment,Mg,,,,,
 Industrial_BottomAsh_Disposal,Mg,,,,,
-Feed_Production,kg,,,Material_Cost,0.14,USD/kg
+Feed_Production,kg,,,Material_Cost,0.1,USD/kg
