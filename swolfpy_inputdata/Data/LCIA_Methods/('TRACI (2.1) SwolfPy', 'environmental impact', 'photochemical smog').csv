@@ -1,0 +1,129 @@
+key,name,categories,value,unit
+"('biosphere3', '541a823c-0aad-4dc4-9123-d4af4647d942')",1-Pentanol,"('air', 'urban air close to ground')",2.827076923,kg O3 eq/kg
+"('biosphere3', '8cbaa905-41b0-4327-8403-bf1c8eb25429')",1-Pentene,"('air', 'urban air close to ground')",7.207435897,kg O3 eq/kg
+"('biosphere3', 'd5649872-502b-4d23-b882-26d74a9fc4b4')",2-Methyl pentane,"('air', 'urban air close to ground')",1.502284615,kg O3 eq/kg
+"('biosphere3', 'e2d860e3-1038-4386-a5f1-25ad75d18bbd')",2-Methyl-1-propanol,"('air', 'urban air close to ground')",2.508666667,kg O3 eq/kg
+"('biosphere3', '79a87f98-0b00-4e7e-86f8-70667307f696')",2-Methyl-2-butene,"('air', 'urban air close to ground')",14.08402564,kg O3 eq/kg
+"('biosphere3', 'cbf58f64-9286-406f-8dcb-ef1d81eec980')",2-Propanol,"('air', 'urban air close to ground')",0.614205128,kg O3 eq/kg
+"('biosphere3', '9fbec2f4-6b42-4e63-9573-14e04befe20f')",4-Methyl-2-pentanone,"('air', 'urban air close to ground')",3.880794872,kg O3 eq/kg
+"('biosphere3', 'fc9f9a81-c4b9-4dce-bc20-9f04e05ca2f1')",Acetaldehyde,"('air', 'non-urban air or from high stacks')",6.539230769,kg O3 eq/kg
+"('biosphere3', 'e3e8f6a2-c45e-4685-9859-698b2eadaf5b')",Acetaldehyde,"('air',)",6.539230769,kg O3 eq/kg
+"('biosphere3', '5ad58fcc-e9ba-4155-a3c9-e4ffb3065a6f')",Acetaldehyde,"('air', 'urban air close to ground')",6.539230769,kg O3 eq/kg
+"('biosphere3', 'c5cc0625-6e01-4639-b053-5d1d9d22a53c')",Acetic acid,"('air', 'non-urban air or from high stacks')",0.684871795,kg O3 eq/kg
+"('biosphere3', 'd157416d-db9b-4f88-a7f3-a9a5f1ea88f2')",Acetic acid,"('air',)",0.684871795,kg O3 eq/kg
+"('biosphere3', 'b9b68c0c-053e-41de-ab72-8dfe1c3f5755')",Acetic acid,"('air', 'urban air close to ground')",0.684871795,kg O3 eq/kg
+"('biosphere3', '7a2d7097-20c4-4b5f-b2ee-bcfc2ba1378f')",Acetone,"('air', 'non-urban air or from high stacks')",0.355910256,kg O3 eq/kg
+"('biosphere3', 'f3d5fd96-8805-4d3d-867a-5df27975b07f')",Acetone,"('air',)",0.355910256,kg O3 eq/kg
+"('biosphere3', '1f130425-11f9-4ec2-8d2f-d282acaacf5c')",Acetone,"('air', 'urban air close to ground')",0.355910256,kg O3 eq/kg
+"('biosphere3', '12840cef-c3b8-4ef2-b7d4-3a73dbd6a280')",Acrolein,"('air', 'non-urban air or from high stacks')",7.450692308,kg O3 eq/kg
+"('biosphere3', 'd896ced7-a107-4017-b284-d95a8ef3e735')",Acrolein,"('air',)",7.450692308,kg O3 eq/kg
+"('biosphere3', '7ed6dc0d-9c2e-4046-a44b-e8a708c2081e')",Acrolein,"('air', 'urban air close to ground')",7.450692308,kg O3 eq/kg
+"('biosphere3', '5e883a00-04e6-4d96-8dce-12d7117c6635')",Benzene,"('air', 'non-urban air or from high stacks')",0.720728205,kg O3 eq/kg
+"('biosphere3', '28999907-a8a7-45b3-857e-836495ca2aa0')",Benzene,"('air',)",0.720728205,kg O3 eq/kg
+"('biosphere3', '1bb6a502-3ff9-4a79-835c-5588b855f1f5')",Benzene,"('air', 'urban air close to ground')",0.720728205,kg O3 eq/kg
+"('biosphere3', 'e0e605c8-370b-4b5a-b6d4-2e7a5a1a6709')","Benzene, ethyl-","('air', 'non-urban air or from high stacks')",3.037769231,kg O3 eq/kg
+"('biosphere3', '88ef28f1-cfd5-44a0-ac34-01acf2db84a0')","Benzene, ethyl-","('air',)",3.037769231,kg O3 eq/kg
+"('biosphere3', '7c09916a-b6b5-47f5-bdf6-30d2511beb82')","Benzene, ethyl-","('air', 'urban air close to ground')",3.037769231,kg O3 eq/kg
+"('biosphere3', '8a970585-5ce2-4226-b60d-df1c34649a56')",Butadiene,"('air', 'non-urban air or from high stacks')",12.61210256,kg O3 eq/kg
+"('biosphere3', '5064da53-d4ec-44ee-ba23-b20a4f8c4964')",Butadiene,"('air',)",12.61210256,kg O3 eq/kg
+"('biosphere3', 'e7140812-ce3d-49f5-97b0-2fef538217a5')",Butadiene,"('air', 'urban air close to ground')",12.61210256,kg O3 eq/kg
+"('biosphere3', 'fa5512cf-04a2-4014-8e96-d3e2d137f0df')",Butane,"('air', 'non-urban air or from high stacks')",1.151030769,kg O3 eq/kg
+"('biosphere3', '982b0510-96ac-4bcb-a758-e98006b95f4d')",Butane,"('air',)",1.151030769,kg O3 eq/kg
+"('biosphere3', '892f10da-7bf2-42b3-b171-221989661a05')",Butane,"('air', 'urban air close to ground')",1.151030769,kg O3 eq/kg
+"('biosphere3', 'efc4290c-1404-4e01-8b5e-e75c6d90615c')",Butanol,"('air', 'urban air close to ground')",2.880410256,kg O3 eq/kg
+"('biosphere3', '099b36ab-4c03-4587-87f4-2f81e337afb8')","Carbon monoxide, fossil","('air', 'non-urban air or from high stacks')",0.055622308,kg O3 eq/kg
+"('biosphere3', 'ba2f3f82-c93a-47a5-822a-37ec97495275')","Carbon monoxide, fossil","('air',)",0.055622308,kg O3 eq/kg
+"('biosphere3', '6edcc2df-88a3-48e1-83d8-ffc38d31c35b')","Carbon monoxide, fossil","('air', 'urban air close to ground')",0.055622308,kg O3 eq/kg
+"('biosphere3', 'b821ad93-ba6a-4d74-b6ae-ca12cd9563d7')","Carbon monoxide, non-fossil","('air', 'non-urban air or from high stacks')",0.055622308,kg O3 eq/kg
+"('biosphere3', '2cb2333c-1599-46cf-8435-3dffce627524')","Carbon monoxide, non-fossil","('air',)",0.055622308,kg O3 eq/kg
+"('biosphere3', '9afa0173-ecbd-4f2c-9c5c-b3128a032812')","Carbon monoxide, non-fossil","('air', 'urban air close to ground')",0.055622308,kg O3 eq/kg
+"('biosphere3', '1a796dc4-5dcb-40da-a609-3a5a40655fad')",Cumene,"('air', 'non-urban air or from high stacks')",2.515538462,kg O3 eq/kg
+"('biosphere3', 'a192f5ac-fb5d-4e14-ac11-3c38283da9d0')",Cumene,"('air',)",2.515538462,kg O3 eq/kg
+"('biosphere3', '35c746fb-2d4a-4d06-9955-1973ce67b74e')",Cumene,"('air', 'urban air close to ground')",2.515538462,kg O3 eq/kg
+"('biosphere3', '5512f026-b3a9-419a-b787-c0be0b39be1c')",Cyclohexane,"('air', 'urban air close to ground')",1.250128205,kg O3 eq/kg
+"('biosphere3', '89951b1a-9b6b-4bc7-82fc-6fc263e91936')",Diethyl ether,"('air', 'urban air close to ground')",3.756717949,kg O3 eq/kg
+"('biosphere3', 'd439867e-7ef9-41aa-91e2-de8a922f9158')",Diethylene glycol,"('air', 'urban air close to ground')",3.354641026,kg O3 eq/kg
+"('biosphere3', 'edf9fe90-37ee-4d8b-af9b-2e959422abfd')",Dimethylamine,"('air', 'urban air close to ground')",3.173097436,kg O3 eq/kg
+"('biosphere3', 'e7e0031e-791d-42f4-b26c-ec322db637bc')",Ethane,"('air', 'non-urban air or from high stacks')",0.280646154,kg O3 eq/kg
+"('biosphere3', '8e30c990-5ed4-4f94-9d0e-2f5e4ff1a1f9')",Ethane,"('air',)",0.280646154,kg O3 eq/kg
+"('biosphere3', '9ea11aea-7cb7-4b38-b936-a42c2a4bac97')",Ethane,"('air', 'urban air close to ground')",0.280646154,kg O3 eq/kg
+"('biosphere3', '99585564-bfce-4845-9aaa-2f24b8f26a41')","Ethane, 1,1,1-trichloro-, HCFC-140","('air', 'non-urban air or from high stacks')",0.004879744,kg O3 eq/kg
+"('biosphere3', 'ce6294f5-2ed7-46ee-a967-33e265e34455')","Ethane, 1,1,1-trichloro-, HCFC-140","('air',)",0.004879744,kg O3 eq/kg
+"('biosphere3', '0d3ccb17-b3fe-4c08-b7cb-458ed3ababf1')",Ethanol,"('air', 'non-urban air or from high stacks')",1.525694872,kg O3 eq/kg
+"('biosphere3', 'd3f5d0b9-0155-4800-9dbb-b0583948c8c6')",Ethanol,"('air',)",1.525694872,kg O3 eq/kg
+"('biosphere3', '379a827c-3290-4810-9689-b9e892945836')",Ethanol,"('air', 'urban air close to ground')",1.525694872,kg O3 eq/kg
+"('biosphere3', '87f683ed-44ae-41a6-b4bc-230622f8cfef')",Ethene,"('air', 'non-urban air or from high stacks')",8.995025641,kg O3 eq/kg
+"('biosphere3', '9c2a7dc9-8b1f-46ba-bc16-0d761a4f6016')",Ethene,"('air',)",8.995025641,kg O3 eq/kg
+"('biosphere3', '36270548-9316-424b-9aeb-e0de134b0be1')",Ethene,"('air', 'urban air close to ground')",8.995025641,kg O3 eq/kg
+"('biosphere3', '754028fd-e650-4804-922e-694a764ba578')","Ethene, tetrachloro-","('air', 'non-urban air or from high stacks')",0.030845128,kg O3 eq/kg
+"('biosphere3', '9bc66656-9f37-44bc-ae0b-5d5243b8137e')","Ethene, tetrachloro-","('air',)",0.030845128,kg O3 eq/kg
+"('biosphere3', 'd2d4b344-3c58-4b0c-868a-ac0bdb2027dc')","Ethene, tetrachloro-","('air', 'urban air close to ground')",0.030845128,kg O3 eq/kg
+"('biosphere3', '41cce80a-82c1-4caa-b6ef-718ec4b83fd6')",Ethyl acetate,"('air', 'urban air close to ground')",0.626125641,kg O3 eq/kg
+"('biosphere3', '4569028c-d2d9-4937-bd92-44a6c72e2b1b')",Ethylamine,"('air', 'urban air close to ground')",5.781384615,kg O3 eq/kg
+"('biosphere3', 'ffa34df1-d949-48e3-b602-183eee5df605')",Ethylene glycol monoethyl ether,"('air', 'urban air close to ground')",3.709512821,kg O3 eq/kg
+"('biosphere3', '43a411aa-8f29-4744-bc56-1deaa8105338')",Ethylene oxide,"('air', 'non-urban air or from high stacks')",0.039169487,kg O3 eq/kg
+"('biosphere3', '4407dc37-09ec-4d52-b65a-9c3f0a88306d')",Ethylene oxide,"('air',)",0.039169487,kg O3 eq/kg
+"('biosphere3', '4446c2d0-1bc1-422f-9b97-0867d5602dbb')",Ethylene oxide,"('air', 'urban air close to ground')",0.039169487,kg O3 eq/kg
+"('biosphere3', 'e64254e3-07d3-4330-b6de-6a858f108124')",Ethyne,"('air', 'non-urban air or from high stacks')",0.954366667,kg O3 eq/kg
+"('biosphere3', '42a2f3e7-5393-4a69-9b0b-f70a9139ee24')",Ethyne,"('air',)",0.954366667,kg O3 eq/kg
+"('biosphere3', '1a13d6e7-45c9-427a-a3c9-38887ce7b86a')",Ethyne,"('air', 'urban air close to ground')",0.954366667,kg O3 eq/kg
+"('biosphere3', '9167dca7-615e-435c-8ba6-dbbf50e50e34')",Formaldehyde,"('air', 'non-urban air or from high stacks')",9.455846154,kg O3 eq/kg
+"('biosphere3', 'a861cfae-a310-4e9d-b9eb-5d555c9a684c')",Formaldehyde,"('air',)",9.455846154,kg O3 eq/kg
+"('biosphere3', '20664d0e-24e3-4daa-8c5c-2ade6e0c2723')",Formaldehyde,"('air', 'urban air close to ground')",9.455846154,kg O3 eq/kg
+"('biosphere3', 'e7f7fd97-a1c8-4be9-8a21-68ef06437d20')",Formic acid,"('air', 'non-urban air or from high stacks')",0.065995128,kg O3 eq/kg
+"('biosphere3', '2cbe35d9-052c-4fe8-8eb2-08769f10b2c7')",Formic acid,"('air', 'urban air close to ground')",0.065995128,kg O3 eq/kg
+"('biosphere3', '142ce3b0-4bd6-47a3-9991-7c657c947ffe')",Furan,"('air', 'non-urban air or from high stacks')",9.149615385,kg O3 eq/kg
+"('biosphere3', '284d6491-de2c-4124-95db-7732cbb5136c')",Furan,"('air',)",9.149615385,kg O3 eq/kg
+"('biosphere3', 'f4bb66f1-c78c-409f-8368-85c1205a3573')",Heptane,"('air', 'urban air close to ground')",1.074415385,kg O3 eq/kg
+"('biosphere3', '41067ac7-bf36-47ef-a19f-683d9b758a28')",Hexane,"('air', 'non-urban air or from high stacks')",1.24385641,kg O3 eq/kg
+"('biosphere3', '6b248529-b754-4be7-8b1a-91b9756fc2bc')",Hexane,"('air',)",1.24385641,kg O3 eq/kg
+"('biosphere3', '3bbc78d0-08c4-48ef-a863-704e32fddcb3')",Hexane,"('air', 'urban air close to ground')",1.24385641,kg O3 eq/kg
+"('biosphere3', 'bf633941-aa40-4c37-b361-b5cbfb1089f5')",Isoprene,"('air', 'non-urban air or from high stacks')",10.60682051,kg O3 eq/kg
+"('biosphere3', '0c209634-80bb-4909-8442-3189b7cb01d7')",Isoprene,"('air',)",10.60682051,kg O3 eq/kg
+"('biosphere3', '8c283de2-50d3-40c8-8bff-1e172c3398f8')","Methane, bromo-, Halon 1001","('air',)",0.018715641,kg O3 eq/kg
+"('biosphere3', 'd4b61c6c-a620-4a91-afc6-ca87ef97b55a')","Methane, dichloro-, HCC-30","('air', 'non-urban air or from high stacks')",0.041429231,kg O3 eq/kg
+"('biosphere3', '2716807d-0266-48ff-bb7a-6e6c5fbfd5c5')","Methane, dichloro-, HCC-30","('air', 'urban air close to ground')",0.041429231,kg O3 eq/kg
+"('biosphere3', '70ef743b-3ed5-4a6d-b192-fb6d62378555')","Methane, fossil","('air', 'non-urban air or from high stacks')",0.014379487,kg O3 eq/kg
+"('biosphere3', '0795345f-c7ae-410c-ad25-1845784c75f5')","Methane, fossil","('air',)",0.014379487,kg O3 eq/kg
+"('biosphere3', '5f7aad3d-566c-4d0d-ad59-e765f971aa0f')","Methane, fossil","('air', 'urban air close to ground')",0.014379487,kg O3 eq/kg
+"('biosphere3', '57bdb443-d4a6-423d-8024-959b8261d02e')","Methane, non-fossil","('air', 'non-urban air or from high stacks')",0.014379487,kg O3 eq/kg
+"('biosphere3', 'da1157e2-7593-4dfd-80dd-a3449b37a4d8')","Methane, non-fossil","('air',)",0.014379487,kg O3 eq/kg
+"('biosphere3', 'baf58fc9-573c-419c-8c16-831ac03203b9')","Methane, non-fossil","('air', 'urban air close to ground')",0.014379487,kg O3 eq/kg
+"('biosphere3', '1d2439de-751b-469a-ba3e-fda8fe9802b2')",Methanol,"('air', 'non-urban air or from high stacks')",0.672335897,kg O3 eq/kg
+"('biosphere3', '0ebdb68a-f50d-4b0c-ad4b-3a1104d8b454')",Methanol,"('air',)",0.672335897,kg O3 eq/kg
+"('biosphere3', 'f873299d-0675-4fdc-ad01-c5a4b951b583')",Methanol,"('air', 'urban air close to ground')",0.672335897,kg O3 eq/kg
+"('biosphere3', 'ef06f2a4-4b8c-4740-9e06-0c2126d1839a')",Methyl acetate,"('air', 'urban air close to ground')",0.072001538,kg O3 eq/kg
+"('biosphere3', 'a71b27f2-3bcb-4bcc-a0c6-b6a123f0b42e')",Methyl formate,"('air', 'urban air close to ground')",0.056999487,kg O3 eq/kg
+"('biosphere3', '80ef64e4-312c-485a-be3d-30856adc0c11')",Methyl lactate,"('air', 'urban air close to ground')",2.673564103,kg O3 eq/kg
+"('biosphere3', 'cfdbc576-e8dc-44ef-bdf2-ddd7009ce57e')",m-Xylene,"('air',)",9.750333333,kg O3 eq/kg
+"('biosphere3', '10571d92-ea97-4ac6-adb6-b25893a631cb')",m-Xylene,"('air', 'urban air close to ground')",9.750333333,kg O3 eq/kg
+"('biosphere3', '1753af55-cfa1-4fb2-a059-33594a759982')",Nitrobenzene,"('air', 'urban air close to ground')",0.056462308,kg O3 eq/kg
+"('biosphere3', '77357947-ccc5-438e-9996-95e65e1e1bce')",Nitrogen oxides,"('air', 'non-urban air or from high stacks')",24.79358974,kg O3 eq/kg
+"('biosphere3', 'c1b91234-6f24-417b-8309-46111d09c457')",Nitrogen oxides,"('air',)",24.79358974,kg O3 eq/kg
+"('biosphere3', 'd068f3e2-b033-417b-a359-ca4f25da9731')",Nitrogen oxides,"('air', 'urban air close to ground')",24.79358974,kg O3 eq/kg
+"('biosphere3', '5a6eb27d-9157-46d5-be32-92bbd543ada9')",o-Xylene,"('air', 'urban air close to ground')",7.640128205,kg O3 eq/kg
+"('biosphere3', '2f052025-4072-4d8e-b22d-68d50bfb260c')",Pentane,"('air', 'non-urban air or from high stacks')",1.312930769,kg O3 eq/kg
+"('biosphere3', '516606eb-99f6-4e8c-b99a-6b439aaed48c')",Pentane,"('air',)",1.312930769,kg O3 eq/kg
+"('biosphere3', '0b9698ec-8b52-4986-8f9f-ad30915aa00c')",Pentane,"('air', 'urban air close to ground')",1.312930769,kg O3 eq/kg
+"('biosphere3', '63974d2c-11f3-45eb-be9c-726261b04d85')",Phenol,"('air', 'non-urban air or from high stacks')",2.756487179,kg O3 eq/kg
+"('biosphere3', '5896c761-4e02-4573-8747-c4bbf73162c0')",Phenol,"('air',)",2.756487179,kg O3 eq/kg
+"('biosphere3', 'd761d96f-d236-4131-89c8-ad3269d02a6b')",Phenol,"('air', 'urban air close to ground')",2.756487179,kg O3 eq/kg
+"('biosphere3', '9beb60a3-3a8c-4345-9a0e-107eec2f709f')",Propane,"('air', 'non-urban air or from high stacks')",0.489458974,kg O3 eq/kg
+"('biosphere3', '3a6c936c-0276-4f11-9d98-1bd011387a6e')",Propane,"('air',)",0.489458974,kg O3 eq/kg
+"('biosphere3', '98c66fdb-091d-46e9-a533-686f821e8f6a')",Propane,"('air', 'urban air close to ground')",0.489458974,kg O3 eq/kg
+"('biosphere3', '4a6af581-af93-4d79-9f45-a5c43f463bbb')",Propanol,"('air', 'urban air close to ground')",2.497358974,kg O3 eq/kg
+"('biosphere3', '23856318-9583-426b-ab04-12e4506b60a8')",Propene,"('air', 'non-urban air or from high stacks')",11.66471795,kg O3 eq/kg
+"('biosphere3', '64165202-4870-47d0-8602-b85e5d672865')",Propene,"('air',)",11.66471795,kg O3 eq/kg
+"('biosphere3', 'ada09403-d5f2-4496-9201-a6dcca0b1717')",Propene,"('air', 'urban air close to ground')",11.66471795,kg O3 eq/kg
+"('biosphere3', '0f907765-2a94-48a8-8978-55a2757d3e24')",Propionic acid,"('air', 'non-urban air or from high stacks')",1.223110256,kg O3 eq/kg
+"('biosphere3', 'a1ecc854-a399-4b01-bae2-3a88b12ed44f')",Propionic acid,"('air',)",1.223110256,kg O3 eq/kg
+"('biosphere3', 'f1c0cd31-8d5e-4bc9-91f6-79e76329234e')",Propionic acid,"('air', 'urban air close to ground')",1.223110256,kg O3 eq/kg
+"('biosphere3', 'f276d4ca-b1ad-4575-9442-e35b5e3b618b')",Propylene oxide,"('air', 'urban air close to ground')",0.293989744,kg O3 eq/kg
+"('biosphere3', '2d456fb8-592b-46a7-97f0-81fc2a18e587')",Styrene,"('air', 'non-urban air or from high stacks')",1.732928205,kg O3 eq/kg
+"('biosphere3', '9cec94a2-e7fe-43f4-82f4-293c477f86dc')",Styrene,"('air',)",1.732928205,kg O3 eq/kg
+"('biosphere3', 'd85a44cb-8407-4997-a146-581e4f35f39d')",Styrene,"('air', 'urban air close to ground')",1.732928205,kg O3 eq/kg
+"('biosphere3', 'a793710a-1990-4e65-a95e-cfbbc5332355')",t-Butyl methyl ether,"('air', 'urban air close to ground')",0.734448718,kg O3 eq/kg
+"('biosphere3', '77f17646-cede-4a49-99dd-55950098b077')",Toluene,"('air', 'non-urban air or from high stacks')",4.004717949,kg O3 eq/kg
+"('biosphere3', '3b1ecf8e-1d2c-4330-81da-a79f9068976d')",Toluene,"('air',)",4.004717949,kg O3 eq/kg
+"('biosphere3', '39946c56-cdf6-4a22-9ac9-1cd333b65533')",Toluene,"('air', 'urban air close to ground')",4.004717949,kg O3 eq/kg
+"('biosphere3', '37d7d60d-3682-4da4-aa64-99c51b5d524b')",Trimethylamine,"('air', 'urban air close to ground')",6.315641026,kg O3 eq/kg
