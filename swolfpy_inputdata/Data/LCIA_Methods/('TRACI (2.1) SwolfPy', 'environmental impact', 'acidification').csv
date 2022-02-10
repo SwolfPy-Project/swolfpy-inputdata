@@ -1,48 +1,48 @@
 key,name,categories,value,unit
-"('biosphere3', 'b00950bc-99cb-4ee2-bbc0-5f878ea170c3')",Sulfur trioxide,"('air', 'urban air close to ground')",0.8,kg SO2 eq/kg
-"('biosphere3', '48430c70-95e0-4036-9854-72cc772ac8b2')",Sulfur trioxide,"('air', 'non-urban air or from high stacks')",0.8,kg SO2 eq/kg
-"('biosphere3', 'aeb3e625-906a-4993-9f02-785f8cfd1ea5')",Sulfur trioxide,"('air', 'lower stratosphere + upper troposphere')",0.8,kg SO2 eq/kg
-"('biosphere3', '3268d8df-59cc-4740-a89f-dee8355ad7c3')",Sulfur trioxide,"('air',)",0.8,kg SO2 eq/kg
-"('biosphere3', '13825fb9-6e24-409a-bfcd-5dc4fd61ef98')",Sulfur trioxide,"('air', 'low population density, long-term')",0.8,kg SO2 eq/kg
-"('biosphere3', '7ecc2b66-8dde-4266-8832-f492f564377b')",Sulfuric acid,"('air', 'urban air close to ground')",0.65,kg SO2 eq/kg
-"('biosphere3', '99c65c6a-6871-40ba-af79-5bd6851688e4')",Sulfuric acid,"('air',)",0.65,kg SO2 eq/kg
-"('biosphere3', '5c9d8310-f7e1-4e98-8e73-7eece0435676')",Sulfuric acid,"('air', 'non-urban air or from high stacks')",0.65,kg SO2 eq/kg
-"('biosphere3', '51f0e6bf-5824-4247-a0f0-7766035da159')",Sulfuric acid,"('air', 'low population density, long-term')",0.65,kg SO2 eq/kg
-"('biosphere3', '3caec0e2-2d07-4463-abae-bef6a0d4bbdb')",Sulfuric acid,"('air', 'lower stratosphere + upper troposphere')",0.65,kg SO2 eq/kg
-"('biosphere3', 'ba5fc0b6-770b-4da1-9b3f-e3b5087f07cd')",Sulfur oxides,"('air',)",1,kg SO2 eq/kg
-"('biosphere3', '6ce44f77-d181-4396-8fa2-2276eeeb4c08')",Sulfur dioxide,"('air', 'low population density, long-term')",1,kg SO2 eq/kg
-"('biosphere3', '16521d00-4b6f-464f-b5dd-8da4a27b15ca')",Sulfur dioxide,"('air', 'lower stratosphere + upper troposphere')",1,kg SO2 eq/kg
-"('biosphere3', '8c52f40c-69b7-4538-8923-b371523c71f5')",Sulfur dioxide,"('air', 'urban air close to ground')",1,kg SO2 eq/kg
-"('biosphere3', '78c3efe4-421c-4d30-82e4-b97ac5124993')",Sulfur dioxide,"('air', 'non-urban air or from high stacks')",1,kg SO2 eq/kg
-"('biosphere3', 'fd7aa71c-508c-480d-81a6-8052aad92646')",Sulfur dioxide,"('air',)",1,kg SO2 eq/kg
-"('biosphere3', '5d0058e0-ad1b-4c15-b0ff-a665bb04154f')",Phosphoric acid,"('air', 'urban air close to ground')",0.98,kg SO2 eq/kg
-"('biosphere3', '2257e9f9-f38c-494b-b99f-f49b4768b4b9')",Phosphoric acid,"('air',)",0.98,kg SO2 eq/kg
-"('biosphere3', 'b0c3054b-6d71-42b1-8575-704c4d049180')",Phosphoric acid,"('air', 'non-urban air or from high stacks')",0.98,kg SO2 eq/kg
-"('biosphere3', '13d2fabe-9282-4905-9dfc-5c859022835c')",Phosphoric acid,"('air', 'lower stratosphere + upper troposphere')",0.98,kg SO2 eq/kg
-"('biosphere3', 'bcac684a-8868-4cd3-9063-3275dc831f91')",Phosphoric acid,"('air', 'low population density, long-term')",0.98,kg SO2 eq/kg
-"('biosphere3', '77357947-ccc5-438e-9996-95e65e1e1bce')",Nitrogen oxides,"('air', 'non-urban air or from high stacks')",0.7,kg SO2 eq/kg
-"('biosphere3', 'c1b91234-6f24-417b-8309-46111d09c457')",Nitrogen oxides,"('air',)",0.7,kg SO2 eq/kg
-"('biosphere3', 'd068f3e2-b033-417b-a359-ca4f25da9731')",Nitrogen oxides,"('air', 'urban air close to ground')",0.7,kg SO2 eq/kg
-"('biosphere3', '9115356e-a534-4329-9ec6-d9208720241b')",Nitrogen oxides,"('air', 'low population density, long-term')",0.7,kg SO2 eq/kg
-"('biosphere3', '4841a0fe-c250-4a39-94a1-1bc31426c0f1')",Nitrogen oxides,"('air', 'lower stratosphere + upper troposphere')",0.7,kg SO2 eq/kg
-"('biosphere3', '17f7e776-7934-54af-8c3c-ed0247cb697b')",Nitric oxide,"('air',)",1.07,kg SO2 eq/kg
-"('biosphere3', 'e3cfaa07-9b68-4461-a06f-a0e4e59d41d3')",Hydrogen sulfide,"('air', 'urban air close to ground')",1.88,kg SO2 eq/kg
-"('biosphere3', '59281544-7c5a-4101-a972-10118e8df6aa')",Hydrogen sulfide,"('air', 'lower stratosphere + upper troposphere')",1.88,kg SO2 eq/kg
-"('biosphere3', '20d4d821-f4f7-4017-8810-f822fcdf619e')",Hydrogen sulfide,"('air',)",1.88,kg SO2 eq/kg
-"('biosphere3', '0b0ea9d1-9c54-4e23-bcfc-1b8fc2cf0358')",Hydrogen sulfide,"('air', 'non-urban air or from high stacks')",1.88,kg SO2 eq/kg
-"('biosphere3', 'a2d4ebed-c96c-47c9-b469-018dd1ae58ce')",Hydrogen sulfide,"('air', 'low population density, long-term')",1.88,kg SO2 eq/kg
-"('biosphere3', 'ac15536a-92f5-48d7-9560-cba0ca43b526')",Hydrogen fluoride,"('air', 'low population density, long-term')",1.6,kg SO2 eq/kg
-"('biosphere3', '8b7dc667-f04e-492c-a161-80b1482126b0')",Hydrogen fluoride,"('air', 'non-urban air or from high stacks')",1.6,kg SO2 eq/kg
-"('biosphere3', '257eacb9-96fe-4a3d-961a-f5e6c7823ff0')",Hydrogen fluoride,"('air', 'urban air close to ground')",1.6,kg SO2 eq/kg
-"('biosphere3', 'b1689d22-7f6d-432c-8948-13d8f6df8a27')",Hydrogen fluoride,"('air', 'lower stratosphere + upper troposphere')",1.6,kg SO2 eq/kg
-"('biosphere3', '24541c8c-9f11-49ae-9de5-456f238a3f5e')",Hydrogen fluoride,"('air',)",1.6,kg SO2 eq/kg
-"('biosphere3', '50f3bc1e-fafc-44a2-9800-4468d8c3b643')",Hydrogen chloride,"('air', 'lower stratosphere + upper troposphere')",0.88,kg SO2 eq/kg
-"('biosphere3', '68e32537-beae-41c2-be72-74df4d273c11')",Hydrogen chloride,"('air', 'non-urban air or from high stacks')",0.88,kg SO2 eq/kg
-"('biosphere3', 'afcbd980-14c2-4e1d-a0aa-5f6464e5c76b')",Hydrogen chloride,"('air', 'urban air close to ground')",0.88,kg SO2 eq/kg
-"('biosphere3', '97178ead-47ba-406f-bd68-27d5fc6aa6f8')",Hydrogen chloride,"('air', 'low population density, long-term')",0.88,kg SO2 eq/kg
-"('biosphere3', 'c941d6d0-a56c-4e6c-95de-ac685635218d')",Hydrogen chloride,"('air',)",0.88,kg SO2 eq/kg
-"('biosphere3', '9990b51b-7023-4700-bca0-1a32ef921f74')",Ammonia,"('air', 'urban air close to ground')",1.88,kg SO2 eq/kg
-"('biosphere3', '87883a4e-1e3e-4c9d-90c0-f1bea36f8014')",Ammonia,"('air',)",1.88,kg SO2 eq/kg
-"('biosphere3', '8494ed3c-0416-4aa5-b100-51a2b2bcadbd')",Ammonia,"('air', 'lower stratosphere + upper troposphere')",1.88,kg SO2 eq/kg
-"('biosphere3', '2b50f643-216a-412b-a0e5-5946867aa2ed')",Ammonia,"('air', 'low population density, long-term')",1.88,kg SO2 eq/kg
-"('biosphere3', '0f440cc0-0f74-446d-99d6-8ff0e97a2444')",Ammonia,"('air', 'non-urban air or from high stacks')",1.88,kg SO2 eq/kg
+"('biosphere3', 'b00950bc-99cb-4ee2-bbc0-5f878ea170c3')",Sulfur trioxide,"('air', 'urban air close to ground')",0.8,kg SO2 eq
+"('biosphere3', '48430c70-95e0-4036-9854-72cc772ac8b2')",Sulfur trioxide,"('air', 'non-urban air or from high stacks')",0.8,kg SO2 eq
+"('biosphere3', 'aeb3e625-906a-4993-9f02-785f8cfd1ea5')",Sulfur trioxide,"('air', 'lower stratosphere + upper troposphere')",0.8,kg SO2 eq
+"('biosphere3', '3268d8df-59cc-4740-a89f-dee8355ad7c3')",Sulfur trioxide,"('air',)",0.8,kg SO2 eq
+"('biosphere3', '13825fb9-6e24-409a-bfcd-5dc4fd61ef98')",Sulfur trioxide,"('air', 'low population density, long-term')",0.8,kg SO2 eq
+"('biosphere3', '7ecc2b66-8dde-4266-8832-f492f564377b')",Sulfuric acid,"('air', 'urban air close to ground')",0.65,kg SO2 eq
+"('biosphere3', '99c65c6a-6871-40ba-af79-5bd6851688e4')",Sulfuric acid,"('air',)",0.65,kg SO2 eq
+"('biosphere3', '5c9d8310-f7e1-4e98-8e73-7eece0435676')",Sulfuric acid,"('air', 'non-urban air or from high stacks')",0.65,kg SO2 eq
+"('biosphere3', '51f0e6bf-5824-4247-a0f0-7766035da159')",Sulfuric acid,"('air', 'low population density, long-term')",0.65,kg SO2 eq
+"('biosphere3', '3caec0e2-2d07-4463-abae-bef6a0d4bbdb')",Sulfuric acid,"('air', 'lower stratosphere + upper troposphere')",0.65,kg SO2 eq
+"('biosphere3', 'ba5fc0b6-770b-4da1-9b3f-e3b5087f07cd')",Sulfur oxides,"('air',)",1,kg SO2 eq
+"('biosphere3', '6ce44f77-d181-4396-8fa2-2276eeeb4c08')",Sulfur dioxide,"('air', 'low population density, long-term')",1,kg SO2 eq
+"('biosphere3', '16521d00-4b6f-464f-b5dd-8da4a27b15ca')",Sulfur dioxide,"('air', 'lower stratosphere + upper troposphere')",1,kg SO2 eq
+"('biosphere3', '8c52f40c-69b7-4538-8923-b371523c71f5')",Sulfur dioxide,"('air', 'urban air close to ground')",1,kg SO2 eq
+"('biosphere3', '78c3efe4-421c-4d30-82e4-b97ac5124993')",Sulfur dioxide,"('air', 'non-urban air or from high stacks')",1,kg SO2 eq
+"('biosphere3', 'fd7aa71c-508c-480d-81a6-8052aad92646')",Sulfur dioxide,"('air',)",1,kg SO2 eq
+"('biosphere3', '5d0058e0-ad1b-4c15-b0ff-a665bb04154f')",Phosphoric acid,"('air', 'urban air close to ground')",0.98,kg SO2 eq
+"('biosphere3', '2257e9f9-f38c-494b-b99f-f49b4768b4b9')",Phosphoric acid,"('air',)",0.98,kg SO2 eq
+"('biosphere3', 'b0c3054b-6d71-42b1-8575-704c4d049180')",Phosphoric acid,"('air', 'non-urban air or from high stacks')",0.98,kg SO2 eq
+"('biosphere3', '13d2fabe-9282-4905-9dfc-5c859022835c')",Phosphoric acid,"('air', 'lower stratosphere + upper troposphere')",0.98,kg SO2 eq
+"('biosphere3', 'bcac684a-8868-4cd3-9063-3275dc831f91')",Phosphoric acid,"('air', 'low population density, long-term')",0.98,kg SO2 eq
+"('biosphere3', '77357947-ccc5-438e-9996-95e65e1e1bce')",Nitrogen oxides,"('air', 'non-urban air or from high stacks')",0.7,kg SO2 eq
+"('biosphere3', 'c1b91234-6f24-417b-8309-46111d09c457')",Nitrogen oxides,"('air',)",0.7,kg SO2 eq
+"('biosphere3', 'd068f3e2-b033-417b-a359-ca4f25da9731')",Nitrogen oxides,"('air', 'urban air close to ground')",0.7,kg SO2 eq
+"('biosphere3', '9115356e-a534-4329-9ec6-d9208720241b')",Nitrogen oxides,"('air', 'low population density, long-term')",0.7,kg SO2 eq
+"('biosphere3', '4841a0fe-c250-4a39-94a1-1bc31426c0f1')",Nitrogen oxides,"('air', 'lower stratosphere + upper troposphere')",0.7,kg SO2 eq
+"('biosphere3', '17f7e776-7934-54af-8c3c-ed0247cb697b')",Nitric oxide,"('air',)",1.07,kg SO2 eq
+"('biosphere3', 'e3cfaa07-9b68-4461-a06f-a0e4e59d41d3')",Hydrogen sulfide,"('air', 'urban air close to ground')",1.88,kg SO2 eq
+"('biosphere3', '59281544-7c5a-4101-a972-10118e8df6aa')",Hydrogen sulfide,"('air', 'lower stratosphere + upper troposphere')",1.88,kg SO2 eq
+"('biosphere3', '20d4d821-f4f7-4017-8810-f822fcdf619e')",Hydrogen sulfide,"('air',)",1.88,kg SO2 eq
+"('biosphere3', '0b0ea9d1-9c54-4e23-bcfc-1b8fc2cf0358')",Hydrogen sulfide,"('air', 'non-urban air or from high stacks')",1.88,kg SO2 eq
+"('biosphere3', 'a2d4ebed-c96c-47c9-b469-018dd1ae58ce')",Hydrogen sulfide,"('air', 'low population density, long-term')",1.88,kg SO2 eq
+"('biosphere3', 'ac15536a-92f5-48d7-9560-cba0ca43b526')",Hydrogen fluoride,"('air', 'low population density, long-term')",1.6,kg SO2 eq
+"('biosphere3', '8b7dc667-f04e-492c-a161-80b1482126b0')",Hydrogen fluoride,"('air', 'non-urban air or from high stacks')",1.6,kg SO2 eq
+"('biosphere3', '257eacb9-96fe-4a3d-961a-f5e6c7823ff0')",Hydrogen fluoride,"('air', 'urban air close to ground')",1.6,kg SO2 eq
+"('biosphere3', 'b1689d22-7f6d-432c-8948-13d8f6df8a27')",Hydrogen fluoride,"('air', 'lower stratosphere + upper troposphere')",1.6,kg SO2 eq
+"('biosphere3', '24541c8c-9f11-49ae-9de5-456f238a3f5e')",Hydrogen fluoride,"('air',)",1.6,kg SO2 eq
+"('biosphere3', '50f3bc1e-fafc-44a2-9800-4468d8c3b643')",Hydrogen chloride,"('air', 'lower stratosphere + upper troposphere')",0.88,kg SO2 eq
+"('biosphere3', '68e32537-beae-41c2-be72-74df4d273c11')",Hydrogen chloride,"('air', 'non-urban air or from high stacks')",0.88,kg SO2 eq
+"('biosphere3', 'afcbd980-14c2-4e1d-a0aa-5f6464e5c76b')",Hydrogen chloride,"('air', 'urban air close to ground')",0.88,kg SO2 eq
+"('biosphere3', '97178ead-47ba-406f-bd68-27d5fc6aa6f8')",Hydrogen chloride,"('air', 'low population density, long-term')",0.88,kg SO2 eq
+"('biosphere3', 'c941d6d0-a56c-4e6c-95de-ac685635218d')",Hydrogen chloride,"('air',)",0.88,kg SO2 eq
+"('biosphere3', '9990b51b-7023-4700-bca0-1a32ef921f74')",Ammonia,"('air', 'urban air close to ground')",1.88,kg SO2 eq
+"('biosphere3', '87883a4e-1e3e-4c9d-90c0-f1bea36f8014')",Ammonia,"('air',)",1.88,kg SO2 eq
+"('biosphere3', '8494ed3c-0416-4aa5-b100-51a2b2bcadbd')",Ammonia,"('air', 'lower stratosphere + upper troposphere')",1.88,kg SO2 eq
+"('biosphere3', '2b50f643-216a-412b-a0e5-5946867aa2ed')",Ammonia,"('air', 'low population density, long-term')",1.88,kg SO2 eq
+"('biosphere3', '0f440cc0-0f74-446d-99d6-8ff0e97a2444')",Ammonia,"('air', 'non-urban air or from high stacks')",1.88,kg SO2 eq
