@@ -4,11 +4,11 @@ Created on Mon Sep  2 15:49:46 2019
 
 @author: msardar2
 """
-from stats_arrays import MCRandomNumberGenerator, UncertaintyBase
 import numpy as np
+from stats_arrays import MCRandomNumberGenerator, UncertaintyBase
 
 
-class MC():
+class MC:
     """
     .. _Class_MC:
 
@@ -54,14 +54,14 @@ class MC():
      (('Cat1', 'Par2'), 1.9366617123732333)]
 
     """
+
     def __init__(self, input_dict, process_name):
-        """ Initialize ``MC`` class
-        """
+        """Initialize ``MC`` class"""
         self.input_dict = input_dict
         self.process_name = process_name
 
     def setup_MC(self, seed=None):
-        """ Creates `MCRandomNumberGenerator` and store it in ``MC.rand`` attribute
+        """Creates `MCRandomNumberGenerator` and store it in ``MC.rand`` attribute
 
         :param seed: seed for random number generation
         :type seed: int, optional
@@ -74,9 +74,9 @@ class MC():
         for x in self.input_dict.values():
             for y in x:
                 self.list_var.append(x[y])
-                if 'list' in x[y].keys():
-                    self.sens_analysis[k] = x[y]['list']
-                    self.max_run = min(self.max_run, len(x[y]['list']))
+                if "list" in x[y].keys():
+                    self.sens_analysis[k] = x[y]["list"]
+                    self.max_run = min(self.max_run, len(x[y]["list"]))
                 k += 1
         self.Vars = UncertaintyBase.from_dicts(*self.list_var)
         self.rand = MCRandomNumberGenerator(self.Vars, seed=seed)
@@ -93,16 +93,17 @@ class MC():
                 data[x] = self.sens_analysis[x][self.run_index]
             self.run_index += 1
             if self.run_index > self.max_run:
-                raise ValueError('Number of runs are more than the number of defined inputs')
+                raise ValueError("Number of runs are more than the number of defined inputs")
         i = 0
         variables = []
         for x in self.input_dict.keys():
             for y in self.input_dict[x]:
                 if not np.isnan(data[i]):
-                    self.input_dict[x][y]['amount'] = data[i]
+                    self.input_dict[x][y]["amount"] = data[i]
                     variables.append(((self.process_name, x, y), data[i]))
                 i += 1
-        return(variables)
+        return variables
+
 
 # =============================================================================
 #     def create_uncertainty_from_inputs(self,sheet_name,process_data,seed=None):

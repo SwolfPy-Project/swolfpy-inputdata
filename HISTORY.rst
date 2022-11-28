@@ -17,13 +17,13 @@ History
 0.2.1 (2021-10-02)
 ------------------
 
-* New models: Gasification & Syngas combustion (GC), Refuse-Derived Fuel (RDF), Home composting (HC) 
+* New models: Gasification & Syngas combustion (GC), Refuse-Derived Fuel (RDF), Home composting (HC)
 
 
 0.1.9 (2021-05-10)
 ------------------
 
-* Life cycle cost, input data for TS, References 
+* Life cycle cost, input data for TS, References
 
 
 0.1.0 (2020-05-06)
