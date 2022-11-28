@@ -1,0 +1,76 @@
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+    -   id: trailing-whitespace
+    -   id: end-of-file-fixer
+    -   id: check-yaml
+    -   id: check-json
+    -   id: check-toml
+    -   id: debug-statements
+    -   id: pretty-format-json
+    -   id: check-merge-conflict
+
+-   repo: https://github.com/pycqa/isort
+    rev: 5.10.1
+    hooks:
+    -   id: isort
+
+-   repo: https://github.com/asottile/blacken-docs
+    rev: v1.12.1
+    hooks:
+    -   id: blacken-docs
+
+-   repo: https://github.com/psf/black
+    rev: 22.10.0
+    hooks:
+    -   id: black
+        args: [
+            --safe,
+            --config=pyproject.toml,
+        ]
+
+-   repo: local
+    hooks:
+    -   id: pylint
+        name: pylint
+        entry: pylint
+        language: system
+        types: [python]
+        args: [
+            swolfpy_inputdata,
+            tests,
+            -rn,
+            -sn,
+            --rcfile=pyproject.toml,
+            --fail-on=I
+        ]
+
+    -   id: pylint-all-files
+        name: pylint-all-files
+        entry: pylint
+        language: system
+        types: [python]
+        always_run: true
+        args: [
+            swolfpy_inputdata,
+            tests,
+            -rn,
+            -sn,
+            --rcfile=pyproject.toml,
+            --fail-on=I
+        ]
+
+    -   id: pytest
+        name: pytest
+        entry: pytest
+        language: system
+        always_run: true
+        verbose: true
+        args: [
+            --cov=swolfpy_inputdata,
+            --cov-report:xml,
+            --junitxml:test_report.xml,
+            ./tests,
+            -n=1,
+        ]
