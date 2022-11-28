@@ -1,9 +1,8 @@
-stats-arrays
-xlrd
 pandas
+xlrd==1.2.0
+stats-arrays
 jupyter
 pytest
 pytest-cov
 pytest-flake8
 coverage
-
