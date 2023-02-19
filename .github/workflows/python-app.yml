@@ -33,4 +33,5 @@ jobs:
 
     - name: Pre-Commit
       run: |
+        git fetch origin master
         pre-commit run --from-ref origin/master --to-ref HEAD --show-diff-on-failure
