@@ -33,4 +33,4 @@ jobs:
 
     - name: Pre-Commit
       run: |
-        pre-commit run --from-ref origin/master --too-ref HEAD --show-diff-on-failure
+        pre-commit run --from-ref origin/master --to-ref HEAD --show-diff-on-failure
