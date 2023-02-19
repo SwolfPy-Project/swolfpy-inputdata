@@ -12,17 +12,27 @@ repos:
     -   id: check-merge-conflict
 
 -   repo: https://github.com/pycqa/isort
-    rev: 5.10.1
+    rev: 5.12.0
     hooks:
     -   id: isort
 
--   repo: https://github.com/asottile/blacken-docs
-    rev: v1.12.1
+
+-   repo: https://github.com/pycqa/docformatter
+    rev: v1.5.1
     hooks:
-    -   id: blacken-docs
+    -   id: docformatter
+        args: [
+            --in-place,
+            --make-summary-multi-line,
+            --close-quotes-on-newline ,
+            --pre-summary-newline,
+            --recursive,
+            --wrap-summaries=90,
+            --wrap-descriptions=90,
+        ]
 
 -   repo: https://github.com/psf/black
-    rev: 22.10.0
+    rev: 23.1.0
     hooks:
     -   id: black
         args: [
@@ -35,42 +45,21 @@ repos:
     -   id: pylint
         name: pylint
         entry: pylint
-        language: system
-        types: [python]
-        args: [
-            swolfpy_inputdata,
-            tests,
-            -rn,
-            -sn,
-            --rcfile=pyproject.toml,
-            --fail-on=I
-        ]
-
-    -   id: pylint-all-files
-        name: pylint-all-files
-        entry: pylint
-        language: system
+        language: python
         types: [python]
         always_run: true
         args: [
             swolfpy_inputdata,
             tests,
-            -rn,
-            -sn,
             --rcfile=pyproject.toml,
-            --fail-on=I
+            -rn, # Only display messages
+            -sn, # Don't display the score
         ]
 
     -   id: pytest
         name: pytest
         entry: pytest
-        language: system
-        always_run: true
+        language: python
         verbose: true
-        args: [
-            --cov=swolfpy_inputdata,
-            --cov-report:xml,
-            --junitxml:test_report.xml,
-            ./tests,
-            -n=1,
-        ]
+        pass_filenames: false
+        always_run: true
