@@ -115,7 +115,7 @@ Installation
 
 3- Create a new environment for swolfpy::
 
-        conda create --name swolfpy python=3.7
+        conda create --name swolfpy python=3.9
 
 4- Activate the environment::
 
