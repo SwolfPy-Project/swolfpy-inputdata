@@ -2,6 +2,7 @@ coverage
 jupyter
 pandas
 pre-commit
+pylint
 pytest
 pytest-cov
 pytest-flake8
