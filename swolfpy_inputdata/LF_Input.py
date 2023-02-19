@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 16 16:26:54 2019
-
-@author: msardar2
-"""
 import ast
 from pathlib import Path
 

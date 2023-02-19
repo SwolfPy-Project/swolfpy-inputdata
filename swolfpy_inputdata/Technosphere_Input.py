@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 22 11:16:05 2019
-
-@author: msardar2
-"""
 from pathlib import Path
 
 import pandas as pd
@@ -11,7 +5,6 @@ import pandas as pd
 
 class Technosphere_Input:
     def __init__(self, LCI_path=None, LCI_Reference_path=None, Ecospold2_Path=None):
-
         # Checking the path for technosphere LCI data and writing the technophere database
         if LCI_path:
             self.technosphere_path = LCI_path

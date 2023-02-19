@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 27 12:25:05 2019
-
-@author: msardar2
-"""
 from pathlib import Path
 
 from .CommonData import CommonData

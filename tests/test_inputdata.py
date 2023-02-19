@@ -1,6 +1,7 @@
-#!/usr/bin/env python
 
-"""Tests for `swolfpy_inputdata` package."""
+"""
+Tests for `swolfpy_inputdata` package.
+"""
 
 from copy import deepcopy
 from pathlib import Path

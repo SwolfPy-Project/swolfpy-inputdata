@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul  1 20:05:32 2019
-
-@author: msardar2
-"""
 from pathlib import Path
 
 import pandas as pd

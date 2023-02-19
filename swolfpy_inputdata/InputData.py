@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 21 20:45:14 2020
-
-@author: msmsa
-"""
 import ast
 
 import pandas as pd
@@ -13,20 +7,22 @@ from .MC import MC
 
 class InputData(MC):
     """
-    ``InputData`` class reads the input data from the csv file and load them as class attributes. This class is inherited from the ``MC`` class.
+    ``InputData`` class reads the input data from the csv file and load them as class
+    attributes. This class is inherited from the ``MC`` class.
 
     Main functionalities include:
-    loading data, updating data and generating random number for data based on the defined probabiliy distributions.
+    loading data, updating data and generating random number for data based on the defined probability distributions.
 
     :param input_data_path: absolute path to the input data file
     :type input_data_path: str
-    :param eval_parameter: If the parameters are tuple instead of str, it will evalute their real value.
+    :param eval_parameter: If the parameters are tuple instead of str, it will evaluate their real value.
     :type eval_parameter: bool, optional
-
     """
 
     def __init__(self, input_data_path, process_name, eval_parameter=False):
-        """Initialize ``InputData`` class"""
+        """
+        Initialize ``InputData`` class.
+        """
         self.input_data_path = input_data_path
         self.process_name = process_name
         self.Data = pd.read_csv(
@@ -78,7 +74,8 @@ class InputData(MC):
 
     ### Update_Input
     def Update_input(self, NewData):
-        """Get a new DataFrame and update the ``data`` in ``InputData`` class.
+        """
+        Get a new DataFrame and update the ``data`` in ``InputData`` class.
 
         :param NewData:
         :type NewData: 'pandas.DataFrame'
@@ -92,8 +89,9 @@ class InputData(MC):
 
     ### Monte_carlo
     def setup_MC(self, seed=None):
-        """Initialize the parent class (``MC``) and create ``MCRandomNumberGenerator`` based on the data for uncertainty distributions via
-        calling ``MC.setupMC()`` method.
+        """
+        Initialize the parent class (``MC``) and create ``MCRandomNumberGenerator`` based
+        on the data for uncertainty distributions via calling ``MC.setupMC()`` method.
 
         :param seed: seed for random number generation
         :type seed: int, optional
