@@ -1,4 +1,3 @@
-
 """
 Tests for `swolfpy_inputdata` package.
 """

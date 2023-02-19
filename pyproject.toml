@@ -309,4 +309,5 @@ disable = [
   "consider-using-dict-items",
   "too-many-branches",
   "super-init-not-called",
+  "missing-module-docstring"
 ]
