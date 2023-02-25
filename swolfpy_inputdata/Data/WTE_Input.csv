@@ -2,7 +2,7 @@ Category,Dictonary_Name,Parameter Name,Parameter Description,amount,unit,uncerta
 Economic_parameters,Economic_parameters,WTE_lifetime,WTE Lifetime,20,years,,,,,,,[3],
 Economic_parameters,Economic_parameters,Capital_cost,Capital cost,520,$/design Mg per year,,,,,,,[3],
 Economic_parameters,Economic_parameters,O_M_cost,O&M cost except utility cost/income,40,$/Mg processed,,,,,,,[3],
-Economic_parameters,Economic_parameters,Inerest_rate,Inerest_rate,0.035,-,,,,,,,[3],
+Economic_parameters,Economic_parameters,Interest_rate,Interest_rate,0.035,-,,,,,,,[3],
 Elec_Prod_Eff,Elec_Prod_Eff,Gross_Efficiency,Gross Efficiency of electricity production,0.27,fraction,,,,,,,[3],
 Elec_Prod_Eff,Elec_Prod_Eff,Internal_use,Fraction of produced electricity used internally,0.15,fraction,,,,,,,[3],
 Elec_Prod_Eff,Elec_Prod_Eff,Heat_prod_Eff,Heat Production Efficiency,0,fraction,,,,,,,[3],
