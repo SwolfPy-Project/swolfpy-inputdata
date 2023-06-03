@@ -2,8 +2,16 @@
 History
 =======
 
+1.0.0 (2023-06-03)
+------------------
+
+* Upgrade to Python 3.10
+* Add PreCommit
+
+
 0.2.4 (2022-04-05)
 ------------------
+
 * Add Multi-family and commercial Waste collection
 * Add Animal feed production (AnF)
 
