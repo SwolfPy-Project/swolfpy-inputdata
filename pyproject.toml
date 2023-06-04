@@ -52,8 +52,8 @@ include-package-data = true
 
 [tool.setuptools.package-data]
 package_input_data = [
-    "Data/*.csv",
-    "Data/LCIA_Methods/*.csv",
+    "data/*.csv",
+    "data/lcia_methods/*.csv",
     ]
 
 [tool.black]
