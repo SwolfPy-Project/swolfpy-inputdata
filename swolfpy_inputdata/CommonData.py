@@ -111,7 +111,7 @@ class CommonData(InputData):
         if input_data_path:
             self.input_data_path = input_data_path
         else:
-            self.input_data_path = Path(__file__).parent / "Data/CommonData.csv"
+            self.input_data_path = Path(__file__).parent / "data/CommonData.csv"
 
         # Initialize the superclass
         super().__init__(self.input_data_path, process_name)
@@ -119,7 +119,7 @@ class CommonData(InputData):
         ### Read Material properties
         self.Material_Properties = (
             pd.read_csv(
-                Path(__file__).parent / "Data/Material properties.csv",
+                Path(__file__).parent / "data/Material properties.csv",
                 index_col=0,
                 header=0,
                 skiprows=[1, 2, 3],
@@ -129,5 +129,5 @@ class CommonData(InputData):
         )
         self.Material_Properties.fillna(0, inplace=True)
         self.Material_Properties_Info = pd.read_csv(
-            Path(__file__).parent / "Data/Material properties.csv", index_col=0, header=0, nrows=3
+            Path(__file__).parent / "data/Material properties.csv", index_col=0, header=0, nrows=3
         )

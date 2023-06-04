@@ -9,7 +9,7 @@ class TS_Input(InputData):
         if input_data_path:
             self.input_data_path = input_data_path
         else:
-            self.input_data_path = Path(__file__).parent / "Data/TS_Input.csv"
+            self.input_data_path = Path(__file__).parent / "data/TS_Input.csv"
 
         # Initialize the superclass
         super().__init__(self.input_data_path, process_name)

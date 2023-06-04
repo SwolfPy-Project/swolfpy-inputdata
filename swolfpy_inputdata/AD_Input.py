@@ -11,7 +11,7 @@ class AD_Input(InputData):
         if input_data_path:
             self.input_data_path = input_data_path
         else:
-            self.input_data_path = Path(__file__).parent / "Data/AD_Input.csv"
+            self.input_data_path = Path(__file__).parent / "data/AD_Input.csv"
         # Initialize the superclass
         super().__init__(self.input_data_path, process_name)
 
@@ -19,5 +19,5 @@ class AD_Input(InputData):
             CommonDataObjct = CommonData()
 
         if process_data_path is None:
-            process_data_path = Path(__file__).parent / "Data/AD_Input_MaterialDependent.csv"
+            process_data_path = Path(__file__).parent / "data/AD_Input_MaterialDependent.csv"
         self.add_process_data(process_data_path=process_data_path, index=CommonDataObjct.Index)
