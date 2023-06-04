@@ -1,9 +1,10 @@
-stats-arrays
-xlrd
-pandas
+coverage
 jupyter
+pandas
+pre-commit
+pylint
 pytest
 pytest-cov
 pytest-flake8
-coverage
-
+stats-arrays
+xlrd==1.2.0

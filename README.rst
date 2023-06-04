@@ -6,7 +6,7 @@ Input data for swolfpy's life-cycle process models (swolfpy_inputdata)
 
 .. image:: https://img.shields.io/pypi/v/swolfpy_inputdata.svg
         :target: https://pypi.python.org/pypi/swolfpy_inputdata
-        
+
 .. image:: https://img.shields.io/pypi/pyversions/swolfpy_inputdata.svg
     :target: https://pypi.org/project/swolfpy_inputdata/
     :alt: Supported Python Versions
@@ -23,6 +23,12 @@ Input data for swolfpy's life-cycle process models (swolfpy_inputdata)
     :target: https://pypi.org/project/swolfpy_inputdata/
     :alt: Format
 
+.. image:: https://img.shields.io/badge/linting-pylint-yellowgreen
+    :target: https://github.com/PyCQA/pylint
+
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+    :target: https://github.com/ambv/black
+
 .. image:: https://readthedocs.org/projects/swolfpy/badge/?version=latest
         :target: https://swolfpy.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
@@ -34,7 +40,7 @@ Input data for swolfpy's life-cycle process models (swolfpy_inputdata)
 .. image:: https://zenodo.org/badge/395800995.svg
         :target: https://zenodo.org/badge/latestdoi/395800995
         :alt: DOI
-    
+
 .. image:: https://img.shields.io/badge/JIE%20DOI-10.1111%2Fjiec.13236-blue
    :target: https://doi.org/10.1111/jiec.13236
    :alt: JIE DOI
@@ -50,14 +56,14 @@ Features
 --------
 * Input data for Life-cycle process models of swolfpy
 
-  * Common data (e.g., molecular weights, heating values) 
+  * Common data (e.g., molecular weights, heating values)
   * Material properties (46 common waste fractions; e.g., Food waste, Yard waste)
-  
+
     * Chemical properties (e.g., carbon content, methane yield)
-    * Physical properties (e.g., moisture content, density) 
-  * Material dependent process model inputs (e.g., separation efficiency for each waste fraction in the trommel) 
+    * Physical properties (e.g., moisture content, density)
+  * Material dependent process model inputs (e.g., separation efficiency for each waste fraction in the trommel)
   * Material indepent process model inputs
-  
+
 * Built-in Monte Carlo simulation
 
 
@@ -65,7 +71,7 @@ Features
    :widths: auto
    :header-rows: 1
 
-   * - Field 
+   * - Field
      - Description
    * - Category
      - Category of the input (e.g., energy recovery, post closure)
@@ -86,16 +92,16 @@ Features
    * - scale
      - Standard deviation for lognormal and normal distribution
    * - shape
-     - Shape parameter for Weibull, Gamma or Beta distributions     
+     - Shape parameter for Weibull, Gamma or Beta distributions
    * - Minimum
      - Lower bound/minimum for lognormal, normal, uniform, triangular, and discrete uniform distributions
    * - maximum
      - Upper bound/maximum for lognormal, normal, uniform, triangular, and discrete uniform distributions
    * - Reference
-     - 
+     -
    * - Comment
      -
-     
+
 
 .. Installation
 
@@ -109,7 +115,7 @@ Installation
 
 3- Create a new environment for swolfpy::
 
-        conda create --name swolfpy python=3.7
+        conda create --name swolfpy python=3.10
 
 4- Activate the environment::
 
@@ -121,7 +127,7 @@ Installation
 
 6- Use in python (e.g., Landfill model)::
 
-        import swolfpy_inputdata as spid 
+        import swolfpy_inputdata as spid
         data = spid.LF_Input()
         model.calc()
         #Example: Returs the actk parameter in landfill

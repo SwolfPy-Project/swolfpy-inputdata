@@ -12,6 +12,6 @@ Material_Properties,Material_Properties,densFC,Density of final compost,700,kg/m
 Compost_use,Compost_use,choice_BU,Offset Beneficial Use of Compost? (0=no; 1=yes),1,None,,,,,,,,
 Compost_use,Compost_use,peatOff,Soil amendment offset peat (1) or no (0),1,None,,,,,,,,
 Compost_use,Compost_use,fertOff,Soil amendment offset fertilizer (1) or no (0),1,None,,,,,,,,
-Economic_parameters,Economic_parameters,Inerest_rate,Annual Interest Rate,0.035,-,,,,,,,,
+Economic_parameters,Economic_parameters,Interest_rate,Annual Interest Rate,0.035,-,,,,,,,,
 Economic_parameters,Economic_parameters,lifetime,Composter useful life,12,years,,,,,,,,
 Economic_parameters,Economic_parameters,comp_cost,Composter cost,100,$,,,,,,,,

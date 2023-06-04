@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  8 00:12:49 2020
-
-@author: msmsa
-"""
 import swolfpy_inputdata as si
 
 
